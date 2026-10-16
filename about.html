@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Industriaz - HTML 5 Template Preview</title>
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="src/output.css">
+
+    <!-- google-font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Jost:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+</head>
+
+
+<!-- page wrapper -->
+
+<body>
+
+    <div class="boxed_wrapper">
+
+        <!-- preloader -->
+        <div id="preloader" class="fixed inset-0 bg-white z-99999999 flex items-center justify-center">
+            <div class="text-center">
+                <div
+                    class="w-24 h-24 border-4 border-secondary-color border-t-white rounded-full animate-spin mx-auto mb-4">
+                </div>
+                <p id="preloader-text" class="text-xl font-semibold text-title-color">0%</p>
+            </div>
+        </div>
+        <!-- preloader end -->
+
+
+        <!-- rtl toggle switch -->
+        <!-- <button id="rtlToggle" class="fixed top-1/2 left-0 z-999 -mt-10 flex items-center justify-center h-8 w-8 leading-8 text-center bg-theme-color cursor-pointer text-[14px] text-black font-medium uppercase"><span class="inline-block rtl:hidden">RTL</span><span class="hidden rtl:inline-block">Ltr</span></button> -->
+        <!-- rtl toggle switch end -->
+
+
+        <!-- dark-mode-switch -->
+        <div class="mode-switch fixed top-1/2 left-0 z-999">
+            <button id="darkToggle"
+                class="relative flex items-center justify-center h-8 w-8 leading-8 text-center bg-theme-color cursor-pointer">
+                <svg class="w-5 h-5 dark:hidden" fill="#000000" stroke-linejoin="round" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                        d="M10.5 0.25V1V1.5H11L11.75 1.5V3H11H10.5V3.5V4.25H9V3.5V3H8.5H7.75V1.5H8.5H9V1V0.25H10.5ZM3.25514 2.75496C2.33413 3.53491 1.75 4.69972 1.75 6C1.75 8.34721 3.65279 10.25 6 10.25C7.30029 10.25 8.4651 9.66587 9.24505 8.74485C9.16377 8.74827 9.08207 8.74999 9 8.74999C5.82436 8.74999 3.25 6.17563 3.25 2.99999C3.25 2.91792 3.25172 2.83623 3.25514 2.75496ZM0.25 6C0.25 3.51072 1.83142 1.39271 4.042 0.592193L5.00256 1.55275C4.83933 2.00347 4.75 2.49047 4.75 2.99999C4.75 5.3472 6.65279 7.24999 9 7.24999C9.50953 7.24999 9.99653 7.16065 10.4473 6.99743L11.4078 7.95798C10.6073 10.1686 8.48929 11.75 6 11.75C2.82436 11.75 0.25 9.17564 0.25 6Z"
+                        fill="#000000" transform="translate(2.25, 2.25)"></path>
+                </svg>
+
+                <svg class="w-5 h-5 hidden dark:inline-block" fill="#000" viewBox="0 0 16 16" data-testid="light-icon"
+                    stroke-linejoin="round">
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                        d="M7.75 1V0.25H6.25V1V1.25V2H7.75V1.25V1ZM7 9C8.10457 9 9 8.10457 9 7C9 5.89543 8.10457 5 7 5C5.89543 5 5 5.89543 5 7C5 8.10457 5.89543 9 7 9ZM7 10.5C8.933 10.5 10.5 8.933 10.5 7C10.5 5.067 8.933 3.5 7 3.5C5.067 3.5 3.5 5.067 3.5 7C3.5 8.933 5.067 10.5 7 10.5ZM7.75 12V12.75V13V13.75H6.25V13V12.75V12H7.75ZM12 6.25H12.75H13H13.75V7.75H13H12.75H12V6.25ZM1 6.25H0.25V7.75H1H1.25H2V6.25H1.25H1ZM10.0052 2.93414L10.5355 2.40381L10.7123 2.22703L11.2426 1.6967L12.3033 2.75736L11.773 3.28769L11.5962 3.46447L11.0659 3.9948L10.0052 2.93414ZM2.22703 10.7123L1.6967 11.2426L2.75736 12.3033L3.28769 11.773L3.46447 11.5962L3.9948 11.0659L2.93414 10.0052L2.40381 10.5355L2.22703 10.7123ZM2.93414 3.9948L2.40381 3.46447L2.22703 3.28769L1.6967 2.75736L2.75736 1.6967L3.28769 2.22703L3.46447 2.40381L3.9948 2.93414L2.93414 3.9948ZM10.7123 11.773L11.2426 12.3033L12.3033 11.2426L11.773 10.7123L11.5962 10.5355L11.0659 10.0052L10.0052 11.0659L10.5355 11.5962L10.7123 11.773Z"
+                        fill="#000000" transform="translate(1.25, 1.25)"></path>
+                </svg>
+            </button>
+        </div>
+
+
+        <!-- main header -->
+        <header class="main-header absolute left-0 top-14 pl-[15px] pr-[15px] w-full z-99999">
+
+            <div
+                class="header-lower relative max-w-[1730px] mx-auto w-full bg-white dark:bg-black rounded-[100px] px-[17px] py-[17px] xl:pl-10 pr-[17px] rtl:pl-[17px] xl:rtl:pr-10">
+                <div class="relative sm:flex items-center justify-between">
+                    <div class="flex items-center justify-between 2xl:gap-12 gap-12">
+                        <div class="header-logo">
+                            <figure class="logo-box flex dark:hidden">
+                                <a href="index.html" class="relative inline-block"><img src="assets/images/logo.png"
+                                        alt=""></a>
+                            </figure>
+                            <figure class="logo-box hidden dark:flex">
+                                <a href="index.html" class="relative inline-block"><img src="assets/images/logo-2.png"
+                                        alt=""></a>
+                            </figure>
+                        </div>
+                        <div class="menu-area">
+                            <!--Mobile Navigation Toggler-->
+                            <div class="mobile-nav-toggler relative lg:hidden w-[50px] block p-2.5 h-9 cursor-pointer">
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                            </div>
+                            <nav class="main-menu navbar-expand-md navbar-light hidden lg:block">
+                                <div class="navbar-collapse show clearfix">
+                                    <ul class="navigation sm:flex items-center">
+                                        <li class="lg:inline-block">
+                                            <a href="index.html" class="nav-link">Home</a>
+                                        </li>
+                                        <li class="lg:inline-block">
+                                            <a href="about.html" class="nav-link current">About</a>
+                                        </li>
+                                        <li class="lg:inline-block">
+                                            <a href="presence.html" class="nav-link">Presence</a>
+                                        </li>
+                                        <li class="lg:inline-block">
+                                            <a href="service.html" class="nav-link">Services</a>
+                                        </li>
+                                        <li class="lg:inline-block">
+                                            <a href="product-category.html" class="nav-link">Products</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="menu-right-content relative sm:flex gap-3 items-center hidden">
+                        <a href="contact.html"
+                            class="text-[15px] xl:inline-block hidden leading-6 font-special-font font-bold uppercase bg-theme-color rounded-4xl text-title-color px-7 py-[13px] hover:bg-secondary-color hover:text-white dark:hover:bg-white dark:hover:text-theme-color">get
+                            in touch</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- sticky-header -->
+            <div class="sticky-header">
+                <div class="container-layout">
+                    <div class="relative flex items-center justify-between pt-3.5 pb-3.5">
+                        <figure class="logo-box block dark:hidden relative xl:pt-0 pt-[15px] xl:pb-0 pb-[15px]">
+                            <a href="index.html" class="relative inline-block"><img src="assets/images/logo.png"
+                                    alt=""></a>
+                        </figure>
+                        <figure class="logo-box hidden dark:block relative xl:pt-0 pt-[15px] xl:pb-0 pb-[15px]">
+                            <a href="index.html" class="relative inline-block"><img src="assets/images/logo-2.png"
+                                    alt=""></a>
+                        </figure>
+                        <div class="menu-area">
+                            <div
+                                class="mobile-nav-toggler relative lg:hidden w-[50px] block p-[10px] h-[36px] cursor-pointer">
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                            </div>
+                            <nav class="main-menu navbar-expand-md navbar-light hidden lg:block">
+                                <!--Keep This Empty / Menu will come through Javascript-->
+                            </nav>
+                        </div>
+                        <div class="menu-right-content relative sm:flex gap-3 items-center hidden">
+                            <a href="contact.html"
+                                class="text-[15px] xl:inline-block hidden leading-6 font-special-font font-bold uppercase bg-theme-color rounded-4xl text-title-color px-7 py-[13px] hover:bg-secondary-color hover:text-white dark:hover:bg-white dark:hover:text-theme-color">get
+                                in touch</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- main-header end -->
+
+
+        <!-- mobile-menu -->
+        <div class="mobile-menu [.mobile-menu-visible_&]:opacity-100 [.mobile-menu-visible_&]:visible fixed right-0 top-0 w-96 pr-[30px] max-w-full h-full opacity-0 invisible z-[999999] duration-700"
+            data-lenis-prevent="true">
+            <div
+                class="menu-backdrop fixed left-0 top-0 rtl:left-[inherit] rtl:right-0 w-full pr-[30px] max-w-full h-full z-10 bg-black duration-700 transition-all [.mobile-menu-visible_&]:opacity-70 [.mobile-menu-visible_&]:visible [.mobile-menu-visible_&]:right-full [.mobile-menu-visible_&]:ease-out rtl:[.mobile-menu-visible_&]:right-0">
+            </div>
+            <nav
+                class="menu-box absolute pt-7 left-0 top-0 w-full h-full max-h-full overflow-y-auto bg-secondary-color z-50 opacity-0 invisible duration-700 transition-all ease-in-out translate-x-full [.mobile-menu-visible_&]:opacity-100 [.mobile-menu-visible_&]:visible [.mobile-menu-visible_&]:translate-x-0">
+
+                <div class="mobile-menu-logo flex items-center justify-between relative pt-3 pb-16 pl-7 pr-7">
+                    <a href="index.html"><img src="assets/images/logo-2.png" alt="" title=""></a>
+                    <div class="close-btn group z-10 cursor-pointer"><svg id="fi_6583137"
+                            enable-background="new 0 0 48 48" height="30" viewBox="0 0 48 48" width="30"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="m32.5 33c.4.4.4 1 0 1.4-.2.2-.5.3-.7.3s-.5-.1-.7-.3l-8.4-8.4-8.4 8.4c-.2.2-.5.3-.7.3s-.5-.1-.7-.3c-.4-.4-.4-1 0-1.4l8.4-8.4-8.4-8.4c-.4-.4-.4-1 0-1.4s1-.4 1.4 0l8.4 8.4 8.4-8.4c.4-.4 1-.4 1.4 0s.4 1 0 1.4l-8.4 8.4z"
+                                fill="#ffffff" stroke="#ffffff"
+                                class="group-hover:fill-theme-color group-hover:stroke-theme-color duration-500" />
+                        </svg></div>
+                </div>
+
+                <div class="menu-inner">
+                    <ul class="relative block w-full border-b border-[rgba(255,255,255,0.1)]">
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a href="index.html"
+                                class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                    href="index.html"
+                                    class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">Home</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a href="about.html"
+                                class="relative current block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13  ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">About</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                href="presence.html"
+                                class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                    href="presence.html"
+                                    class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">Presence</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                href="service.html"
+                                class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                    href="service.html"
+                                    class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">Services</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                href="product-category.html"
+                                class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                    href="product-category.html"
+                                    class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">Products</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                href="contact.html"
+                                class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in">Contact
+                                Us</a></li>
+                    </ul>
+                </div>
+
+                <!-- contact-info -->
+                <div class="contact-info relative pt-28 pb-7 pl-7 pr-7">
+                    <h4 class="text-[20px] leading-7 font-bold text-white mb-5">Contact Info</h4>
+                    <ul>
+                        <li class="mb-3 block text-white opacity-80">Chicago 12, Melborne City, USA</li>
+                        <li class="mb-3 block"><a href="tel:+8801682648101"
+                                class="inline-block text-white opacity-80 hover:text-theme-color ">+88 01682648101</a>
+                        </li>
+                        <li class="block"><a href="mailto:info@example.com"
+                                class="inline-block text-white opacity-80 hover:text-theme-color ">info@example.com</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <!-- mobile-menu end -->
+
+
+        <!-- page-title -->
+        <section class="page-title relative md:pt-[260px] pt-[200px] md:pb-[145px] pb-24 text-center overflow-hidden">
+            <div class="bg-box scroll-bg-image absolute left-0 top-0 w-full h-full bg-cover bg-no-repeat bg-center before:absolute before:content-[''] before:left-0 before:top-0 before:w-full before:h-full before:bg-[rgba(0,0,0,0.40)]"
+                style="background-image: url(assets/images/background/page-title.jpg);"></div>
+            <div class="container-layout">
+                <div class="relative">
+                    <h1 class="md:text-[85px] md:leading-[90px] text-5xl leading-14 text-white font-bold mb-3">About Us
+                    </h1>
+                    <ul class="flex items-center justify-center gap-2">
+                        <li class="text-[18px] leading-6 font-special-font uppercase font-bold text-white"><a
+                                href="index.html" class="hover:text-theme-color">Home</a></li>
+                        <li class="text-[18px] leading-6 font-special-font uppercase font-bold text-white">.</li>
+                        <li class="text-[18px] leading-6 font-special-font uppercase font-bold text-white">About Us</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- page-title end -->
+
+
+        <!-- section -->
+        <section class="relative md:pt-[100px] pt-17 md:pb-[100px] pb-10">
+            <div class="relative px-12 min-h-20">
+                <div class="marquee_mode-rightToLeft">
+                    <ul class="flex items-center gap-[15px] flex-nowrap w-fit">
+                        <li class="flex items-center gap-[15px]">
+                            <div class="image-box w-25 h-25 rounded-[100px]"><img
+                                    src="assets/images/resource/scroll-1.jpg" class="w-full rounded-[100px]" alt="">
+                            </div>
+                            <h3
+                                class="relative inline-block text-[28px] leading-8.5 font-semibold rounded-[100px] border border-[#bbbbbb] px-13 py-5.5">
+                                Deutsche Power</h3>
+                        </li>
+                        <li class="flex items-center gap-[15px]">
+                            <div class="image-box w-25 h-25 rounded-[100px]"><img
+                                    src="assets/images/resource/scroll-2.jpg" class="w-full rounded-[100px]" alt="">
+                            </div>
+                            <h3
+                                class="relative inline-block text-[28px] leading-8.5 font-semibold rounded-[100px] border border-[#bbbbbb] px-13 py-5.5">
+                                Deutsche Power</h3>
+                        </li>
+                        <li class="flex items-center gap-[15px] mr-[15px]">
+                            <div class="image-box w-25 h-25 rounded-[100px]"><img
+                                    src="assets/images/resource/scroll-3.jpg" class="w-full rounded-[100px]" alt="">
+                            </div>
+                            <h3
+                                class="relative inline-block text-[28px] leading-8.5 font-semibold rounded-[100px] border border-[#bbbbbb] px-13 py-5.5">
+                                Deutsche Power</h3>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- section end -->
+
+
+        <!-- vision-mission section -->
+        <section class="feature-section md:pb-[150px] pb-17">
+            <div class="container-layout">
+                <div class="sec-title mb-17 wow fadeUp lg:flex justify-center items-center">
+                    <!-- <a href="about.html"
+                        class="theme-btn border px-10 py-4 hover:border-theme-color hover:bg-theme-color hover:text-white"><span
+                            class="text">who we are</span></a> -->
+                    <h2 class="lg:mt-0 mt-4">Engineering Sustainable Power</h2>
+                </div>
+                <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-[30px]">
+                    <!-- Card 01: Mission Statement -->
+                    <div class="feature-block relative rounded-3xl md:px-10 px-7 pt-9 pb-[60px] wow fadeUp">
+                        <div class="bg-box rtl:transform-[rotateY(180deg)]">
+                            <div class="bg-image absolute left-0 top-0 w-full h-full bg-cover bg-no-repeat bg-center before:absolute before:content-[''] before:left-0 before:top-0 before:w-full before:h-full before:bg-black before:opacity-55"
+                                style="background-image: url(assets/images/resource/feature-1.jpg);"></div>
+                        </div>
+                        <div class="relative z-20">
+                            <span
+                                class="relative block text-[15px] leading-6 font-special-font font-bold text-theme-color pb-3 border-b border-white mb-[188px]">01.</span>
+                            <h2 class="text-[38px] leading-11 font-semibold mb-1.5 text-white">Our Mission</h2>
+                            <p class="text-[#d2d2d2] mb-4">To deliver industry-leading power protection by tailoring
+                                advanced solutions with prompt delivery and customer focus. We continuously adapt to
+                                evolving industrial demands through dedicated research, engineering agility, and
+                                dependable partnership.</p>
+                        </div>
+                        <div class="absolute z-20 bottom-0 right-0 rtl:right-[inherit] rtl:left-0">
+                            <a href="about.html"
+                                class="relative inline-flex w-12 h-12 leading-12 rounded-full items-center justify-center bg-theme-color hover:rotate-45"><svg
+                                    fill="none" height="24" viewBox="0 0 24 24" width="24"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="m16.0039 9.414-8.60699 8.607-1.414-1.414 8.60599-8.607h-7.58499v-2h10.99999v11h-2z"
+                                        fill="rgb(0,0,0)"
+                                        class="duration-500 group-hover:fill-[#ffffff] dark:group-hover:fill-secondary-color">
+                                    </path>
+                                </svg></a>
+                        </div>
+                    </div>
+                    <!-- Card 02: Quality & Reliability -->
+                    <div
+                        class="feature-block relative rounded-3xl md:px-10 px-7 pt-9 pb-[60px] wow fadeUp overflow-hidden min-h-[500px]">
+                        <div class="bg-box rtl:transform-[rotateY(180deg)]">
+                            <div class="bg-image absolute left-0 top-0 w-full h-full bg-theme-color"></div>
+                        </div>
+                        <div class="absolute left-0 bottom-0 z-10"><img src="assets/images/resource/decore-1.png"
+                                alt=""></div>
+                        <div class="relative z-20">
+                            <span
+                                class="relative block text-[15px] leading-6 font-special-font font-bold text-black pb-3 border-b border-black mb-7">02.</span>
+                            <h2 class="text-[38px] leading-11 font-semibold mb-1.5 text-black">Quality &amp; Reliability
+                            </h2>
+                            <p class="text-black md:max-w-[280px] mb-4">Strict German QA compliance across all global
+                                facilities ensures zero-defect, uniform build standards. Each system undergoes
+                                comprehensive stress-testing to guarantee peak performance and durability in industrial
+                                environments.</p>
+                        </div>
+                        <div class="absolute z-20 bottom-0 right-0 rtl:right-[inherit] rtl:left-0">
+                            <a href="about.html"
+                                class="relative inline-flex w-12 h-12 leading-12 rounded-full items-center justify-center bg-theme-color hover:rotate-45"><svg
+                                    fill="none" height="24" viewBox="0 0 24 24" width="24"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="m16.0039 9.414-8.60699 8.607-1.414-1.414 8.60599-8.607h-7.58499v-2h10.99999v11h-2z"
+                                        fill="rgb(0,0,0)"
+                                        class="duration-500 group-hover:fill-[#ffffff] dark:group-hover:fill-secondary-color">
+                                    </path>
+                                </svg></a>
+                        </div>
+                    </div>
+                    <!-- Card 03: Our Vision -->
+                    <div class="feature-block relative rounded-3xl md:px-10 px-7 pt-9 pb-[60px] wow fadeUp">
+                        <div class="bg-box rtl:transform-[rotateY(180deg)]">
+                            <div
+                                class="bg-image absolute left-0 top-0 w-full h-full bg-secondary-color dark:bg-[rgba(255,255,255,0.05)]">
+                            </div>
+                        </div>
+                        <div class="relative z-20">
+                            <span
+                                class="relative block text-[15px] leading-6 font-special-font font-bold text-theme-color pb-3 border-b border-white mb-[188px]">03.</span>
+                            <h2 class="text-[38px] leading-11 font-semibold mb-1.5 text-white">Our Vision</h2>
+                            <p class="text-[#d2d2d2] mb-4">Empowering global sectors with intelligent, eco-efficient
+                                power solutions that safeguard critical infrastructure. We strive to be the
+                                international benchmark for durable energy resilience and technologically driven power
+                                continuity.</p>
+                        </div>
+                        <div class="absolute z-20 bottom-0 right-0 rtl:right-[inherit] rtl:left-0">
+                            <a href="about.html"
+                                class="relative inline-flex w-12 h-12 leading-12 rounded-full items-center justify-center bg-theme-color hover:rotate-45"><svg
+                                    fill="none" height="24" viewBox="0 0 24 24" width="24"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="m16.0039 9.414-8.60699 8.607-1.414-1.414 8.60599-8.607h-7.58499v-2h10.99999v11h-2z"
+                                        fill="rgb(0,0,0)"
+                                        class="duration-500 group-hover:fill-[#ffffff] dark:group-hover:fill-secondary-color">
+                                    </path>
+                                </svg></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- vision-mission end -->
+
+
+        <!-- about-section -->
+        <section class="about-section bg-bg-color-1 dark:bg-[rgba(255,255,255,0.05)]">
+            <div class="container-layout">
+                <div class="md:py-[140px] py-16 border-b border-[#cccbc7]">
+                    <div class="grid lg:grid-cols-2 gap-[30px]">
+                        <div class="relative lg:mb-0 mb-7">
+                            <div class="max-w-[450px] wow fadeUp">
+                                <h2 class="md:text-[80px] md:leading-[84px] font-bold text-5xl leading-14">About
+                                    Deutsche Power</h2>
+                            </div>
+                        </div>
+                        <div class="relative lg:mb-0 mb-8">
+                            <div class="wow fadeUp lg:ml-[-100px]">
+                                <h3 class="text-2xl leading-[37px] font-medium mb-5">An independently owned global
+                                    manufacturer certified by the German Chamber of Commerce (IHK) and registered in
+                                    Hong Kong, engineering state-of-the-art power protection.</h3>
+                                <p>Deutsche Power Co. (DP Electronics) operates as an international high-tech leader
+                                    delivering specialized uninterruptible power systems, energy storage solutions, and
+                                    precision industrial power supplies. Backed by an advanced R&amp;D team of
+                                    more than 350 specialized engineers and dual corporate headquarters in Germany and
+                                    Hong Kong, we continually innovate high-efficiency power architectures
+                                    built to withstand demanding operating environments. Supported by strategic
+                                    manufacturing and assembly facilities across Germany, Hungary, Hong Kong, China, and
+                                    Taiwan, we provide cost-effective, durable, and fully certified equipment
+                                    designed to eliminate downtime for mission-critical industrial applications
+                                    worldwide.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- about-section end -->
+
+        <!-- faq-section -->
+        <section class="faq-section md:py-[140px] py-16 bg-bg-color-1 dark:bg-[rgba(255,255,255,0.05)]">
+            <div class="container-layout">
+                <div class="grid grid-cols-1 lg:grid-cols-12 gap-7">
+                    <div class="lg:col-span-5">
+                        <div class="text-box md:mb-0 mb-5 md:max-w-[450px] wow fadeUp">
+                            <h2 class="md:text-[42px] md:leading-[50px] text-4xl leading-10 md:max-w-[350px] mb-9">
+                                Explore our strength, where <span
+                                    class="inline-block font-semibold italic">expertise</span> delivers <span
+                                    class="inline-block font-semibold italic">performance.</span></h2>
+                            <a href="contact.html" class="inline-flex items-center gap-5"><span
+                                    class="inline-block text-2xl w-[45px] h-[45px] leading-[42px] bg-theme-color rounded-full text-center">+</span><span
+                                    class="sub-title leading-4.5! hover:text-theme-color duration-500">discover
+                                    <br />more</span></a>
+                        </div>
+                    </div>
+                    <div class="lg:col-span-7">
+                        <div class="wow fadeUp">
+                            <ul class="accordion-box">
+                                <!-- FAQ 01 -->
+                                <li class="accordion block active-block">
+                                    <div
+                                        class="acc-btn active relative text-[20px] leading-7 font-medium cursor-pointer py-6.5 border-b border-[#cccccc]">
+                                        <h3 class="text-[28px] leading-6 font-semibold pl-9 rtl:pl-0 rtl:pr-9"><span
+                                                class="absolute inline-block left-0 top-5.5 text-[14px] leading-5 font-bold text-[#747474] rtl:left-[inherit] right-0">01.</span>What
+                                            certifications do your products hold?</h3>
+                                    </div>
+                                    <div class="acc-content current">
+                                        <div class="text pt-6 pb-5">
+                                            <p>Our power systems comply with CE, ISO 9001, and ISO 14001 certifications
+                                                under German IHK standards to ensure safety and operational compliance.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <!-- FAQ 02 -->
+                                <li class="accordion block">
+                                    <div
+                                        class="acc-btn relative text-[20px] leading-7 font-medium cursor-pointer py-6.5 border-b border-[#cccccc]">
+                                        <h3 class="text-[28px] leading-6 font-semibold pl-9 rtl:pl-0 rtl:pr-9"><span
+                                                class="absolute inline-block left-0 top-5.5 text-[14px] leading-5 font-bold text-[#747474] rtl:left-[inherit] right-0">02.</span>Do
+                                            you provide custom power solutions?</h3>
+                                    </div>
+                                    <div class="acc-content">
+                                        <div class="text pt-6 pb-5">
+                                            <p>Yes. Our team of 350+ R&amp;D engineers customizes UPS topologies,
+                                                voltage parameters, and runtime banks for client-specific loads.</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <!-- FAQ 03 -->
+                                <li class="accordion block">
+                                    <div
+                                        class="acc-btn relative text-[20px] leading-7 font-medium cursor-pointer py-6.5 border-b border-[#cccccc]">
+                                        <h3 class="text-[28px] leading-6 font-semibold pl-9 rtl:pl-0 rtl:pr-9"><span
+                                                class="absolute inline-block left-0 top-5.5 text-[14px] leading-5 font-bold text-[#747474] rtl:left-[inherit] right-0">03.</span>How
+                                            is global quality controlled?</h3>
+                                    </div>
+                                    <div class="acc-content">
+                                        <div class="text pt-6 pb-5">
+                                            <p>All assembly facilities in Germany, Hungary, China, and Taiwan adhere to
+                                                strict centralized QC testing overseen by our German head office.</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <!-- FAQ 04 -->
+                                <li class="accordion block">
+                                    <div
+                                        class="acc-btn relative text-[20px] leading-7 font-medium cursor-pointer py-6.5 border-b border-[#cccccc]">
+                                        <h3 class="text-[28px] leading-6 font-semibold pl-9 rtl:pl-0 rtl:pr-9"><span
+                                                class="absolute inline-block left-0 top-5.5 text-[14px] leading-5 font-bold text-[#747474] rtl:left-[inherit] right-0">04.</span>Which
+                                            industries do you serve?</h3>
+                                    </div>
+                                    <div class="acc-content">
+                                        <div class="text pt-6 pb-5">
+                                            <p>We supply mission-critical power equipment to data centers, healthcare
+                                                facilities, telecommunications, and heavy industrial plants.</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <!-- FAQ 05 -->
+                                <li class="accordion block">
+                                    <div
+                                        class="acc-btn relative text-[20px] leading-7 font-medium cursor-pointer py-6.5 border-b border-[#cccccc]">
+                                        <h3 class="text-[28px] leading-6 font-semibold pl-9 rtl:pl-0 rtl:pr-9"><span
+                                                class="absolute inline-block left-0 top-5.5 text-[14px] leading-5 font-bold text-[#747474] rtl:left-[inherit] right-0">05.</span>What
+                                            warranty and support is offered?</h3>
+                                    </div>
+                                    <div class="acc-content">
+                                        <div class="text pt-6 pb-5">
+                                            <p>We provide comprehensive OEM warranties, preventative maintenance
+                                                contracts, genuine replacement components, and responsive technical
+                                                support.</p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- faq-section end -->
+
+
+        <!-- cta-section -->
+        <section class="cta-section relative md:pt-[390px] pt-28 pb-[60px]">
+            <div class="bg-image absolute left-0 top-0 w-full h-full bg-cover bg-no-repeat bg-center bg-fixed before:absolute before:content-[''] before:left-0 before:bottom-0 before:w-full before:h-full before:bg-[linear-gradient(0deg,rgba(0,0,0,0.9)_0%,rgba(0,0,0,0)_100%)]"
+                style="background-image: url(assets/images/background/cta-bg.jpg);"></div>
+            <div class="container-layout">
+                <div
+                    class="sec-title lg:flex items-center justify-between gap-3 relative z-10 md:pt-8 md:border-t md:border-[rgba(255,255,255,0.30)] wow fadeUp">
+                    <h2 class="text-white lg:max-w-[850px] font-bold lg:mb-0 mb-3">Engineering Value. <span
+                            class="inline-block font-normal">Empowering Communities.</span></h2>
+                    <a href="product-category.html" class="theme-btn white-bg"><span class="text">view all
+                            products</span><span class="icon"><svg fill="none" height="24" viewBox="0 0 24 24"
+                                width="24" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="m16.0039 9.414-8.60699 8.607-1.414-1.414 8.60599-8.607h-7.58499v-2h10.99999v11h-2z"
+                                    fill="rgb(0,0,0)"></path>
+                            </svg></span></a>
+                </div>
+            </div>
+        </section>
+        <!-- cta-section end -->
+
+
+        <!-- main-footer -->
+        <footer class="main-footer bg-secondary-color dark:bg-[rgba(255,255,255,0.05)]">
+            <div class="container-layout">
+                <div class="pt-16 pb-12">
+                    <div class="grid grid-cols-1 md:grid-cols-12 gap-[30px]">
+                        <div class="lg:col-span-3 md:col-span-6 wow fadeUp">
+                            <h3 class="text-[20px] leading-7 font-bold text-white mb-4">Pages</h3>
+                            <ul class="links-list flow-root">
+                                <li class="block mb-3"><a href="about.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">About
+                                        Us</a></li>
+                                <li class="block mb-3"><a href="presence.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Presence
+                                    </a></li>
+                                <li class="block mb-3"><a href="service.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Services
+                                    </a></li>
+                                <li class="block mb-3"><a href="product-category.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Products
+                                    </a></li>
+                                <li class="block mb-3"><a href="contact.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Contact
+                                    </a></li>
+                            </ul>
+                        </div>
+                        <div class="lg:col-span-3 md:col-span-6 wow fadeUp">
+                            <h4 class="text-[20px] leading-7 font-bold text-white mb-4">Services</h4>
+                            <ul class="links-list flow-root">
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Product
+                                        Design</a></li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Product
+                                        Manufacturing</a></li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Power
+                                        Analysis</a></li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Installation
+                                        & Maintenance</a></li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Real
+                                        Time Support</a></li>
+                            </ul>
+                        </div>
+                        <div class="lg:col-span-2 md:col-span-6 wow fadeUp">
+                            <h4 class="text-[20px] leading-7 font-bold text-white mb-4">Product Line</h4>
+                            <ul class="links-list flow-root">
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">UPS</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Inverter</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Batteries</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">IT
+                                        Solutions</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Photovoltaic</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">LED
+                                        Lighting</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Accessories</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="lg:col-span-4 md:col-span-6 wow fadeUp">
+                            <h4 class="text-[20px] leading-7 font-bold text-white mb-4">Get In Touch</h4>
+                            <h2 class="text-[35px] leading-11 font-bold mb-5"><a href="tel:18004567890"
+                                    class="inline-block text-white border-b border-theme-color hover:text-theme-color">+(1800)
+                                    456 7890</a></h2>
+                            <h2 class="text-[35px] leading-11 font-bold mb-[50px]"><a href="mailto:example@info.com"
+                                    class="inline-block text-white border-b border-theme-color hover:text-theme-color">example@info.com</a>
+                            </h2>
+                            <ul class="flex items-center gap-3">
+                                <li class="text-[#b5b5b5]"><a href="index.html"
+                                        class="text-[#b5b5b5] hover:text-theme-color">Facebook</a></li>
+                                <li class="text-[#b5b5b5]">.</li>
+                                <li class="text-[#b5b5b5]"><a href="index.html"
+                                        class="text-[#b5b5b5] hover:text-theme-color">Instagram</a></li>
+                                <li class="text-[#b5b5b5]">.</li>
+                                <li class="text-[#b5b5b5]"><a href="index.html"
+                                        class="text-[#b5b5b5] hover:text-theme-color">LinkedIn</a></li>
+                                <li class="text-[#b5b5b5]">.</li>
+                                <li class="text-[#b5b5b5]"><a href="index.html"
+                                        class="text-[#b5b5b5] hover:text-theme-color">Twitter</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center pb-[74px] wow fadeUp">
+                    <p class="text-white">Copyright &copy; 2026 <a href="index.html"
+                            class="text-white hover:text-theme-color">Deutsche Power.</a> All Rights Reserved</p>
+                </div>
+            </div>
+        </footer>
+        <!-- main-footer end -->
+
+
+        <!-- scroll to top -->
+        <div class="back-to-top"><span class="back-to-top-percentage"></span></div>
+
+    </div>
+
+
+    <!-- jequery plugins -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/gsap.min.js"></script>
+    <script src="assets/js/gsap-scroll-trigger.min.js"></script>
+    <script src="assets/js/ScrollTrigger.js"></script>
+    <script src="assets/js/SplitText.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/validation.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/appear.js"></script>
+    <script src="assets/js/odometer.js"></script>
+    <script src="assets/js/lenis.min.js"></script>
+    <script src="assets/js/marquee.min.js"></script>
+    <script src="assets/js/jquery.lettering.min.js"></script>
+    <script src="assets/js/jquery.circleType.js"></script>
+
+    <!-- main-js -->
+    <script src="assets/js/script.js"></script>
+
+</body><!-- End of .page_wrapper -->
+
+</html>

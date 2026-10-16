@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Industriaz - HTML 5 Template Preview</title>
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="src/output.css">
+
+    <!-- google-font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Jost:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+</head>
+
+
+<!-- page wrapper -->
+
+<body>
+
+    <div class="boxed_wrapper">
+
+        <!-- preloader -->
+        <div id="preloader" class="fixed inset-0 bg-white z-99999999 flex items-center justify-center">
+            <div class="text-center">
+                <div
+                    class="w-24 h-24 border-4 border-secondary-color border-t-white rounded-full animate-spin mx-auto mb-4">
+                </div>
+                <p id="preloader-text" class="text-xl font-semibold text-title-color">0%</p>
+            </div>
+        </div>
+        <!-- preloader end -->
+
+
+        <!-- rtl toggle switch -->
+        <!-- <button id="rtlToggle" class="fixed top-1/2 left-0 z-999 -mt-10 flex items-center justify-center h-8 w-8 leading-8 text-center bg-theme-color cursor-pointer text-[14px] text-black font-medium uppercase"><span class="inline-block rtl:hidden">RTL</span><span class="hidden rtl:inline-block">Ltr</span></button> -->
+        <!-- rtl toggle switch end -->
+
+
+        <!-- dark-mode-switch -->
+        <div class="mode-switch fixed top-1/2 left-0 z-999">
+            <button id="darkToggle"
+                class="relative flex items-center justify-center h-8 w-8 leading-8 text-center bg-theme-color cursor-pointer">
+                <svg class="w-5 h-5 dark:hidden" fill="#000000" stroke-linejoin="round" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                        d="M10.5 0.25V1V1.5H11L11.75 1.5V3H11H10.5V3.5V4.25H9V3.5V3H8.5H7.75V1.5H8.5H9V1V0.25H10.5ZM3.25514 2.75496C2.33413 3.53491 1.75 4.69972 1.75 6C1.75 8.34721 3.65279 10.25 6 10.25C7.30029 10.25 8.4651 9.66587 9.24505 8.74485C9.16377 8.74827 9.08207 8.74999 9 8.74999C5.82436 8.74999 3.25 6.17563 3.25 2.99999C3.25 2.91792 3.25172 2.83623 3.25514 2.75496ZM0.25 6C0.25 3.51072 1.83142 1.39271 4.042 0.592193L5.00256 1.55275C4.83933 2.00347 4.75 2.49047 4.75 2.99999C4.75 5.3472 6.65279 7.24999 9 7.24999C9.50953 7.24999 9.99653 7.16065 10.4473 6.99743L11.4078 7.95798C10.6073 10.1686 8.48929 11.75 6 11.75C2.82436 11.75 0.25 9.17564 0.25 6Z"
+                        fill="#000000" transform="translate(2.25, 2.25)"></path>
+                </svg>
+
+                <svg class="w-5 h-5 hidden dark:inline-block" fill="#000" viewBox="0 0 16 16" data-testid="light-icon"
+                    stroke-linejoin="round">
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                        d="M7.75 1V0.25H6.25V1V1.25V2H7.75V1.25V1ZM7 9C8.10457 9 9 8.10457 9 7C9 5.89543 8.10457 5 7 5C5.89543 5 5 5.89543 5 7C5 8.10457 5.89543 9 7 9ZM7 10.5C8.933 10.5 10.5 8.933 10.5 7C10.5 5.067 8.933 3.5 7 3.5C5.067 3.5 3.5 5.067 3.5 7C3.5 8.933 5.067 10.5 7 10.5ZM7.75 12V12.75V13V13.75H6.25V13V12.75V12H7.75ZM12 6.25H12.75H13H13.75V7.75H13H12.75H12V6.25ZM1 6.25H0.25V7.75H1H1.25H2V6.25H1.25H1ZM10.0052 2.93414L10.5355 2.40381L10.7123 2.22703L11.2426 1.6967L12.3033 2.75736L11.773 3.28769L11.5962 3.46447L11.0659 3.9948L10.0052 2.93414ZM2.22703 10.7123L1.6967 11.2426L2.75736 12.3033L3.28769 11.773L3.46447 11.5962L3.9948 11.0659L2.93414 10.0052L2.40381 10.5355L2.22703 10.7123ZM2.93414 3.9948L2.40381 3.46447L2.22703 3.28769L1.6967 2.75736L2.75736 1.6967L3.28769 2.22703L3.46447 2.40381L3.9948 2.93414L2.93414 3.9948ZM10.7123 11.773L11.2426 12.3033L12.3033 11.2426L11.773 10.7123L11.5962 10.5355L11.0659 10.0052L10.0052 11.0659L10.5355 11.5962L10.7123 11.773Z"
+                        fill="#000000" transform="translate(1.25, 1.25)"></path>
+                </svg>
+            </button>
+        </div>
+
+
+        <!-- main header -->
+        <header class="main-header absolute left-0 top-14 pl-[15px] pr-[15px] w-full z-99999">
+
+            <div
+                class="header-lower relative max-w-[1730px] mx-auto w-full bg-white dark:bg-black rounded-[100px] px-[17px] py-[17px] xl:pl-10 pr-[17px] rtl:pl-[17px] xl:rtl:pr-10">
+                <div class="relative sm:flex items-center justify-between">
+                    <div class="flex items-center justify-between 2xl:gap-12 gap-12">
+                        <div class="header-logo">
+                            <figure class="logo-box flex dark:hidden">
+                                <a href="index.html" class="relative inline-block"><img src="assets/images/logo.png"
+                                        alt=""></a>
+                            </figure>
+                            <figure class="logo-box hidden dark:flex">
+                                <a href="index.html" class="relative inline-block"><img src="assets/images/logo-2.png"
+                                        alt=""></a>
+                            </figure>
+                        </div>
+                        <div class="menu-area">
+                            <!--Mobile Navigation Toggler-->
+                            <div class="mobile-nav-toggler relative lg:hidden w-[50px] block p-2.5 h-9 cursor-pointer">
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                            </div>
+                            <nav class="main-menu navbar-expand-md navbar-light hidden lg:block">
+                                <div class="navbar-collapse show clearfix">
+                                    <ul class="navigation sm:flex items-center">
+                                        <li class="lg:inline-block">
+                                            <a href="index.html" class="nav-link">Home</a>
+                                        </li>
+                                        <li class="lg:inline-block">
+                                            <a href="about.html" class="nav-link">About</a>
+                                        </li>
+                                        <li class="lg:inline-block">
+                                            <a href="presence.html" class="nav-link">Presence</a>
+                                        </li>
+                                        <li class="lg:inline-block">
+                                            <a href="service.html" class="nav-link">Services</a>
+                                        </li>
+                                        <li class="lg:inline-block">
+                                            <a href="product-category.html" class="nav-link">Products</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="menu-right-content relative sm:flex gap-3 items-center hidden">
+                        <a href="contact.html"
+                            class="text-[15px] xl:inline-block hidden leading-6 font-special-font font-bold uppercase bg-theme-color rounded-4xl text-title-color px-7 py-[13px] hover:bg-secondary-color hover:text-white dark:hover:bg-white dark:hover:text-theme-color">get
+                            in touch</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- sticky-header -->
+            <div class="sticky-header">
+                <div class="container-layout">
+                    <div class="relative flex items-center justify-between pt-3.5 pb-3.5">
+                        <figure class="logo-box block dark:hidden relative xl:pt-0 pt-[15px] xl:pb-0 pb-[15px]">
+                            <a href="index.html" class="relative inline-block"><img src="assets/images/logo.png"
+                                    alt=""></a>
+                        </figure>
+                        <figure class="logo-box hidden dark:block relative xl:pt-0 pt-[15px] xl:pb-0 pb-[15px]">
+                            <a href="index.html" class="relative inline-block"><img src="assets/images/logo-2.png"
+                                    alt=""></a>
+                        </figure>
+                        <div class="menu-area">
+                            <div
+                                class="mobile-nav-toggler relative lg:hidden w-[50px] block p-[10px] h-[36px] cursor-pointer">
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                                <span class="relative block h-0.5 w-[30px] mb-1.5 bg-theme-color"></span>
+                            </div>
+                            <nav class="main-menu navbar-expand-md navbar-light hidden lg:block">
+                                <!--Keep This Empty / Menu will come through Javascript-->
+                            </nav>
+                        </div>
+                        <div class="menu-right-content relative sm:flex gap-3 items-center hidden">
+                            <a href="contact.html"
+                                class="text-[15px] xl:inline-block hidden leading-6 font-special-font font-bold uppercase bg-theme-color rounded-4xl text-title-color px-7 py-[13px] hover:bg-secondary-color hover:text-white dark:hover:bg-white dark:hover:text-theme-color">get
+                                in touch</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- main-header end -->
+
+
+        <!-- mobile-menu -->
+        <div class="mobile-menu [.mobile-menu-visible_&]:opacity-100 [.mobile-menu-visible_&]:visible fixed right-0 top-0 w-96 pr-[30px] max-w-full h-full opacity-0 invisible z-[999999] duration-700"
+            data-lenis-prevent="true">
+            <div
+                class="menu-backdrop fixed left-0 top-0 rtl:left-[inherit] rtl:right-0 w-full pr-[30px] max-w-full h-full z-10 bg-black duration-700 transition-all [.mobile-menu-visible_&]:opacity-70 [.mobile-menu-visible_&]:visible [.mobile-menu-visible_&]:right-full [.mobile-menu-visible_&]:ease-out rtl:[.mobile-menu-visible_&]:right-0">
+            </div>
+            <nav
+                class="menu-box absolute pt-7 left-0 top-0 w-full h-full max-h-full overflow-y-auto bg-secondary-color z-50 opacity-0 invisible duration-700 transition-all ease-in-out translate-x-full [.mobile-menu-visible_&]:opacity-100 [.mobile-menu-visible_&]:visible [.mobile-menu-visible_&]:translate-x-0">
+
+                <div class="mobile-menu-logo flex items-center justify-between relative pt-3 pb-16 pl-7 pr-7">
+                    <a href="index.html"><img src="assets/images/logo-2.png" alt="" title=""></a>
+                    <div class="close-btn group z-10 cursor-pointer"><svg id="fi_6583137"
+                            enable-background="new 0 0 48 48" height="30" viewBox="0 0 48 48" width="30"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="m32.5 33c.4.4.4 1 0 1.4-.2.2-.5.3-.7.3s-.5-.1-.7-.3l-8.4-8.4-8.4 8.4c-.2.2-.5.3-.7.3s-.5-.1-.7-.3c-.4-.4-.4-1 0-1.4l8.4-8.4-8.4-8.4c-.4-.4-.4-1 0-1.4s1-.4 1.4 0l8.4 8.4 8.4-8.4c.4-.4 1-.4 1.4 0s.4 1 0 1.4l-8.4 8.4z"
+                                fill="#ffffff" stroke="#ffffff"
+                                class="group-hover:fill-theme-color group-hover:stroke-theme-color duration-500" />
+                        </svg></div>
+                </div>
+
+                <div class="menu-inner">
+                    <ul class="relative block w-full border-b border-[rgba(255,255,255,0.1)]">
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a href="index.html"
+                                class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                    href="index.html"
+                                    class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">About</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a href="about.html"
+                                class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                    href="about.html"
+                                    class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">About</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                href="presence.html"
+                                class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                    href="presence.html"
+                                    class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">Presence</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                href="service.html"
+                                class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                    href="service.html"
+                                    class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">Services</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                href="product-category.html"
+                                class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                    href="product-category.html"
+                                    class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in before:absolute before:left-0 before:top-0 before:w-1 before:bg-white [&.current]:before:bg-theme-color before: before:ease-linear before:h-0 [&.current]:before:h-full before:content-['']">Products</a>
+                        </li>
+                        <li class="dropdown relative block border-t border-[rgba(255,255,255,0.1)]"><a
+                                href="contact.html"
+                                class="relative block text-base leading-7 text-white [&.current]:text-theme-color font-medium capitalize pt-2.5 pb-2.5 pl-6 pr-6 rtl:pr-13 ease-in">Contact
+                                Us</a></li>
+                    </ul>
+                </div>
+
+                <!-- contact-info -->
+                <div class="contact-info relative pt-28 pb-7 pl-7 pr-7">
+                    <h4 class="text-[20px] leading-7 font-bold text-white mb-5">Contact Info</h4>
+                    <ul>
+                        <li class="mb-3 block text-white opacity-80">Chicago 12, Melborne City, USA</li>
+                        <li class="mb-3 block"><a href="tel:+8801682648101"
+                                class="inline-block text-white opacity-80 hover:text-theme-color ">+88 01682648101</a>
+                        </li>
+                        <li class="block"><a href="mailto:info@example.com"
+                                class="inline-block text-white opacity-80 hover:text-theme-color ">info@example.com</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <!-- mobile-menu end -->
+
+
+        <!-- page-title -->
+        <section class="page-title relative md:pt-[260px] pt-[200px] md:pb-[145px] pb-24 text-center overflow-hidden">
+            <div class="bg-box scroll-bg-image absolute left-0 top-0 w-full h-full bg-cover bg-no-repeat bg-center before:absolute before:content-[''] before:left-0 before:top-0 before:w-full before:h-full before:bg-[rgba(0,0,0,0.40)]"
+                style="background-image: url(assets/images/background/page-title.jpg);"></div>
+            <div class="container-layout">
+                <div class="relative">
+                    <h1 class="md:text-[85px] md:leading-[90px] text-5xl leading-14 text-white font-bold mb-3">About Us
+                    </h1>
+                    <ul class="flex items-center justify-center gap-2">
+                        <li class="text-[18px] leading-6 font-special-font uppercase font-bold text-white"><a
+                                href="index.html" class="hover:text-theme-color">Home</a></li>
+                        <li class="text-[18px] leading-6 font-special-font uppercase font-bold text-white">.</li>
+                        <li class="text-[18px] leading-6 font-special-font uppercase font-bold text-white">About Us</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- page-title end -->
+
+        <!-- section -->
+        <section class="relative md:pt-[100px] pt-17 md:pb-[100px] pb-10">
+            <div class="relative px-12 min-h-20">
+                <div class="marquee_mode-rightToLeft">
+                    <ul class="flex items-center gap-[15px] flex-nowrap w-fit">
+                        <li class="flex items-center gap-[15px]">
+                            <div class="image-box w-25 h-25 rounded-[100px]"><img
+                                    src="assets/images/resource/scroll-1.jpg" class="w-full rounded-[100px]" alt="">
+                            </div>
+                            <h3
+                                class="relative inline-block text-[28px] leading-8.5 font-semibold rounded-[100px] border border-[#bbbbbb] px-13 py-5.5">
+                                Deutsche Power</h3>
+                        </li>
+                        <li class="flex items-center gap-[15px]">
+                            <div class="image-box w-25 h-25 rounded-[100px]"><img
+                                    src="assets/images/resource/scroll-2.jpg" class="w-full rounded-[100px]" alt="">
+                            </div>
+                            <h3
+                                class="relative inline-block text-[28px] leading-8.5 font-semibold rounded-[100px] border border-[#bbbbbb] px-13 py-5.5">
+                                Deutsche Power</h3>
+                        </li>
+                        <li class="flex items-center gap-[15px] mr-[15px]">
+                            <div class="image-box w-25 h-25 rounded-[100px]"><img
+                                    src="assets/images/resource/scroll-3.jpg" class="w-full rounded-[100px]" alt="">
+                            </div>
+                            <h3
+                                class="relative inline-block text-[28px] leading-8.5 font-semibold rounded-[100px] border border-[#bbbbbb] px-13 py-5.5">
+                                Deutsche Power</h3>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- section end -->
+
+
+        <!-- contact-section -->
+        <section class="contact-section relative md:py-[150px] py-17">
+            <div class="container-layout">
+                <div class="grid md:grid-cols-2 gap-[30px]">
+                    <div class="relative">
+                        <h2 class="md:text-[60px] md:leading-17 text-4xl leading-10 font-bold mb-10">Leave a message
+                        </h2>
+                        <form method="post" action="sendemail.php" class="contact-form">
+                            <div class="grid grid-cols-1 md:grid-cols-12 gap-6">
+                                <div class="sm:col-span-6">
+                                    <div class="form-group mb-0">
+                                        <input type="text" name="username" placeholder="Name" required>
+                                    </div>
+                                </div>
+                                <div class="sm:col-span-6">
+                                    <div class="form-group mb-0">
+                                        <input type="email" name="email" placeholder="Email" required>
+                                    </div>
+                                </div>
+                                <div class="sm:col-span-6">
+                                    <div class="form-group mb-0">
+                                        <input type="text" name="phone" placeholder="Phone" required>
+                                    </div>
+                                </div>
+                                <div class="sm:col-span-6">
+                                    <div class="form-group mb-0">
+                                        <input type="text" name="subject" placeholder="Subject" required>
+                                    </div>
+                                </div>
+                                <div class="sm:col-span-12">
+                                    <div class="form-group mb-0">
+                                        <textarea name="message" placeholder="Message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="sm:col-span-12">
+                                    <div class="form-group mb-0">
+                                        <button type="submit" name="submit-form" class="theme-btn border"><span
+                                                class="text">submit now</span><span class="icon"><svg fill="none"
+                                                    height="24" viewBox="0 0 24 24" width="24"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <path
+                                                        d="m16.0039 9.414-8.60699 8.607-1.414-1.414 8.60599-8.607h-7.58499v-2h10.99999v11h-2z"
+                                                        fill="rgb(0,0,0)"></path>
+                                                </svg></span></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="map-inner relative block w-full md:top-4 h-[547px] rounded-3xl overflow-hidden">
+                        <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d284.4430500597365!2d6.940524102072771!3d50.93188514483739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bf250018b0fb53%3A0x159694cf3ca23126!2sHohenstaufenring%2038-40%2C%2050674%20K%C3%B6ln%2C%20Germany!5e1!3m2!1sen!2s!4v1791813715836!5m2!1sen!2s"></iframe> -->
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d284.4430500597365!2d6.940524102072771!3d50.93188514483739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bf250018b0fb53%3A0x159694cf3ca23126!2sHohenstaufenring%2038-40%2C%2050674%20K%C3%B6ln%2C%20Germany!5e1!3m2!1sen!2s!4v1791813715836!5m2!1sen!2s"
+                            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- contact-section end -->
+
+
+        <!-- contact-info -->
+        <section class="contact-info relative md:pb-[150px] pb-17">
+            <div class="container-layout">
+                <div class="grid md:grid-cols-3 gap-[30px]">
+                    <div
+                        class="relative lg:px-12 px-7 py-11 rounded-3xl border border-[#dfdfdf] duration-500 hover:border-theme-color">
+                        <div class="icon mb-6">
+                            <svg class="dark:fill-white" height="32" viewBox="0 0 60 60" width="32"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="m31.2383 34.99c-2.2415644-.0103981-4.4685165-.3615784-6.6045-1.0415-3.4128423-1.1417755-5.9477395-4.0310188-6.6358-7.5634-.7529-3.6265.6192-7.461 3.7637-10.52.3374-.3286.688-.6433667 1.0518-.9443 3.2196288-2.6954608 7.5602996-3.6321929 11.605-2.5044 3.9157536 1.2498134 6.6214551 4.8283567 6.7568 8.9365.1466146 2.3647451-.6241352 4.6949748-2.1519 6.5059-1.1783023 1.4842706-3.0874488 2.185355-4.9463 1.8164-.7602176-.1577458-1.4234762-.6181385-1.8371-1.2752-.3711287-.6382278-.4663065-1.4000836-.2636-2.11.8745-3.3056 1.7636-8.3291 1.7724-8.38.0621106-.3519066.3072431-.6439461.6430585-.76611s.7112953-.0558927.985.17385c.2737048.2297427.4040521.5880534.3419415.93996-.0371.209-.9126 5.1572-1.8086 8.5435-.063952.1876506-.0478957.3933459.0444.5688.1382799.191343.3469169.3199065.58.3574 1.1379287.1899234 2.2873612-.2665919 2.9849-1.1855 1.1864016-1.4193487 1.780845-3.2409596 1.66-5.0869-.0977844-3.2700176-2.242135-6.124934-5.3554-7.13-3.3983056-.9347035-7.0389503-.1361935-9.7341 2.135-.3213.2667-.6338.5459-.9336.8379-1.5546 1.5122-4.0371 4.65-3.2006 8.68.5620337 2.8154834 2.5728764 5.1228675 5.2851 6.0645 4.69 1.4961 11.4292 1.6762 14.98-2.7388.3488575-.4201425.9702584-.4827231 1.3958849-.1405779s.4980618.9624746.1627151 1.3934779c-2.6257 3.2653-6.6213 4.4335-10.5412 4.4335z" />
+                                <path
+                                    d="m27.8149 29.8052c-1.0570282.0181646-2.0880311-.3284577-2.9194-.9815-1.9194-1.5361-1.9722-4.2046-1.4341-6.0219.1812165-.6052113.4245444-1.1900564.7261-1.7452.7503224-1.5138869 1.9500705-2.7589691 3.4351-3.5649 1.8493462-.9596056 4.1088442-.5957076 5.5634.896.7216241.7908253 1.2651883 1.727263 1.594 2.7461.1741403.5170195-.0982507 1.0782018-.6121886 1.2612366-.513938.1830348-1.0797365-.0796331-1.2716114-.5903366-.2370831-.7527039-.6311586-1.4465454-1.1562-2.0357-.8480317-.8672392-2.1694059-1.0645586-3.2338-.4829-1.1136951.6280705-2.0087091 1.5816703-2.565 2.7329-.2337738.431336-.4225991.8855555-.5635 1.3555-.3886 1.3145-.3032 3.03.7691 3.8887 1.1723.9414 3.15.5434 4.2627-.4165.829232-.746533 1.5417334-1.6132856 2.1137-2.5713.1852213-.3103564.5234962-.4966162.8847981-.4871844.3613019.0094317.6893982.213087.8581746.5326844.1687764.3195975.1519648.7053954-.0439727 1.0091-.6774817 1.1288507-1.5209182 2.1493684-2.502 3.0273-1.0934765.9226171-2.4746572 1.4346934-3.9053 1.4479z" />
+                                <path
+                                    d="m57 61h-54c-1.65610033-.0018187-2.99818129-1.3438997-3-3v-37c.00001572-.3877788.22421679-.7405895.57528314-.9052857s.76569921-.1115825 1.06391686.1362857l24.5371 20.3925c2.2201734 1.8335597 5.4293979 1.8329723 7.6489-.0014l24.5348-20.3911c.2981965-.248376.7131706-.3017925 1.0645472-.1370311.3513766.1647613.5756955.5179438.5754528.9060311v37c-.0018187 1.6561003-1.3438997 2.9981813-3 3zm-55-37.8687v34.8687c.00071619.5519878.44801218.9992838 1 1h54c.5520791-.0004962.9995038-.4479209 1-1v-34.8687l-22.8979 19.03c-2.9606327 2.446724-7.241348 2.4473534-10.2027.0015z" />
+                                <path
+                                    d="m1.001 22c-.4355701.0003953-.82129491-.2811908-.95363398-.6961701-.13233908-.4149794.01915201-.8678864.37453398-1.1197299l9-6.38c.45059523-.3122969 1.0686272-.2035665 1.3855809.2437653s.2146394 1.0664583-.2293809 1.3880347l-9 6.38c-.16852428.1199208-.37026338.1842773-.5771.1841z" />
+                                <path
+                                    d="m58.999 22c-.2068366.0001773-.4085757-.0641792-.5771-.1841l-9-6.38c-.4440203-.3215764-.5463346-.9407029-.2293809-1.3880347s.9349857-.5560622 1.3855809-.2437653l9 6.38c.355382.2518435.5068731.7047505.374534 1.1197299-.1323391.4149793-.5180639.6965654-.953634.6961701z" />
+                                <path
+                                    d="m39.2393 8c-.2070115.00010935-.4089216-.06423486-.5777-.1841l-4.78-3.39c-2.2188862-1.87501472-5.4612857-1.89454674-7.7026-.0464l-4.84 3.4365c-.291493.20671388-.6711242.24221572-.9958901.09313231-.324766-.1490834-.5453271-.46010273-.5786-.81590001-.033273-.35579728.1257971-.70231843.4172901-.9090323l4.78-3.39c2.9536144-2.41503467 7.2051289-2.39582552 10.1368.0458l4.72 3.3438c.3556854.25178052.5073677.70490665.3749428 1.12008029s-.5184618.69678741-.9542428.69611971z" />
+                                <path
+                                    d="m1.65 60.46c-.42143186.0003675-.79786247-.263514-.94122905-.6598105-.14336657-.3962966-.02289448-.8399405.30122905-1.1092895l22.82-18.96c.2742111-.2331685.6525759-.3009793.9906961-.1775532.3381203.1234261.5838207.4190432.643333.7740327.0595122.3549896-.0763472.7145733-.3557291.9415205l-22.82 18.96c-.17916597.149357-.40504487.2311377-.6383.2311z" />
+                                <path
+                                    d="m58.3486 60.46c-.2330738.0001375-.4587858-.0816243-.6377-.231l-22.82-18.96c-.2793819-.2269472-.4152413-.5865309-.3557291-.9415205.0595123-.3549895.3052127-.6506066.643333-.7740327.3381202-.1234261.716485-.0556153.9906961.1775532l22.8194 18.96c.3241235.269349.4445956.7129929.301229 1.1092895-.1433665.3962965-.5197971.660178-.941229.6598105z" />
+                                <path
+                                    d="m50 29.48c-.5522847 0-1-.4477153-1-1v-20.4722c-.0029.021-.043-.0073-.11-.0078h-37.78c-.0442022-.00271479-.0875817.01282953-.12.043l.01 20.437c0 .5522847-.4477153 1-1 1-.55228475 0-1-.4477153-1-1v-20.48c.03226085-1.13410356.97579439-2.02844815 2.11-2h37.78c1.134163-.02833724 2.0776307.86594492 2.11 2v20.48c0 .5522847-.4477153 1-1 1z" />
+                            </svg>
+                        </div>
+                        <h3 class="text-[30px] leading-9 font-semibold mb-2">Support email</h3>
+                        <a href="mailto:support@example.com"
+                            class="hover:text-theme-color mb-12 relative inline-block">support@example.com</a>
+                        <div class="relative">
+                            <a href="mailto:support@example.com"
+                                class="relative inline-block w-full px-10 py-4 rounded-4xl bg-theme-color text-center"><span
+                                    class="sub-title">Email us</span></a>
+                        </div>
+                    </div>
+                    <div
+                        class="relative lg:px-12 px-7 py-11 rounded-3xl border border-[#dfdfdf] duration-500 hover:border-theme-color">
+                        <div class="icon mb-6">
+                            <svg class="dark:fill-white" height="32" viewBox="0 0 512.00068 512" width="32"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="m291.441406 0c-5.523437 0-10 4.476562-10 10s4.476563 10 10 10c110.589844 0 200.558594 89.972656 200.558594 200.558594 0 5.523437 4.480469 10 10 10 5.523438 0 10-4.476563 10-10 0-121.613282-98.941406-220.558594-220.558594-220.558594zm0 0" />
+                                <path
+                                    d="m441.84375 230.5625c5.523438 0 10-4.480469 10-10 0-88.449219-71.957031-160.40625-160.402344-160.40625-5.523437 0-10 4.480469-10 10 0 5.523438 4.476563 10 10 10 77.417969 0 140.402344 62.984375 140.402344 140.40625 0 5.519531 4.476562 10 10 10zm0 0" />
+                                <path
+                                    d="m371.675781 220.5625c0 5.519531 4.476563 10 10 10 5.523438 0 10-4.480469 10-10 0-55.269531-44.964843-100.234375-100.234375-100.234375-5.523437 0-10 4.476563-10 9.996094 0 5.523437 4.476563 10 10 10 44.242188 0 80.234375 35.992187 80.234375 80.238281zm0 0" />
+                                <path
+                                    d="m281.441406 190.484375c0 5.519531 4.476563 9.996094 10 9.996094 11.070313 0 20.078125 9.007812 20.078125 20.082031 0 5.519531 4.476563 10 10 10 5.519531 0 10-4.480469 10-10 0-22.101562-17.980469-40.078125-40.078125-40.078125-5.523437 0-10 4.476563-10 10zm0 0" />
+                                <path
+                                    d="m187.433594 324.679688c0 5.523437-4.476563 10-10 10-5.523438 0-10-4.476563-10-10 0-5.519532 4.476562-10 10-10 5.523437 0 10 4.480468 10 10zm0 0" />
+                                <path
+                                    d="m274.03125 499.859375c45.535156 22.316406 100.316406 13.03125 136.324219-22.976563l20.675781-20.675781c11.226562-11.214843 11.230469-29.382812.003906-40.605469l-79.890625-79.882812c-11.207031-11.222656-29.378906-11.238281-40.597656-.003906l-33.945313 33.949218c-6.648437 6.648438-16.910156 8.003907-24.394531 3.226563-12.203125-7.800781-24.074219-16.402344-35.28125-25.566406-4.277343-3.496094-10.574219-2.863281-14.070312 1.410156-3.496094 4.277344-2.863281 10.578125 1.410156 14.070313 11.808594 9.65625 24.3125 18.71875 37.175781 26.9375 15.332032 9.792968 36.066406 7.296874 49.300782-5.9375l33.953124-33.953126c3.394532-3.398437 8.894532-3.40625 12.304688.003907l79.894531 79.886719c3.402344 3.40625 3.410157 8.914062 0 12.316406l-20.679687 20.683594c-29.996094 29.996093-75.558594 37.695312-113.382813 19.160156-138.566406-67.949219-213.957031-175.691406-252.800781-254.113282-18.582031-37.503906-10.867188-82.894531 19.199219-112.953124l20.226562-20.222657c3.390625-3.398437 8.894531-3.410156 12.300781.003907l79.902344 79.898437c3.382813 3.378906 3.417969 8.886719-.007812 12.304687l-33.945313 33.949219c-13.234375 13.234375-15.730469 33.96875-5.9375 49.304688 5.769531 9.027343 11.988281 17.933593 18.488281 26.46875 3.34375 4.394531 9.617188 5.242187 14.011719 1.898437s5.246094-9.617187 1.898438-14.015625c-6.164063-8.097656-12.070313-16.550781-17.546875-25.117187-4.777344-7.488282-3.421875-17.75 3.226562-24.398438l33.941406-33.941406c11.222657-11.207031 11.234376-29.382812.007813-40.597656l-79.894531-79.890625c-11.203125-11.222657-29.378906-11.238281-40.59375-.003907l-20.21875 20.21875c-36.140625 36.128907-45.375 90.773438-22.980469 135.972657 40.222656 81.199219 118.308594 192.769531 261.921875 263.191406zm0 0" />
+                            </svg>
+                        </div>
+                        <h3 class="text-[30px] leading-9 font-semibold mb-2">Phone number</h3>
+                        <a href="tel:18004567890" class="hover:text-theme-color mb-12 relative inline-block">+(1800) 456
+                            - 7890</a>
+                        <div class="relative">
+                            <a href="tel:18004567890"
+                                class="relative inline-block w-full px-10 py-4 rounded-4xl bg-theme-color text-center"><span
+                                    class="sub-title">Call Us</span></a>
+                        </div>
+                    </div>
+                    <div
+                        class="relative lg:px-12 px-7 py-11 rounded-3xl border border-[#dfdfdf] duration-500 hover:border-theme-color">
+                        <div class="icon mb-6">
+                            <svg class="dark:fill-white" height="32" viewBox="0 0 60 60" width="32"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="m31.2383 34.99c-2.2415644-.0103981-4.4685165-.3615784-6.6045-1.0415-3.4128423-1.1417755-5.9477395-4.0310188-6.6358-7.5634-.7529-3.6265.6192-7.461 3.7637-10.52.3374-.3286.688-.6433667 1.0518-.9443 3.2196288-2.6954608 7.5602996-3.6321929 11.605-2.5044 3.9157536 1.2498134 6.6214551 4.8283567 6.7568 8.9365.1466146 2.3647451-.6241352 4.6949748-2.1519 6.5059-1.1783023 1.4842706-3.0874488 2.185355-4.9463 1.8164-.7602176-.1577458-1.4234762-.6181385-1.8371-1.2752-.3711287-.6382278-.4663065-1.4000836-.2636-2.11.8745-3.3056 1.7636-8.3291 1.7724-8.38.0621106-.3519066.3072431-.6439461.6430585-.76611s.7112953-.0558927.985.17385c.2737048.2297427.4040521.5880534.3419415.93996-.0371.209-.9126 5.1572-1.8086 8.5435-.063952.1876506-.0478957.3933459.0444.5688.1382799.191343.3469169.3199065.58.3574 1.1379287.1899234 2.2873612-.2665919 2.9849-1.1855 1.1864016-1.4193487 1.780845-3.2409596 1.66-5.0869-.0977844-3.2700176-2.242135-6.124934-5.3554-7.13-3.3983056-.9347035-7.0389503-.1361935-9.7341 2.135-.3213.2667-.6338.5459-.9336.8379-1.5546 1.5122-4.0371 4.65-3.2006 8.68.5620337 2.8154834 2.5728764 5.1228675 5.2851 6.0645 4.69 1.4961 11.4292 1.6762 14.98-2.7388.3488575-.4201425.9702584-.4827231 1.3958849-.1405779s.4980618.9624746.1627151 1.3934779c-2.6257 3.2653-6.6213 4.4335-10.5412 4.4335z" />
+                                <path
+                                    d="m27.8149 29.8052c-1.0570282.0181646-2.0880311-.3284577-2.9194-.9815-1.9194-1.5361-1.9722-4.2046-1.4341-6.0219.1812165-.6052113.4245444-1.1900564.7261-1.7452.7503224-1.5138869 1.9500705-2.7589691 3.4351-3.5649 1.8493462-.9596056 4.1088442-.5957076 5.5634.896.7216241.7908253 1.2651883 1.727263 1.594 2.7461.1741403.5170195-.0982507 1.0782018-.6121886 1.2612366-.513938.1830348-1.0797365-.0796331-1.2716114-.5903366-.2370831-.7527039-.6311586-1.4465454-1.1562-2.0357-.8480317-.8672392-2.1694059-1.0645586-3.2338-.4829-1.1136951.6280705-2.0087091 1.5816703-2.565 2.7329-.2337738.431336-.4225991.8855555-.5635 1.3555-.3886 1.3145-.3032 3.03.7691 3.8887 1.1723.9414 3.15.5434 4.2627-.4165.829232-.746533 1.5417334-1.6132856 2.1137-2.5713.1852213-.3103564.5234962-.4966162.8847981-.4871844.3613019.0094317.6893982.213087.8581746.5326844.1687764.3195975.1519648.7053954-.0439727 1.0091-.6774817 1.1288507-1.5209182 2.1493684-2.502 3.0273-1.0934765.9226171-2.4746572 1.4346934-3.9053 1.4479z" />
+                                <path
+                                    d="m57 61h-54c-1.65610033-.0018187-2.99818129-1.3438997-3-3v-37c.00001572-.3877788.22421679-.7405895.57528314-.9052857s.76569921-.1115825 1.06391686.1362857l24.5371 20.3925c2.2201734 1.8335597 5.4293979 1.8329723 7.6489-.0014l24.5348-20.3911c.2981965-.248376.7131706-.3017925 1.0645472-.1370311.3513766.1647613.5756955.5179438.5754528.9060311v37c-.0018187 1.6561003-1.3438997 2.9981813-3 3zm-55-37.8687v34.8687c.00071619.5519878.44801218.9992838 1 1h54c.5520791-.0004962.9995038-.4479209 1-1v-34.8687l-22.8979 19.03c-2.9606327 2.446724-7.241348 2.4473534-10.2027.0015z" />
+                                <path
+                                    d="m1.001 22c-.4355701.0003953-.82129491-.2811908-.95363398-.6961701-.13233908-.4149794.01915201-.8678864.37453398-1.1197299l9-6.38c.45059523-.3122969 1.0686272-.2035665 1.3855809.2437653s.2146394 1.0664583-.2293809 1.3880347l-9 6.38c-.16852428.1199208-.37026338.1842773-.5771.1841z" />
+                                <path
+                                    d="m58.999 22c-.2068366.0001773-.4085757-.0641792-.5771-.1841l-9-6.38c-.4440203-.3215764-.5463346-.9407029-.2293809-1.3880347s.9349857-.5560622 1.3855809-.2437653l9 6.38c.355382.2518435.5068731.7047505.374534 1.1197299-.1323391.4149793-.5180639.6965654-.953634.6961701z" />
+                                <path
+                                    d="m39.2393 8c-.2070115.00010935-.4089216-.06423486-.5777-.1841l-4.78-3.39c-2.2188862-1.87501472-5.4612857-1.89454674-7.7026-.0464l-4.84 3.4365c-.291493.20671388-.6711242.24221572-.9958901.09313231-.324766-.1490834-.5453271-.46010273-.5786-.81590001-.033273-.35579728.1257971-.70231843.4172901-.9090323l4.78-3.39c2.9536144-2.41503467 7.2051289-2.39582552 10.1368.0458l4.72 3.3438c.3556854.25178052.5073677.70490665.3749428 1.12008029s-.5184618.69678741-.9542428.69611971z" />
+                                <path
+                                    d="m1.65 60.46c-.42143186.0003675-.79786247-.263514-.94122905-.6598105-.14336657-.3962966-.02289448-.8399405.30122905-1.1092895l22.82-18.96c.2742111-.2331685.6525759-.3009793.9906961-.1775532.3381203.1234261.5838207.4190432.643333.7740327.0595122.3549896-.0763472.7145733-.3557291.9415205l-22.82 18.96c-.17916597.149357-.40504487.2311377-.6383.2311z" />
+                                <path
+                                    d="m58.3486 60.46c-.2330738.0001375-.4587858-.0816243-.6377-.231l-22.82-18.96c-.2793819-.2269472-.4152413-.5865309-.3557291-.9415205.0595123-.3549895.3052127-.6506066.643333-.7740327.3381202-.1234261.716485-.0556153.9906961.1775532l22.8194 18.96c.3241235.269349.4445956.7129929.301229 1.1092895-.1433665.3962965-.5197971.660178-.941229.6598105z" />
+                                <path
+                                    d="m50 29.48c-.5522847 0-1-.4477153-1-1v-20.4722c-.0029.021-.043-.0073-.11-.0078h-37.78c-.0442022-.00271479-.0875817.01282953-.12.043l.01 20.437c0 .5522847-.4477153 1-1 1-.55228475 0-1-.4477153-1-1v-20.48c.03226085-1.13410356.97579439-2.02844815 2.11-2h37.78c1.134163-.02833724 2.0776307.86594492 2.11 2v20.48c0 .5522847-.4477153 1-1 1z" />
+                            </svg>
+                        </div>
+                        <h3 class="text-[30px] leading-9 font-semibold mb-2">Location</h3>
+                        <p class="mb-4 max-w-[220px]">289 King&apos;s Road, 10th Floor, Riverside Plaza, USA</p>
+                        <div class="relative">
+                            <a href="contact.html"
+                                class="relative inline-block w-full px-10 py-4 rounded-4xl bg-theme-color text-center"><span
+                                    class="sub-title">Visit Us</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- main-footer -->
+        <footer class="main-footer bg-secondary-color dark:bg-[rgba(255,255,255,0.05)]">
+            <div class="container-layout">
+                <div class="pt-16 pb-12">
+                    <div class="grid grid-cols-1 md:grid-cols-12 gap-[30px]">
+                        <div class="lg:col-span-3 md:col-span-6 wow fadeUp">
+                            <h3 class="text-[20px] leading-7 font-bold text-white mb-4">Pages</h3>
+                            <ul class="links-list flow-root">
+                                <li class="block mb-3"><a href="about.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">About
+                                        Us</a></li>
+                                <li class="block mb-3"><a href="presence.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Presence
+                                    </a></li>
+                                <li class="block mb-3"><a href="service.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Services
+                                    </a></li>
+                                <li class="block mb-3"><a href="product-category.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Products
+                                    </a></li>
+                                <li class="block mb-3"><a href="contact.html"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Contact
+                                    </a></li>
+                            </ul>
+                        </div>
+                        <div class="lg:col-span-3 md:col-span-6 wow fadeUp">
+                            <h4 class="text-[20px] leading-7 font-bold text-white mb-4">Services</h4>
+                            <ul class="links-list flow-root">
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Product
+                                        Design</a></li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Product
+                                        Manufacturing</a></li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Power
+                                        Analysis</a></li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Installation
+                                        & Maintenance</a></li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Real
+                                        Time Support</a></li>
+                            </ul>
+                        </div>
+                        <div class="lg:col-span-2 md:col-span-6 wow fadeUp">
+                            <h4 class="text-[20px] leading-7 font-bold text-white mb-4">Product Line</h4>
+                            <ul class="links-list flow-root">
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">UPS</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Inverter</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Batteries</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">IT Solutions</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Photovoltaic</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">LED Lighting</a>
+                                </li>
+                                <li class="block mb-3"><a href="#"
+                                        class="relative inline-block text-[18px] text-[#b5b5b5] hover:text-theme-color">Accessories</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="lg:col-span-4 md:col-span-6 wow fadeUp">
+                            <h4 class="text-[20px] leading-7 font-bold text-white mb-4">Get In Touch</h4>
+                            <h2 class="text-[35px] leading-11 font-bold mb-5"><a href="tel:18004567890"
+                                    class="inline-block text-white border-b border-theme-color hover:text-theme-color">+(1800)
+                                    456 7890</a></h2>
+                            <h2 class="text-[35px] leading-11 font-bold mb-[50px]"><a href="mailto:example@info.com"
+                                    class="inline-block text-white border-b border-theme-color hover:text-theme-color">example@info.com</a>
+                            </h2>
+                            <ul class="flex items-center gap-3">
+                                <li class="text-[#b5b5b5]"><a href="index.html"
+                                        class="text-[#b5b5b5] hover:text-theme-color">Facebook</a></li>
+                                <li class="text-[#b5b5b5]">.</li>
+                                <li class="text-[#b5b5b5]"><a href="index.html"
+                                        class="text-[#b5b5b5] hover:text-theme-color">Instagram</a></li>
+                                <li class="text-[#b5b5b5]">.</li>
+                                <li class="text-[#b5b5b5]"><a href="index.html"
+                                        class="text-[#b5b5b5] hover:text-theme-color">LinkedIn</a></li>
+                                <li class="text-[#b5b5b5]">.</li>
+                                <li class="text-[#b5b5b5]"><a href="index.html"
+                                        class="text-[#b5b5b5] hover:text-theme-color">Twitter</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center pb-[74px] wow fadeUp">
+                    <p class="text-white">Copyright &copy; 2026 <a href="index.html"
+                            class="text-white hover:text-theme-color">Deutsche Power.</a> All Rights Reserved</p>
+                </div>
+            </div>
+        </footer>
+        <!-- main-footer end -->
+
+
+        <!-- scroll to top -->
+        <div class="back-to-top"><span class="back-to-top-percentage"></span></div>
+
+    </div>
+
+
+    <!-- jequery plugins -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/gsap.min.js"></script>
+    <script src="assets/js/gsap-scroll-trigger.min.js"></script>
+    <script src="assets/js/ScrollTrigger.js"></script>
+    <script src="assets/js/SplitText.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/validation.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/appear.js"></script>
+    <script src="assets/js/odometer.js"></script>
+    <script src="assets/js/lenis.min.js"></script>
+    <script src="assets/js/marquee.min.js"></script>
+    <script src="assets/js/jquery.lettering.min.js"></script>
+    <script src="assets/js/jquery.circleType.js"></script>
+
+    <!-- main-js -->
+    <script src="assets/js/script.js"></script>
+
+</body><!-- End of .page_wrapper -->
+
+</html>
