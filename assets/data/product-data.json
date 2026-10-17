@@ -1,0 +1,1575 @@
+{
+  "tabNames": [
+    "Overview",
+    "Key Features",
+    "Compliance"
+  ],
+  "products": [
+    {
+      "id": "xl-plus",
+      "name": "XL Plus",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "xl-sine-series",
+      "name": "XL Sine Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "elentra-series-green-mode",
+      "name": "Elentra Series Green Mode",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "elektra-series-1-1-it",
+      "name": "Elektra Series 1/1",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "elektra-series-3-1-it",
+      "name": "Elektra Series 3/1",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "elektra-series-3-3-it",
+      "name": "Elektra Series 3/3",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "elektra-one",
+      "name": "Elektra One",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "elektra-series-1-1-industrial",
+      "name": "Elektra Series 1/1",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "elektra-series-3-1-industrial",
+      "name": "Elektra Series 3/1",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "elektra-lf-3-3-industrial",
+      "name": "Elektra LF 3/3",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "moduler-fuhrer",
+      "name": "Moduler Fuhrer",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "enclosure-based-1-1",
+      "name": "Enclosure Based 1/1",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "elentra-sc-series",
+      "name": "Elentra SC Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "home-inverter-series",
+      "name": "Home Inverter Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "solo-inverter-series",
+      "name": "Solo Inverter Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "solo-sine-inverter",
+      "name": "Solo Sine Inverter",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "battery-index",
+      "name": "Battery Index",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "battery-principal",
+      "name": "Battery Principal",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "battery-features",
+      "name": "Battery Features",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "vrla-sla-fm-np-series",
+      "name": "VRLA/SLA FM-NP Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "vrla-sla-fm-npl-series",
+      "name": "VRLA/SLA FM-NPL Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "vrla-sla-fm-npg-series",
+      "name": "VRLA/SLA FM-NPG Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "vrla-sla-ft-npg-series",
+      "name": "VRLA/SLA FT-NPG Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "lifepo4",
+      "name": "LiFePO4",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "opzv-series-2v-cell",
+      "name": "OPzV Series, 2V Cell",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "opzs-series-2v-cell",
+      "name": "OPzS Series, 2V Cell",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "micro-data-center",
+      "name": "Single and Multirack Micro Data Center",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "modular-data-center",
+      "name": "Modular Data Center",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "container-data-center",
+      "name": "Container Data Center",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "power-distribution-unit-it",
+      "name": "Power Distribution Unit",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "server-rack",
+      "name": "Server Rack",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "solar-panel",
+      "name": "Solar Panel",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "solar-charge-controller",
+      "name": "Solar Charge Controller",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "on-grid-solar-inverter",
+      "name": "On-grid Solar Inverter",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "zon-plus-inverter",
+      "name": "Zon Plus Inverter",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "grid-tie-3-phase-inverter",
+      "name": "Grid Tie 3 Phase Inverter",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "dh-series",
+      "name": "DH Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "solo-series",
+      "name": "SOLO Series",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "solo-sine-inverter-photovoltaic",
+      "name": "SOLO Sine Inverter",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "led-residential-tube-lights",
+      "name": "LED Residential Tube Lights",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "led-down-lights",
+      "name": "LED Down Lights",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "led-industrial-tube-lights",
+      "name": "LED Industrial Tube Lights",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "anti-fogging-light",
+      "name": "Anti-fogging Light",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "panel-light",
+      "name": "Panel Light",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "grille-light",
+      "name": "Grille Light",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "led-outdoor-light",
+      "name": "LED Outdoor Light",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "led-flood-lights",
+      "name": "LED Flood Lights",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "environmental-sensor",
+      "name": "Environmental Sensor",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "management-software",
+      "name": "Management Software",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "snmp",
+      "name": "SNMP",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "modbus",
+      "name": "Modbus",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "power-distribution-unit-accessories",
+      "name": "Power Distribution Unit",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "ats",
+      "name": "ATS",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    },
+    {
+      "id": "outdoor-ups-cabinet",
+      "name": "Outdoor UPS Cabinet",
+      "images": [
+        "assets/images/project/project-1.jpg",
+        "assets/images/project/project-2.jpg",
+        "assets/images/project/project-3.jpg",
+        "assets/images/project/project-4.jpg",
+        "assets/images/project/project-5.jpg",
+        "assets/images/project/project-6.jpg"
+      ],
+      "tabs": [
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.",
+          "Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit amet at magna. Integer posuere erat a ante venenatis dapibus.",
+          "Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi, eu ornare lectus."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+          "Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+          "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod."
+        ],
+        [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.",
+          "Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+          "Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare."
+        ]
+      ]
+    }
+  ]
+}
