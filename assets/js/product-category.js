@@ -11,14 +11,14 @@ tabList.setAttribute("role", "tablist");
 tabList.setAttribute("aria-label", "Product categories");
 
 const productGrid = document.createElement("div");
-productGrid.className = "grid  lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-[30px] mb-[30px]";
+productGrid.className = "grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-[30px] mb-[30px]";
 productGrid.setAttribute("role", "tabpanel");
 productGrid.setAttribute("aria-live", "polite");
 productGrid.textContent = "Loading products...";
 
 catalogContainer.replaceChildren(tabList, productGrid);
 
-function createProductCard(product, category) {
+function createProductCard(product) {
     const card = document.createElement("a");
     card.className = "service-block group relative block pt-[296px] pb-5 px-5 rounded-3xl overflow-hidden";
     card.href = `product-detail.html?product=${encodeURIComponent(product.id)}`;
@@ -29,8 +29,9 @@ function createProductCard(product, category) {
 
     const image = document.createElement("img");
     image.className = "absolute left-0 top-0 w-full h-full object-cover duration-500 group-hover:scale-110";
-    image.src = category.image;
-    image.alt = "";
+    // Fixed: Read image directly from the individual product, falling back to a placeholder if missing
+    image.src = product.image || "assets/images/resource/image-placeholder.png";
+    image.alt = product.name || "";
     image.setAttribute("aria-hidden", "true");
     imageMask.append(image);
 
@@ -56,7 +57,7 @@ function selectCategory(categories, selectedIndex, tabs) {
     });
 
     productGrid.setAttribute("aria-labelledby", activeTab.id);
-    productGrid.replaceChildren(...category.products.map((product) => createProductCard(product, category)));
+    productGrid.replaceChildren(...category.products.map((product) => createProductCard(product)));
 }
 
 fetch("assets/data/products.json")

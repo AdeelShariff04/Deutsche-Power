@@ -93,7 +93,7 @@
 
 		el.css(
 			"background",
-			`conic-gradient(#FFC979 ${percent}%, #FFFFFF ${percent}%)`
+			`conic-gradient(#EE9139 ${percent}%, #FFFFFF ${percent}%)`
 		);
 
 		el.toggleClass("active", scrollTop > 100);

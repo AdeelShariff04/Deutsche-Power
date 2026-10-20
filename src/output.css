@@ -45,7 +45,7 @@
     --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     --default-font-family: var(--font-sans);
     --default-mono-font-family: var(--font-mono);
-    --color-theme-color: #ffc979;
+    --color-theme-color: #EE9139;
     --color-secondary-color: #121212;
     --color-text-color: #000000;
     --color-title-color: #000000;
@@ -3628,7 +3628,7 @@ input, textarea, .nice-select {
   }
   ::-webkit-scrollbar-thumb {
     border-radius: 10px;
-    background-image: linear-gradient(0deg, #ffc979 0%, #ffffff 47.6%, #ffc979 99.23% );
+    background-image: linear-gradient(0deg, #EE9139 0%, #ffffff 47.6%, #EE9139 99.23% );
   }
 }
 @layer components {

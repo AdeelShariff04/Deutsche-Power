@@ -7,14 +7,14 @@
   "products": [
     {
       "id": "xl-plus",
-      "name": "XL Plus",
+      "name": "XL Plus Series",
       "images": [
-        "assets/images/XL-PLUS SERIES.png",
-        "assets/images/XL-PLUS SERIES-1.png",
-        "assets/images/XL-PLUS SERIES-2.png",
-        "assets/images/XL-PLUS SERIES-3.png",
-        "assets/images/XL-PLUS SERIES-4.png",
-        "assets/images/XL-PLUS SERIES-5.png"
+        "assets/images/products/XL-Plus/1.png",
+        "assets/images/products/XL-Plus/2.png",
+        "assets/images/products/XL-Plus/3.png",
+        "assets/images/products/XL-Plus/4.png",
+        "assets/images/products/XL-Plus/5.png",
+        "assets/images/products/XL-Plus/6.png"
       ],
       "tabs": [
         [
