@@ -9,12 +9,12 @@
       "id": "xl-plus",
       "name": "XL Plus Series",
       "images": [
-        "assets/images/products/XL-Plus/1.png",
-        "assets/images/products/XL-Plus/2.png",
-        "assets/images/products/XL-Plus/3.png",
-        "assets/images/products/XL-Plus/4.png",
-        "assets/images/products/XL-Plus/5.png",
-        "assets/images/products/XL-Plus/6.png"
+        "assets/images/products/UPS/XL-Plus/1.png",
+        "assets/images/products/UPS/XL-Plus/2.png",
+        "assets/images/products/UPS/XL-Plus/3.png",
+        "assets/images/products/UPS/XL-Plus/4.png",
+        "assets/images/products/UPS/XL-Plus/5.png",
+        "assets/images/products/UPS/XL-Plus/6.png"
       ],
       "tabs": [
         [
@@ -43,12 +43,12 @@
       "id": "xl-sine-series",
       "name": "XL Sine Series",
       "images": [
-        "assets/images/products/XL-Plus/1.png",
-        "assets/images/products/XL-Plus/2.png",
-        "assets/images/products/XL-Plus/3.png",
-        "assets/images/products/XL-Plus/4.png",
-        "assets/images/products/XL-Plus/5.png",
-        "assets/images/products/XL-Plus/6.png"
+        "assets/images/products/UPS/XL-Sine-Series/1.png",
+        "assets/images/products/UPS/XL-Sine-Series/2.png",
+        "assets/images/products/UPS/XL-Sine-Series/3.png",
+        "assets/images/products/UPS/XL-Sine-Series/4.png",
+        "assets/images/products/UPS/XL-Sine-Series/5.png",
+        "assets/images/products/UPS/XL-Sine-Series/6.png"
       ],
       "tabs": [
         [
@@ -76,12 +76,12 @@
       "id": "elentra-series-green-mode",
       "name": "Elentra Series Green Mode",
       "images": [
-        "assets/images/products/ELENTRA SERIES GREEN1.png",
-        "assets/images/products/ELENTRA SERIES GREEN2.png",
-        "assets/images/products/ELENTRA SERIES GREEN3.png",
-        "assets/images/products/ELENTRA SERIES GREEN4.png",
-        "assets/images/products/ELENTRA SERIES GREEN5.png",
-        "assets/images/products/ELENTRA SERIES GREEN6.png"
+        "assets/images/products/UPS/Elentra-Series-Green-Mode/1.png",
+        "assets/images/products/UPS/Elentra-Series-Green-Mode/2.png",
+        "assets/images/products/UPS/Elentra-Series-Green-Mode/3.png",
+        "assets/images/products/UPS/Elentra-Series-Green-Mode/4.png",
+        "assets/images/products/UPS/Elentra-Series-Green-Mode/5.png",
+        "assets/images/products/UPS/Elentra-Series-Green-Mode/6.png"
       ],
       "tabs": [
         [
@@ -112,13 +112,12 @@
       "id": "elektra-series-1-1-it",
       "name": "Elektra Series 1/1",
       "images": [
-        "assets/images/products/ELEKTRA SERIES 1-1.png",
-        "assets/images/products/ELEKTRA SERIES 1-2.png",
-        "assets/images/products/ELEKTRA SERIES 1-3.png",
-        "assets/images/products/ELEKTRA SERIES 1-4.png",
-        "assets/images/products/ELEKTRA SERIES 1-5.png",
-        "assets/images/products/ELEKTRA SERIES 1-6.png"
-
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/1.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/2.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/3.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/4.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/5.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/6.png"
       ],
       "tabs": [
         [
@@ -149,12 +148,12 @@
       "id": "elektra-series-3-1-it",
       "name": "Elektra Series 3/1",
       "images": [
-        "assets/images/products/ELEKTRA SERIES 3/1-1.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-2.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-3.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-4.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-5.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-6.png"
+        "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/1.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/2.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/3.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/4.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/5.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/6.png"
       ],
       "tabs": [
         [
@@ -182,15 +181,15 @@
       ]
     },
     {
-      "id": "elektra-series-3-3-it",
+      "id": "elektra-series-3-3-it-500kva",
       "name": "Elektra Series 3/3",
       "images": [
-        "assets/images/products/ELEKTRA SERIES 3/3-1.png",
-        "assets/images/products/ELEKTRA SERIES 3/3-2.png",
-        "assets/images/products/ELEKTRA SERIES 3/3-3.png",
-        "assets/images/products/ELEKTRA SERIES 3/3-4.png",
-        "assets/images/products/ELEKTRA SERIES 3/3-5.png",
-        "assets/images/products/ELEKTRA SERIES 3/3-6.png"
+        "assets/images/products/UPS/Elektra-Series-3.3/500KVA/1.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/500KVA/2.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/500KVA/3.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/500KVA/4.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/500KVA/5.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/500KVA/6.png"
       ],
       "tabs": [
         [
@@ -221,12 +220,12 @@
       "id": "elektra-one",
       "name": "Elektra One",
       "images": [
-        "assets/images/products/ELEKTRA ONE SERIES1.png",
-        "assets/images/products/ELEKTRA ONE SERIES2.png",
-        "assets/images/products/ELEKTRA ONE SERIES3.png",
-        "assets/images/products/ELEKTRA ONE SERIES4.png",
-        "assets/images/products/ELEKTRA ONE SERIES5.png",
-        "assets/images/products/ELEKTRA ONE SERIES6.png"
+        "assets/images/products/UPS/Elektra-Series-One/1.png",
+        "assets/images/products/UPS/Elektra-Series-One/2.png",
+        "assets/images/products/UPS/Elektra-Series-One/3.png",
+        "assets/images/products/UPS/Elektra-Series-One/4.png",
+        "assets/images/products/UPS/Elektra-Series-One/5.png",
+        "assets/images/products/UPS/Elektra-Series-One/6.png"
       ],
       "tabs": [
         [
@@ -253,15 +252,52 @@
       ]
     },
     {
+      "id": "elektra-series-3-3-it-200kva",
+      "name": "Elektra Series 3/3",
+      "images": [
+        "assets/images/products/UPS/Elektra-Series-3.3/200KVA/1.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/200KVA/2.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/200KVA/3.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/200KVA/4.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/200KVA/5.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/200KVA/6.png"
+      ],
+      "tabs": [
+        [
+          "Elektra Series 3/3 is an IT-grade high-frequency online double-conversion UPS engineered for mission-critical three-phase power protection across data centers, medical labs, and enterprise IT infrastructure.",
+          "Built with a compact footprint and full DSP digital control, the system delivers zero transfer time (0ms), an active input power factor above 0.99, and up to 94% operational efficiency (exceeding 98% in ECO mode) to significantly lower total operating costs.",
+          "Its robust topology guarantees stable, surge-free power even under heavy electrical disturbances, supporting 100% unbalanced load capacity and broad generator synchronization across fluctuating utility grids."
+        ],
+        [
+          "Capacity Range: 08 kVA to 200 kVA (scalable up to 500 kVA 3-phase in / 3-phase out).",
+          "True Online Double-Conversion Topology with 0ms transfer time for uninterrupted continuity.",
+          "High Output Power Factor: 0.9 standard (unity PF 1.0 available on request).",
+          "Active Power Factor Correction (PFC): Input PF > 0.99 with low harmonic distortion (THDi ≤ 3%).",
+          "Ultra-Wide Input Range: 208–478 VAC voltage and 40–70 Hz frequency for seamless generator compatibility.",
+          "Dual LCD & LED Display: Real-time telemetry monitoring for load status, voltage, frequency, and fault history.",
+          "Intelligent Battery Management: Cold DC start capability and flexible battery string configurations (16/18/20 or 32–40 blocks).",
+          "Emergency Power Off (EPO) and full support for unbalanced loads."
+        ],
+        [
+          "Target Applications: Hyperscale and enterprise data centers, telecom VoIP nodes, medical diagnostic labs, railway control systems, and automated industrial plants.",
+          "Standard Communication Ports: USB, RS232, RS485, Parallel redundancy bus, and programmable dry contacts.",
+          "Optional Network Interfaces: Intelligent smart slot for SNMP network cards, AS400 relay cards, and environmental monitoring probes.",
+          "Safety Standards: Fully compliant with IEC/EN 62040-1 and IEC/EN 60950-1.",
+          "EMC & Immunity Compliance: Certified to IEC/EN 62040-2, IEC 61000-4-2, IEC 61000-4-3, IEC 61000-4-4, IEC 61000-4-5, IEC 61000-4-6, and IEC 61000-4-8.",
+          "Environmental & Overload Resilience: High overload endurance with optional dust-proof filtration kits for harsh industrial conditions."
+        ]
+      ]
+    },
+    {
       "id": "elektra-series-1-1-industrial",
       "name": "Elektra Series 1/1",
       "images": [
-        "assets/images/products/ELEKTRA SMALL FOOT PRINT SERIES1.png",
-        "assets/images/products/ELEKTRA SMALL FOOT PRINT SERIES2.png",
-        "assets/images/products/ELEKTRA SMALL FOOT PRINT SERIES3.png",
-        "assets/images/products/ELEKTRA SMALL FOOT PRINT SERIES4.png",
-        "assets/images/products/ELEKTRA SMALL FOOT PRINT SERIES5.png",
-        "assets/images/products/ELEKTRA SMALL FOOT PRINT SERIES6.png"
+        "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/1.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/2.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/3.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/4.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/5.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/6.png"
       ],
       "tabs": [
         [
@@ -288,12 +324,12 @@
       "id": "elektra-series-3-1-industrial",
       "name": "Elektra Series 3/1",
       "images": [
-        "assets/images/products/ELEKTRA SERIES 3/1-11.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-12.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-13.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-14.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-15.png",
-        "assets/images/products/ELEKTRA SERIES 3/1-16.png"
+        "assets/images/products/UPS/Elektra-Series-3.1/Industrial-Grade/1.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/Industrial-Grade/2.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/Industrial-Grade/3.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/Industrial-Grade/4.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/Industrial-Grade/5.png",
+        "assets/images/products/UPS/Elektra-Series-3.1/Industrial-Grade/6.png"
       ],
       "tabs": [
         [
@@ -323,12 +359,12 @@
       "id": "elektra-lf-3-3-industrial",
       "name": "Elektra LF 3/3",
       "images": [
-        "assets/images/products/ELEKTRA LF33-1.png",
-        "assets/images/products/ELEKTRA LF33-2.png",
-        "assets/images/products/ELEKTRA LF33-3.png",
-        "assets/images/products/ELEKTRA LF33-4.png",
-        "assets/images/products/ELEKTRA LF33-5.png",
-        "assets/images/products/ELEKTRA LF33-6.png"
+        "assets/images/products/UPS/Elektra-Series-3.3/LF/1.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/LF/2.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/LF/3.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/LF/4.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/LF/5.png",
+        "assets/images/products/UPS/Elektra-Series-3.3/LF/6.png"
       ],
       "tabs": [
         [
