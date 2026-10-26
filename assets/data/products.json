@@ -30,8 +30,8 @@
       ]
     },
     {
-      "id": "batteries",
-      "name": "Batteries",
+      "id": "storage",
+      "name": "Storage",
       "products": [
         { "id": "battery-index", "name": "Battery Index", "image": "assets/images/service/service-3.png" },
         { "id": "battery-principal", "name": "Battery Principal", "image": "assets/images/service/service-3.png" },
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "id": "it",
-      "name": "IT",
+      "id": "digital",
+      "name": "Digital",
       "products": [
         { "id": "micro-data-center", "name": "Dual-rack Micro Data Center", "image": "assets/images/service/service-1.png" },
         { "id": "modular-data-center", "name": "Modular Data Center", "image": "assets/images/service/service-1.png" },
@@ -57,8 +57,8 @@
       ]
     },
     {
-      "id": "photovoltaic",
-      "name": "Photovoltaic",
+      "id": "pv solar",
+      "name": "PV Solar",
       "products": [
         { "id": "solar-panel", "name": "Solar Panel", "image": "assets/images/service/service-2.png" },
         { "id": "solar-charge-controller", "name": "Solar Charge Controller", "image": "assets/images/service/service-2.png" },
