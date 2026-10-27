@@ -3,6 +3,7 @@ const productGallery = document.querySelector("#product-gallery");
 const productTabs = document.querySelector("#product-tabs");
 const productContent = document.querySelector("#product-content");
 const productEnquiry = document.querySelector("#product-enquiry");
+const productVideo = document.querySelector("#product-video");
 
 if (!productName || !productGallery || !productTabs || !productContent || !productEnquiry) {
     throw new Error("Product detail page is missing required content elements.");
@@ -23,6 +24,7 @@ function renderProduct(product, tabNames) {
     productName.textContent = product.name;
     document.title = `${product.name} | Deutsche Power`;
 
+    // Inquiry dropdown option
     const enquiryOption = document.createElement("option");
     enquiryOption.value = product.id;
     enquiryOption.textContent = product.name;
@@ -33,12 +35,34 @@ function renderProduct(product, tabNames) {
         window.jQuery(productEnquiry).niceSelect("update");
     }
 
+    // Dynamic Video Handler
+    if (productVideo) {
+        const videoElement = productVideo.querySelector("video");
+        const videoSource = videoElement?.querySelector("source");
+        if (typeof product.video === "string" && product.video.trim() && videoElement && videoSource) {
+            productVideo.style.display = "";
+            videoElement.muted = true;
+            videoElement.setAttribute("playsinline", "");
+            videoSource.src = new URL(product.video.trim(), document.baseURI).href;
+            videoElement.load();
+            videoElement.play().catch(() => {
+                videoElement.controls = true;
+            });
+        } else {
+            videoSource?.removeAttribute("src");
+            videoElement?.load();
+            productVideo.style.display = "none";
+        }
+    }
+
+    // Expanding Gallery
     productGallery.replaceChildren(...product.images.map((imagePath, index) => {
         const item = document.createElement("div");
-        item.className = `moving-item relative rounded-2xl overflow-hidden md:w-[165px] w-full ${index < product.images.length - 1 ? "md:mb-0 mb-2.5" : ""} min-h-[630px] transition-[width] duration-500 md:[&.active]:w-[650px]`;
-        if (index === 0) {
-            item.classList.add("active");
-        }
+        item.className = `moving-item relative rounded-2xl overflow-hidden md:w-[165px] w-full ${
+            index < product.images.length - 1 ? "md:mb-0 mb-2.5" : ""
+        } min-h-[630px] transition-[width] duration-500 md:[&.active]:w-[650px]`;
+        
+        if (index === 0) item.classList.add("active");
 
         const imageBox = document.createElement("div");
         imageBox.className = "image-box relative block min-h-[630px] md:w-[165px] w-full bg-cover bg-no-repeat md:in-[.active]:w-[650px] in-[.active]:w-full duration-500";
@@ -49,6 +73,7 @@ function renderProduct(product, tabNames) {
         imageLink.href = imagePath;
         imageLink.setAttribute("aria-label", `${product.name} image ${index + 1}`);
         imageLink.setAttribute("data-fancybox", "gallery");
+        
         if (window.jQuery && window.jQuery.fn.fancybox) {
             window.jQuery(imageLink).fancybox({
                 openEffect: "fade",
@@ -56,15 +81,19 @@ function renderProduct(product, tabNames) {
                 helpers: { media: {} },
             });
         }
+        
         imageBox.append(imageLink);
         item.append(imageBox);
+        
         item.addEventListener("mouseenter", () => {
             productGallery.querySelectorAll(".moving-item").forEach((galleryItem) => galleryItem.classList.remove("active"));
             item.classList.add("active");
         });
+        
         return item;
     }));
 
+    // Tabs
     let selectedIndex = 0;
     const buttons = tabNames.map((tabName, index) => {
         const listItem = document.createElement("li");
@@ -77,13 +106,16 @@ function renderProduct(product, tabNames) {
         button.className = "relative flex w-full items-center justify-between py-3.5 px-0 hover:px-7 hover:rounded-2xl text-left text-[18px] leading-7 font-semibold font-title-font border-b border-[#e1e1e1] hover:bg-theme-color hover:border-theme-color";
         button.setAttribute("role", "tab");
         button.setAttribute("aria-controls", "product-tab-panel");
+        
         const label = document.createElement("span");
         label.className = "text inline-block";
         label.textContent = tabName;
+        
         const icon = document.createElement("img");
         icon.src = "assets/images/icons/icon-1.png";
         icon.alt = "";
         icon.setAttribute("aria-hidden", "true");
+        
         button.append(label, icon);
         button.addEventListener("click", () => selectTab(index));
         button.addEventListener("keydown", (event) => {
@@ -178,6 +210,7 @@ fetch("assets/data/product-data.json")
             productContent.firstElementChild.append(catalogLink);
             productGallery.remove();
             productTabs.replaceChildren();
+            if (productVideo) productVideo.style.display = "none";
             return;
         }
 
@@ -196,5 +229,6 @@ fetch("assets/data/product-data.json")
         productName.textContent = "Product details unavailable";
         productTabs.replaceChildren();
         productGallery.replaceChildren();
+        if (productVideo) productVideo.style.display = "none";
         showMessage(productContent, "Product details could not be loaded. Please refresh the page.");
     });
