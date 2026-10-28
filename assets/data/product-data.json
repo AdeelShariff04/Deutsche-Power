@@ -403,12 +403,12 @@
       "id": "moduler-fuhrer",
       "name": "Moduler Fuhrer",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/UPS/Modular-fuhrer/1.png",
+        "assets/images/products/UPS/Modular-fuhrer/2.png",
+        "assets/images/products/UPS/Modular-fuhrer/3.png",
+        "assets/images/products/UPS/Modular-fuhrer/4.png",
+        "assets/images/products/UPS/Modular-fuhrer/5.png",
+        "assets/images/products/UPS/Modular-fuhrer/6.png"
       ],
       "tabs": [
         [
@@ -435,12 +435,12 @@
       "id": "enclosure-based-1-1",
       "name": "Enclosure Based 1/1",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/UPS/Enclosure-UPS/1.png",
+        "assets/images/products/UPS/Enclosure-UPS/2.png",
+        "assets/images/products/UPS/Enclosure-UPS/3.png",
+        "assets/images/products/UPS/Enclosure-UPS/4.png",
+        "assets/images/products/UPS/Enclosure-UPS/5.png",
+        "assets/images/products/UPS/Enclosure-UPS/6.png"
       ],
       "tabs": [
         [
@@ -469,12 +469,12 @@
       "id": "elentra-sc-series",
       "name": "Elentra SC Series",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/UPS/Elentra-SC-Series/1.png",
+        "assets/images/products/UPS/Elentra-SC-Series/2.png",
+        "assets/images/products/UPS/Elentra-SC-Series/3.png",
+        "assets/images/products/UPS/Elentra-SC-Series/4.png",
+        "assets/images/products/UPS/Elentra-SC-Series/5.png",
+        "assets/images/products/UPS/Elentra-SC-Series/6.png"
       ],
       "tabs": [
         [
@@ -616,12 +616,12 @@
       "id": "battery-index",
       "name": "Battery Index",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Storage/Battery/Index/1.png",
+        "assets/images/products/Storage/Battery/Index/2.png",
+        "assets/images/products/Storage/Battery/Index/3.png",
+        "assets/images/products/Storage/Battery/Index/4.png",
+        "assets/images/products/Storage/Battery/Index/5.png",
+        "assets/images/products/Storage/Battery/Index/6.png"
       ],
       "tabs": [
         [
@@ -646,12 +646,12 @@
       "id": "battery-principal",
       "name": "Battery Principal",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Storage/Battery/Principal/1.png",
+        "assets/images/products/Storage/Battery/Principal/2.png",
+        "assets/images/products/Storage/Battery/Principal/3.png",
+        "assets/images/products/Storage/Battery/Principal/4.png",
+        "assets/images/products/Storage/Battery/Principal/5.png",
+        "assets/images/products/Storage/Battery/Principal/6.png"
       ],
       "tabs": [
         [
@@ -676,12 +676,13 @@
       "id": "battery-features",
       "name": "Battery Features",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Storage/Battery/Features/1.png",
+        "assets/images/products/Storage/Battery/Features/2.png",
+        "assets/images/products/Storage/Battery/Features/3.png",  
+        "assets/images/products/Storage/Battery/Features/4.png",
+        "assets/images/products/Storage/Battery/Features/5.png",
+        "assets/images/products/Storage/Battery/Features/6.png"
+       
       ],
       "tabs": [
         [
@@ -707,12 +708,12 @@
       "id": "vrla-sla-fm-np-series",
       "name": "VRLA/SLA FM-NP Series",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Storage/VRLA-SLA/FM-NP/1.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NP/2.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NP/3.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NP/4.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NP/5.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NP/6.png"
       ],
       "tabs": [
         [
@@ -739,12 +740,12 @@
       "id": "vrla-sla-fm-npl-series",
       "name": "VRLA/SLA FM-NPL Series",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Storage/VRLA-SLA/FM-NPL/1.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPL/2.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPL/3.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPL/4.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPL/5.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPL/6.png"
       ],
       "tabs": [
         [
@@ -773,12 +774,12 @@
       "id": "vrla-sla-fm-npg-series",
       "name": "VRLA/SLA FM-NPG Series",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Storage/VRLA-SLA/FM-NPG/1.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPG/2.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPG/3.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPG/4.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPG/5.png",
+        "assets/images/products/Storage/VRLA-SLA/FM-NPG/6.png"
       ],
       "tabs": [
         [
@@ -807,12 +808,12 @@
       "id": "vrla-sla-ft-npg-series",
       "name": "VRLA/SLA FT-NPG Series",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Storage/VRLA-SLA/FT-NPG/1.png",
+        "assets/images/products/Storage/VRLA-SLA/FT-NPG/2.png",
+        "assets/images/products/Storage/VRLA-SLA/FT-NPG/3.png",
+        "assets/images/products/Storage/VRLA-SLA/FT-NPG/4.png",
+        "assets/images/products/Storage/VRLA-SLA/FT-NPG/5.png",
+        "assets/images/products/Storage/VRLA-SLA/FT-NPG/6.png"
       ],
       "tabs": [
         [
@@ -876,12 +877,12 @@
       "id": "opzv-series-2v-cell",
       "name": "OPzV Series, 2V Cell",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Storage/OPzV/1.png",
+        "assets/images/products/Storage/OPzV/2.png",
+        "assets/images/products/Storage/OPzV/3.png",
+        "assets/images/products/Storage/OPzV/4.png",
+        "assets/images/products/Storage/OPzV/5.png",
+        "assets/images/products/Storage/OPzV/6.png"
       ],
       "tabs": [
         [
@@ -913,12 +914,12 @@
       "id": "opzs-series-2v-cell",
       "name": "OPzS Series, 2V Cell",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Storage/OPzS/1.png",
+        "assets/images/products/Storage/OPzS/2.png",
+        "assets/images/products/Storage/OPzS/3.png",
+        "assets/images/products/Storage/OPzS/4.png",
+        "assets/images/products/Storage/OPzS/5.png",
+        "assets/images/products/Storage/OPzS/6.png"
       ],
       "tabs": [
         [
