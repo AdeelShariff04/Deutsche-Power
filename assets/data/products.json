@@ -40,7 +40,9 @@
         { "id": "vrla-sla-fm-npl-series", "name": "VRLA/SLA FM-NPL Series", "image": "assets/images/service/service-3.png" },
         { "id": "vrla-sla-fm-npg-series", "name": "VRLA/SLA FM-NPG Series", "image": "assets/images/service/service-3.png" },
         { "id": "vrla-sla-ft-npg-series", "name": "VRLA/SLA FT-NPG Series", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4", "name": "LiFePO4", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-24v", "name": "LiFePO4 Battery 24V", "image": "assets/images/service/service-3.png" },        
+        { "id": "lifepo4-48v", "name": "LiFePO4 Battery 48V", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-512v-100ah", "name": "LiFePO4 Battery 51.2V", "image": "assets/images/service/service-3.png" },
         { "id": "opzv-series-2v-cell", "name": "OPzV Series, 2V Cell", "image": "assets/images/service/service-3.png" },
         { "id": "opzs-series-2v-cell", "name": "OPzS Series, 2V Cell", "image": "assets/images/service/service-3.png" }
       ]
