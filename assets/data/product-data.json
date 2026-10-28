@@ -506,12 +506,12 @@
       "id": "home-inverter-series",
       "name": "Home Inverter Series",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Inverter/Home/1.png",
+        "assets/images/products/Inverter/Home/2.png",
+        "assets/images/products/Inverter/Home/3.png",
+        "assets/images/products/Inverter/Home/4.png",
+        "assets/images/products/Inverter/Home/5.png",
+        "assets/images/products/Inverter/Home/6.png"
       ],
       "tabs": [
         [
@@ -543,12 +543,12 @@
       "id": "solo-inverter-series",
       "name": "Solo Inverter Series",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Inverter/Solo/1.png",
+        "assets/images/products/Inverter/Solo/2.png",
+        "assets/images/products/Inverter/Solo/3.png",
+        "assets/images/products/Inverter/Solo/4.png",
+        "assets/images/products/Inverter/Solo/5.png",
+        "assets/images/products/Inverter/Solo/6.png"
       ],
       "tabs": [
         [
@@ -580,12 +580,12 @@
       "id": "solo-sine-inverter",
       "name": "Solo Sine Inverter",
       "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
+        "assets/images/products/Inverter/Solo-sine/1.png",
+        "assets/images/products/Inverter/Solo-sine/2.png",
+        "assets/images/products/Inverter/Solo-sine/3.png",
+        "assets/images/products/Inverter/Solo-sine/4.png",
+        "assets/images/products/Inverter/Solo-sine/5.png",
+        "assets/images/products/Inverter/Solo-sine/6.png"
       ],
       "tabs": [
         [

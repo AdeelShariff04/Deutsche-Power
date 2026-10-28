@@ -6,27 +6,27 @@
       "products": [
         { "id": "xl-plus", "name": "XL Plus", "image": "assets/images/products/UPS/XL-Plus/Cover.png" },
         { "id": "xl-sine-series", "name": "XL Sine Series", "image": "assets/images/products/UPS/XL-Sine-Series/Cover.png" },
-        { "id": "elentra-series-green-mode", "name": "Elentra Series Green Mode", "image": "assets/images/service/service-1.png" },
-        { "id": "elektra-series-1-1-it", "name": "Elektra Series 1/1", "image": "assets/images/service/service-1.png" },
-        { "id": "elektra-series-3-1-it", "name": "Elektra Series 3/1", "image": "assets/images/service/service-1.png" },
-        { "id": "elektra-series-3-3-it-500kva", "name": "Elektra Series 3/3", "image": "assets/images/service/service-1.png" },
-        { "id": "elektra-one", "name": "Elektra One", "image": "assets/images/service/service-1.png" },
-        { "id": "elektra-series-3-3-it-200kva", "name": "Elektra Series 3/3", "image": "assets/images/service/service-1.png" },
-        { "id": "elektra-series-1-1-industrial", "name": "Elektra Series 1/1", "image": "assets/images/service/service-1.png" },
-        { "id": "elektra-series-3-1-industrial", "name": "Elektra Series 3/1", "image": "assets/images/service/service-1.png" },
-        { "id": "elektra-lf-3-3-industrial", "name": "Elektra LF 3/3", "image": "assets/images/service/service-1.png" },
-        { "id": "moduler-fuhrer", "name": "Moduler Fuhrer", "image": "assets/images/service/service-1.png" },
-        { "id": "enclosure-based-1-1", "name": "Enclosure Based 1/1", "image": "assets/images/service/service-1.png" },
-        { "id": "elentra-sc-series", "name": "Elentra SC Series", "image": "assets/images/service/service-1.png" }
+        { "id": "elentra-series-green-mode", "name": "Elentra Series Green Mode", "image": "assets/images/products/UPS/Elentra-Series-Green-Mode/Cover.png" },
+        { "id": "elektra-series-1-1-it", "name": "Elektra Series 1/1", "image": "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/Cover.png" },
+        { "id": "elektra-series-3-1-it", "name": "Elektra Series 3/1", "image": "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/Cover.png" },
+        { "id": "elektra-series-3-3-it-500kva", "name": "Elektra Series 3/3", "image": "assets/images/products/UPS/Elektra-Series-3.3/500KVA/Cover (1).png" },
+        { "id": "elektra-one", "name": "Elektra One", "image": "assets/images/products/UPS/Elektra-Series-One/Cover.png" },
+        { "id": "elektra-series-3-3-it-200kva", "name": "Elektra Series 3/3", "image": "assets/images/products/UPS/Elektra-Series-3.3/200KVA/Cover (1).png" },
+        { "id": "elektra-series-1-1-industrial", "name": "Elektra Series 1/1", "image": "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/Cover.png" },
+        { "id": "elektra-series-3-1-industrial", "name": "Elektra Series 3/1", "image": "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/Cover.png" },
+        { "id": "elektra-lf-3-3-industrial", "name": "Elektra LF 3/3", "image": "assets/images/products/UPS/Elektra-Series-3.3/LF/Cover.png" },
+        { "id": "moduler-fuhrer", "name": "Moduler Fuhrer", "image": "assets/images/products/UPS/Modular-fuhrer/Cover.png" },
+        { "id": "enclosure-based-1-1", "name": "Enclosure Based 1/1", "image": "assets/images/products/UPS/Enclosure-UPS/Cover.png" },
+        { "id": "elentra-sc-series", "name": "Elentra SC Series", "image": "assets/images/products/UPS/Elentra-SC-Series/Cover.png" }
       ]
     },
     {
       "id": "inverter",
       "name": "Inverter",
       "products": [
-        { "id": "home-inverter-series", "name": "Home Inverter Series", "image": "assets/images/service/service-2.png" },
-        { "id": "solo-inverter-series", "name": "Solo Inverter Series", "image": "assets/images/service/service-2.png" },
-        { "id": "solo-sine-inverter", "name": "Solo Sine Inverter", "image": "assets/images/service/service-2.png" }
+        { "id": "home-inverter-series", "name": "Home Inverter Series", "image": "assets/images/products/Inverter/Home/Cover.png" },
+        { "id": "solo-inverter-series", "name": "Solo Inverter Series", "image": "assets/images/products/Inverter/Solo/Cover.png" },
+        { "id": "solo-sine-inverter", "name": "Solo Sine Inverter", "image": "assets/images/products/Inverter/Solo-sine/Cover.png" }
       ]
     },
     {
