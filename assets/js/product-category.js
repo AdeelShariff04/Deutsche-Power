@@ -84,7 +84,10 @@ fetch("assets/data/products.json")
             tab.setAttribute("role", "tab");
             tab.setAttribute("aria-controls", "product-grid");
             tab.textContent = category.name;
-            tab.addEventListener("click", () => selectCategory(data.categories, index, tabs));
+            tab.addEventListener("click", () => {
+                selectCategory(data.categories, index, tabs);
+                history.replaceState(null, "", `?category=${encodeURIComponent(category.id)}`);
+            });
             tab.addEventListener("keydown", (event) => {
                 let nextIndex;
                 if (event.key === "ArrowRight") {
@@ -102,6 +105,7 @@ fetch("assets/data/products.json")
                 event.preventDefault();
                 tabs[nextIndex].focus();
                 selectCategory(data.categories, nextIndex, tabs);
+                history.replaceState(null, "", `?category=${encodeURIComponent(data.categories[nextIndex].id)}`);
             });
 
             listItem.append(tab);
@@ -110,7 +114,9 @@ fetch("assets/data/products.json")
         });
 
         productGrid.id = "product-grid";
-        selectCategory(data.categories, 0, tabs);
+        const requestedCategory = new URLSearchParams(window.location.search).get("category");
+        const selectedIndex = data.categories.findIndex((category) => category.id === requestedCategory);
+        selectCategory(data.categories, selectedIndex >= 0 ? selectedIndex : 0, tabs);
     })
     .catch((error) => {
         console.error("Unable to display the product catalog.", error);
