@@ -15,7 +15,7 @@
         { "id": "elektra-series-1-1-industrial", "name": "Elektra Series 1/1", "image": "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/Cover.png" },
         { "id": "elektra-series-3-1-industrial", "name": "Elektra Series 3/1", "image": "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/Cover.png" },
         { "id": "elektra-lf-3-3-industrial", "name": "Elektra LF 3/3", "image": "assets/images/products/UPS/Elektra-Series-3.3/LF/Cover.png" },
-        { "id": "moduler-fuhrer", "name": "Moduler Fuhrer", "image": "assets/images/products/UPS/Modular-fuhrer/Cover.png" },
+        { "id": "moduler-fuhrer", "name": "ESHS Moduler Fuhrer", "image": "assets/images/products/UPS/Modular-fuhrer/Cover.png" },
         { "id": "enclosure-based-1-1", "name": "Enclosure Based 1/1", "image": "assets/images/products/UPS/Enclosure-UPS/Cover.png" },
         { "id": "elentra-sc-series", "name": "Elentra SC Series", "image": "assets/images/products/UPS/Elentra-SC-Series/Cover.png" }
       ]
@@ -25,7 +25,6 @@
       "name": "Inverter",
       "products": [
         { "id": "home-inverter-series", "name": "Home Inverter Series", "image": "assets/images/products/Inverter/Home/Cover.png" },
-        { "id": "solo-inverter-series", "name": "Solo Inverter Series", "image": "assets/images/products/Inverter/Solo/Cover.png" },
         { "id": "solo-sine-inverter", "name": "Solo Sine Inverter", "image": "assets/images/products/Inverter/Solo-sine/Cover.png" }
       ]
     },
@@ -33,16 +32,10 @@
       "id": "storage",
       "name": "Storage",
       "products": [
-        { "id": "battery-index", "name": "Battery Index", "image": "assets/images/service/service-3.png" },
-        { "id": "battery-principal", "name": "Battery Principal", "image": "assets/images/service/service-3.png" },
-        { "id": "battery-features", "name": "Battery Features", "image": "assets/images/service/service-3.png" },
         { "id": "vrla-sla-fm-np-series", "name": "VRLA/SLA FM-NP Series", "image": "assets/images/service/service-3.png" },
         { "id": "vrla-sla-fm-npl-series", "name": "VRLA/SLA FM-NPL Series", "image": "assets/images/service/service-3.png" },
         { "id": "vrla-sla-fm-npg-series", "name": "VRLA/SLA FM-NPG Series", "image": "assets/images/service/service-3.png" },
         { "id": "vrla-sla-ft-npg-series", "name": "VRLA/SLA FT-NPG Series", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-24v", "name": "LiFePO4 Battery 24V", "image": "assets/images/service/service-3.png" },        
-        { "id": "lifepo4-48v", "name": "LiFePO4 Battery 48V", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-512v-100ah", "name": "LiFePO4 Battery 51.2V", "image": "assets/images/service/service-3.png" },
         { "id": "opzv-series-2v-cell", "name": "OPzV Series, 2V Cell", "image": "assets/images/service/service-3.png" },
         { "id": "opzs-series-2v-cell", "name": "OPzS Series, 2V Cell", "image": "assets/images/service/service-3.png" }
       ]
@@ -59,22 +52,38 @@
       ]
     },
     {
-      "id": "pv solar",
-      "name": "PV Solar",
+      "id": "photovoltaic",
+      "name": "PV Inverter",
       "products": [
-        { "id": "solar-panel", "name": "Solar Panel", "image": "assets/images/service/service-2.png" },
-        { "id": "solar-charge-controller", "name": "Solar Charge Controller", "image": "assets/images/service/service-2.png" },
-        { "id": "on-grid-solar-inverter", "name": "On-grid Solar Inverter", "image": "assets/images/service/service-2.png" },
-        { "id": "zon-plus-inverter", "name": "Zon Plus Inverter", "image": "assets/images/service/service-2.png" },
-        { "id": "grid-tie-3-phase-inverter", "name": "Grid Tie 3 Phase Inverter", "image": "assets/images/service/service-2.png" },
-        { "id": "dh-series", "name": "DH Series", "image": "assets/images/service/service-2.png" },
-        { "id": "solo-series", "name": "SOLO Series", "image": "assets/images/service/service-2.png" },
-        { "id": "solo-sine-inverter-photovoltaic", "name": "SOLO Sine Inverter", "image": "assets/images/service/service-2.png" }
+        { "id": "solo-nova-hybrid-inverter", "name": "Solo Nova Hybrid Inverter", "image": "assets/images/service/service-3.png" }
       ]
     },
     {
-      "id": "led",
-      "name": "LED",
+      "id": "lifepo4",
+      "name": "LiFePO4",
+      "products": [
+        { "id": "lifepo4-24v", "name": "LiFePO4 Battery HV 24V", "image": "assets/images/service/service-3.png" },        
+        { "id": "lifepo4-48v", "name": "LiFePO4 Battery HV 48V", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-512v-100ah", "name": "LiFePO4 Battery HV 51.2V", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-24v", "name": "LiFePO4 Battery HV 24V", "image": "assets/images/service/service-3.png" },        
+        { "id": "lifepo4-48v", "name": "LiFePO4 Battery LV 48V", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-512v-100ah", "name": "LiFePO4 Battery LV 51.2V", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-512v-100ah", "name": "LiFePO4 Battery LV 51.2V", "image": "assets/images/service/service-3.png" }
+      ]
+    },
+    {
+      "id": "solution",
+      "name": "Smart Solution",
+      "products": [
+        { "id": "environmental-sensor", "name": "Environmental Sensor", "image": "assets/images/service/service-1.png" },
+        { "id": "management-software", "name": "Management Software", "image": "assets/images/service/service-1.png" },
+        { "id": "snmp", "name": "SNMP", "image": "assets/images/service/service-1.png" },
+        { "id": "modbus", "name": "Modbus", "image": "assets/images/service/service-1.png" }
+      ]
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
       "products": [
         { "id": "led-residential-tube-lights", "name": "LED Residential Tube Lights", "image": "assets/images/service/service-3.png" },
         { "id": "led-down-lights", "name": "LED Down Lights", "image": "assets/images/service/service-3.png" },
@@ -83,17 +92,7 @@
         { "id": "panel-light", "name": "Panel Light", "image": "assets/images/service/service-3.png" },
         { "id": "grille-light", "name": "Grille Light", "image": "assets/images/service/service-3.png" },
         { "id": "led-outdoor-light", "name": "LED Outdoor Light", "image": "assets/images/service/service-3.png" },
-        { "id": "led-flood-lights", "name": "LED Flood Lights", "image": "assets/images/service/service-3.png" }
-      ]
-    },
-    {
-      "id": "accessories",
-      "name": "Accessories",
-      "products": [
-        { "id": "environmental-sensor", "name": "Environmental Sensor", "image": "assets/images/service/service-1.png" },
-        { "id": "management-software", "name": "Management Software", "image": "assets/images/service/service-1.png" },
-        { "id": "snmp", "name": "SNMP", "image": "assets/images/service/service-1.png" },
-        { "id": "modbus", "name": "Modbus", "image": "assets/images/service/service-1.png" },
+        { "id": "led-flood-lights", "name": "LED Flood Lights", "image": "assets/images/service/service-3.png" },
         { "id": "power-distribution-unit-accessories", "name": "Power Distribution Unit", "image": "assets/images/service/service-1.png" },
         { "id": "ats", "name": "ATS", "image": "assets/images/service/service-1.png" },
         { "id": "outdoor-ups-cabinet", "name": "Outdoor UPS Cabinet", "image": "assets/images/service/service-1.png" }
