@@ -62,13 +62,13 @@
       "id": "lifepo4",
       "name": "LiFePO4",
       "products": [
-        { "id": "lifepo4-24v", "name": "LiFePO4 Battery HV 24V", "image": "assets/images/service/service-3.png" },        
-        { "id": "lifepo4-48v", "name": "LiFePO4 Battery HV 48V", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-512v-100ah", "name": "LiFePO4 Battery HV 51.2V", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-24v", "name": "LiFePO4 Battery HV 24V", "image": "assets/images/service/service-3.png" },        
-        { "id": "lifepo4-48v", "name": "LiFePO4 Battery LV 48V", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-512v-100ah", "name": "LiFePO4 Battery LV 51.2V", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-512v-100ah", "name": "LiFePO4 Battery LV 51.2V", "image": "assets/images/service/service-3.png" }
+        { "id": "lifepo4-hv-battery-96v", "name": "LiFePO4 HV 96V", "image": "assets/images/service/service-3.png" },        
+        { "id": "lifepo4-hv-battery-192v-240v", "name": "LiFePO4 HV 192V", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-hv-battery-384v-480v", "name": "LiFePO4 HV 384V", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-lv-battery-12v", "name": "LiFePO4 HV 12V", "image": "assets/images/service/service-3.png" },        
+        { "id": "lifepo4-lv-battery-24v", "name": "LiFePO4 LV 24V", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-lv-battery-48v", "name": "LiFePO4 LV 48V", "image": "assets/images/service/service-3.png" },
+        { "id": "lifepo4-lv-battery-51-2v-rack", "name": "LiFePO4 LV 51.2V", "image": "assets/images/service/service-3.png" }
       ]
     },
     {

@@ -46,6 +46,8 @@
     --default-font-family: var(--font-sans);
     --default-mono-font-family: var(--font-mono);
     --color-theme-color: #EE9139;
+    --color-accent-color: #52C1EE;
+    --color-accent2-color: #0054A0;
     --color-secondary-color: #121212;
     --color-text-color: #000000;
     --color-title-color: #000000;
@@ -1013,6 +1015,12 @@
   }
   .bg-theme-color {
     background-color: var(--color-theme-color);
+  }
+  .bg-accent-color {
+    background-color: var(--color-accent-color);
+  }
+  .bg-accent2-color {
+    background-color: var(--color-accent2-color);
   }
   .bg-transparent {
     background-color: transparent;

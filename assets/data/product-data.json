@@ -401,7 +401,7 @@
     },
     {
       "id": "moduler-fuhrer",
-      "name": "Moduler Fuhrer",
+      "name": "ESHS Series Moduler Fuhrer",
       "images": [
         "assets/images/products/UPS/Modular-fuhrer/1.png",
         "assets/images/products/UPS/Modular-fuhrer/2.png",
@@ -540,43 +540,6 @@
       "video": "assets/product-videos/XL-Sine.mp4"
     },
     {
-      "id": "solo-inverter-series",
-      "name": "Solo Inverter Series",
-      "images": [
-        "assets/images/products/Inverter/Solo/1.png",
-        "assets/images/products/Inverter/Solo/2.png",
-        "assets/images/products/Inverter/Solo/3.png",
-        "assets/images/products/Inverter/Solo/4.png",
-        "assets/images/products/Inverter/Solo/5.png",
-        "assets/images/products/Inverter/Solo/6.png"
-      ],
-      "tabs": [
-        [
-          "Solo Inverter Series is a Deutsche Power domestic and IT backup inverter developed for fans, lighting, televisions and computers. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 600 VA, 1 kVA and 2 kVA; selectable input range; 12/24 V DC options. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for fans, lighting, televisions and computers.",
-          "Product family: Domestic and it backup inverter.",
-          "600 VA, 1 kVA and 2 kVA.",
-          "selectable input range.",
-          "12/24 V DC options.",
-          "Selectable input voltage range for home appliances or personal computers.",
-          "Selectable charging current : 10A or 20A.",
-          "Auto restart while AC is recovering.",
-          "Overload and short circuit protection.",
-          "Generators & Computer-related devices compatible."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Solo Inverter Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
       "id": "solo-sine-inverter",
       "name": "Solo Sine Inverter",
       "images": [
@@ -608,98 +571,6 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Solo Sine Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "battery-index",
-      "name": "Battery Index",
-      "images": [
-        "assets/images/products/Storage/Battery/Index/1.png",
-        "assets/images/products/Storage/Battery/Index/2.png",
-        "assets/images/products/Storage/Battery/Index/3.png",
-        "assets/images/products/Storage/Battery/Index/4.png",
-        "assets/images/products/Storage/Battery/Index/5.png",
-        "assets/images/products/Storage/Battery/Index/6.png"
-      ],
-      "tabs": [
-        [
-          "Battery Index is a Deutsche Power guide to sealed lead-acid battery technologies developed for buyers comparing AGM, gel and VRLA energy storage. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights valve-regulated lead-acid construction and common backup-power applications. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "This is a technical guidance page rather than a separately rated product. Refer to the individual battery model datasheets for capacity, dimensions and charging limits."
-        ],
-        [
-          "Application: designed for buyers comparing AGM, gel and VRLA energy storage.",
-          "Product family: Guide to sealed lead-acid battery technologies.",
-          "valve-regulated lead-acid construction and common backup-power applications."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Battery Index and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: BS6290, CE, EN61000-6-1, EN61000-6-3, FCC, ISO14001, ISO9001, UL. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "battery-principal",
-      "name": "Battery Principal",
-      "images": [
-        "assets/images/products/Storage/Battery/Principal/1.png",
-        "assets/images/products/Storage/Battery/Principal/2.png",
-        "assets/images/products/Storage/Battery/Principal/3.png",
-        "assets/images/products/Storage/Battery/Principal/4.png",
-        "assets/images/products/Storage/Battery/Principal/5.png",
-        "assets/images/products/Storage/Battery/Principal/6.png"
-      ],
-      "tabs": [
-        [
-          "Battery Principal is a Deutsche Power technical guide to VRLA battery operation developed for engineers and users reviewing battery chemistry and charging. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights oxygen recombination, charge regulation and AGM separator design. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "This is a technical guidance page rather than a separately rated product. Refer to the individual battery model datasheets for capacity, dimensions and charging limits."
-        ],
-        [
-          "Application: designed for engineers and users reviewing battery chemistry and charging.",
-          "Product family: Technical guide to vrla battery operation.",
-          "oxygen recombination, charge regulation and AGM separator design."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Battery Principal and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "battery-features",
-      "name": "Battery Features",
-      "images": [
-        "assets/images/products/Storage/Battery/Features/1.png",
-        "assets/images/products/Storage/Battery/Features/2.png",
-        "assets/images/products/Storage/Battery/Features/3.png",  
-        "assets/images/products/Storage/Battery/Features/4.png",
-        "assets/images/products/Storage/Battery/Features/5.png",
-        "assets/images/products/Storage/Battery/Features/6.png"
-       
-      ],
-      "tabs": [
-        [
-          "Battery Features is a Deutsche Power guide to Deutsche Power VRLA battery construction developed for equipment planners assessing sealed-battery capabilities. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights COS terminal manufacturing, gas recombination, low self-discharge and cycle performance. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "This is a technical guidance page rather than a separately rated product. Refer to the individual battery model datasheets for capacity, dimensions and charging limits."
-        ],
-        [
-          "Application: designed for equipment planners assessing sealed-battery capabilities.",
-          "Product family: Guide to deutsche power vrla battery construction.",
-          "COS terminal manufacturing, gas recombination, low self-discharge and cycle performance.",
-          "Wide Operating Temperature."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Battery Features and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -837,7 +708,7 @@
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
-{
+    {
       "id": "lifepo4-512v-100ah",
       "name": "LiFePO4 Battery 51.2V 50Ah~200Ah",
       "images": [
@@ -1009,6 +880,254 @@
       "video": "assets/product-videos/XL-Sine.mp4"
     },
     {
+      "id": "lifepo4-hv-battery-96v",
+      "name": "LiFePO4 HV Battery System 96V",
+      "images": [
+        "assets/images/products/batteries/HV-96V-1.png",
+        "assets/images/products/batteries/HV-96V-2.png",
+        "assets/images/products/batteries/HV-96V-3.png",
+        "assets/images/products/batteries/HV-96V-4.png",
+        "assets/images/products/batteries/HV-96V-5.png",
+        "assets/images/products/batteries/HV-96V-6.png"
+      ],
+      "tabs": [
+        [
+          "HV Battery System 96V is a Deutsche Power high voltage lithium iron phosphate battery solution designed for commercial and industrial energy storage applications.",
+          "The system features a nominal voltage of 96VDC with capacity options including 50Ah and 100Ah, delivering energy capacities ranging from 4.8KWh to 9.6KWh per cluster setup.",
+          "Review the current model datasheet for dimensions, ratings, supported cluster options and operating limits before selecting a configuration."
+        ],
+        [
+          "Application: designed for commercial energy storage, backup power stations, and industrial infrastructure systems.",
+          "Product family: High Voltage Battery System 96V Series featuring CLFP96-50-H and CLFP96-100-H common models.",
+          "Technical specs: 5000 cycles at 25°C (1C/1C, 80% DOD), RS232/RS485/CAN communication, and built-in LCD display.",
+          "Operating parameters: Adjustable voltage range of 96-106V, IP54 water protection rating, and standard operating temperature range from -20°C to 55°C for discharge."
+        ],
+        [
+          "Catalog documentation: The supplied Deutsche Power product information describes the 96V HV battery system and its intended applications.",
+          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
+          "Electrical integration: Confirm input/output ratings, terminal connections (Anderson/Connector), overcurrent protection, and local safety approvals before installation."
+        ]
+      ],
+      "video": "assets/product-videos/HV-Battery.mp4"
+    },
+    {
+      "id": "lifepo4-hv-battery-192v-240v",
+      "name": "LiFePO4 HV Battery System 192V~240V",
+      "images": [
+        "assets/images/products/batteries/HV-192V-1.png",
+        "assets/images/products/batteries/HV-192V-2.png",
+        "assets/images/products/batteries/HV-192V-3.png",
+        "assets/images/products/batteries/HV-192V-4.png",
+        "assets/images/products/batteries/HV-192V-5.png",
+        "assets/images/products/batteries/HV-192V-6.png"
+      ],
+      "tabs": [
+        [
+          "HV Battery System 192V~240V is a Deutsche Power high voltage modular battery system engineered for advanced commercial energy storage and multi-cluster rack deployments.",
+          "The system supports nominal voltages of 192VDC and 240VDC with capacities spanning 20Ah, 50Ah, and 100Ah configurations, achieving energy storage levels up to 24KWh.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+        ],
+        [
+          "Application: designed for high-capacity renewable energy systems, enterprise power backup, and utility-scale installations.",
+          "Product family: High Voltage Battery System featuring models such as CLFP192-50-H, CLFP192-100-H, CLFP240-20-H, CLFP240-50-H, and CLFP240-100-H.",
+          "Technical specs: Standard cycle life of 5000 times @ 25°C, max discharge current up to 400A, and robust RS232/RS485/CAN communication support.",
+          "Safety and design: IP54 water-proof enclosure, 10-year design life, 5-year warranty, and intelligent LCD status monitoring."
+        ],
+        [
+          "Catalog documentation: The supplied Deutsche Power product information describes the 192V~240V HV battery series and its intended applications.",
+          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3.",
+          "Electrical integration: Confirm input/output ratings, cabling requirements, grounding standards, and local approvals prior to deployment."
+        ]
+      ],
+      "video": "assets/product-videos/HV-Battery.mp4"
+    },
+    {
+      "id": "lifepo4-hv-battery-384v-480v",
+      "name": "LiFePO4 HV Battery System 384V~480V",
+      "images": [
+        "assets/images/products/batteries/HV-384V-1.png",
+        "assets/images/products/batteries/HV-384V-2.png",
+        "assets/images/products/batteries/HV-384V-3.png",
+        "assets/images/products/batteries/HV-384V-4.png",
+        "assets/images/products/batteries/HV-384V-5.png",
+        "assets/images/products/batteries/HV-384V-6.png"
+      ],
+      "tabs": [
+        [
+          "HV Battery System 384V~480V is a Deutsche Power high voltage industrial battery cluster designed for heavy-duty commercial energy storage and microgrid architecture.",
+          "The system provides nominal voltage configurations of 384VDC and 480VDC with capacity choices of 20Ah, 50Ah, and 100Ah, yielding energy capacities from 7.6KWh up to 48KWh.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+        ],
+        [
+          "Application: designed for large-scale solar farms, industrial plant backup, and multi-cluster utility environments.",
+          "Product family: High Voltage Battery System featuring models CLFP380-20-H, CLFP380-50-H, CLFP380-100-H, CLFP480-20-H, CLFP480-50-H, and CLFP480-100-H.",
+          "Technical specs: Advanced multi-cluster architecture supporting up to 3 clusters, max discharge currents up to 400A, and RS485/CAN communication interface.",
+          "Durability: IP54 water protection, operating temperature range of -20°C to 55°C, and integrated LCD display for system telemetry."
+        ],
+        [
+          "Catalog documentation: The supplied Deutsche Power product information describes the 384V~480V HV battery system and its intended applications.",
+          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
+          "Electrical integration: Confirm input/output ratings, overcurrent protection, terminal specs, and local regulatory requirements before installation."
+        ]
+      ],
+      "video": "assets/product-videos/HV-Battery.mp4"
+    },
+    {
+      "id": "lifepo4-lv-battery-12v",
+      "name": "LiFePO4 LV Battery System 12V",
+      "images": [
+        "assets/images/products/batteries/LV-12V-1.png",
+        "assets/images/products/batteries/LV-12V-2.png",
+        "assets/images/products/batteries/LV-12V-3.png",
+        "assets/images/products/batteries/LV-12V-4.png",
+        "assets/images/products/batteries/LV-12V-5.png",
+        "assets/images/products/batteries/LV-12V-6.png"
+      ],
+      "tabs": [
+        [
+          "Low Voltage Battery System 12V is a Deutsche Power lithium iron phosphate battery family housed in a lead-acid plastic shell package, developed for versatile domestic and portable applications.",
+          "The catalog highlights ratings from 20Ah up to 250Ah (models CPLI-1220AH through CPLI-12250AH) providing lightweight, high energy density alternatives to traditional lead-acid batteries.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+        ],
+        [
+          "Application: designed for photovoltaic systems, street lighting, telecommunications, portable mobile products, and general DC backup.",
+          "Product family: 12V Low Voltage LiFePO4 Battery Series with built-in battery charge/discharge protection.",
+          "Technical specs: 100% DOD with 2500-3000 cycles, intelligent battery balance management via BMS, and lighter weight construction.",
+          "Performance: High discharge current capabilities up to 150A depending on model capacity."
+        ],
+        [
+          "Catalog documentation: The supplied Deutsche Power product information describes the 12V low voltage battery system and its intended applications.",
+          "Certifications and safety: Built-in hardware and software over-voltage, low-voltage, and short-circuit protections.",
+          "Battery handling: Verify applicable safety, charging, and recycling guidelines for the exact model before installation."
+        ]
+      ],
+      "video": "assets/product-videos/LV-Battery.mp4"
+    },
+    {
+      "id": "lifepo4-lv-battery-24v",
+      "name": "LiFePO4 LV Battery System 24V",
+      "images": [
+        "assets/images/products/batteries/LV-24V-1.png",
+        "assets/images/products/batteries/LV-24V-2.png",
+        "assets/images/products/batteries/LV-24V-3.png",
+        "assets/images/products/batteries/LV-24V-4.png",
+        "assets/images/products/batteries/LV-24V-5.png",
+        "assets/images/products/batteries/LV-24V-6.png"
+      ],
+      "tabs": [
+        [
+          "Low Voltage Battery System 24V is a Deutsche Power lithium iron phosphate energy storage solution built for residential solar setups, mobile equipment, and telecommunication backup.",
+          "The catalog highlights capacity ratings from 10Ah to 125Ah (models CPLI-2410AH through CPLI-24125AH) featuring high energy density and reduced physical weight.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+        ],
+        [
+          "Application: designed for solar energy storage, electric mobility, marine use, and backup power supplies.",
+          "Product family: 24V Low Voltage LiFePO4 Battery Series utilizing lead-acid plastic shell packages or modular block designs.",
+          "Technical specs: 100% DOD, 2500-3000 operating cycles, intelligent BMS balance management, and integrated charge/discharge safeguards.",
+          "Efficiency: Direct drop-in replacement for traditional lead-acid batteries with enhanced power density and faster recharge capability."
+        ],
+        [
+          "Catalog documentation: The supplied Deutsche Power product information describes the 24V low voltage battery series and its intended applications.",
+          "Safety and compliance: Includes internal protection mechanisms against over-charging, over-discharging, and short circuits.",
+          "Battery handling: Confirm terminal configurations, charging voltage limits, and mounting requirements prior to setup."
+        ]
+      ],
+      "video": "assets/product-videos/LV-Battery.mp4"
+    },
+    {
+      "id": "lifepo4-lv-battery-48v",
+      "name": "LiFePO4 LV Battery System 48V",
+      "images": [
+        "assets/images/products/batteries/LV-48V-1.png",
+        "assets/images/products/batteries/LV-48V-2.png",
+        "assets/images/products/batteries/LV-48V-3.png",
+        "assets/images/products/batteries/LV-48V-4.png",
+        "assets/images/products/batteries/LV-48V-5.png",
+        "assets/images/products/batteries/LV-48V-6.png"
+      ],
+      "tabs": [
+        [
+          "Low Voltage Battery System 48V is a Deutsche Power modular lithium iron phosphate battery solution engineered for telecommunication networks, data centers, and rack-mount energy storage.",
+          "The catalog highlights cabinet-format ratings from 5Ah up to 150Ah (models CPLI-4805AH through CPLI-48150AH) configured in standard 2U, 3U, 4U, and 5U cabinet sizes.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+        ],
+        [
+          "Application: designed for EV/PHEV, telecommunication base stations, UPS systems, and renewable energy storage stations.",
+          "Product family: 48V Lithium Iron Phosphate Batteries Module featuring smart battery balancing and FCC capacity automatic learning.",
+          "Technical specs: High-precision voltage detection (25mV/cell), high-precision current detection, 5-channel temperature monitoring, and EEPROM history storage.",
+          "Interface and communication: RS232 interface for SOC/SOH telemetry, RS485 cascade communication between battery modules, and SMBUS V2.0 compatibility."
+        ],
+        [
+          "Catalog documentation: The supplied Deutsche Power product information describes the 48V low voltage cabinet battery series and its intended applications.",
+          "Certifications and safety: Comprehensive hardware and software protection against high/low temperatures, over-current, and voltage anomalies.",
+          "Electrical integration: Standard rack-mount enclosure design for easy installation; verify busbar and communication cabling before operation."
+        ]
+      ],
+      "video": "assets/product-videos/LV-Battery.mp4"
+    },
+    {
+      "id": "lifepo4-lv-battery-51-2v-rack",
+      "name": "LiFePO4 LV Battery System 51.2V Rack",
+      "images": [
+        "assets/images/products/batteries/LV-51.2V-1.png",
+        "assets/images/products/batteries/LV-51.2V-2.png",
+        "assets/images/products/batteries/LV-51.2V-3.png",
+        "assets/images/products/batteries/LV-51.2V-4.png",
+        "assets/images/products/batteries/LV-51.2V-5.png",
+        "assets/images/products/batteries/LV-51.2V-6.png"
+      ],
+      "tabs": [
+        [
+          "Low Voltage Battery System 51.2V Rack is a Deutsche Power advanced 19-inch rack-mountable lithium iron phosphate module designed for residential and commercial solar storage.",
+          "The catalog highlights capacities including 50Ah (2.56KWh), 100Ah (5.12KWh), and 200Ah (10.24KWh) models under the CLFP-51.2 series.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+        ],
+        [
+          "Application: designed for solar energy storage, residential power-walls, telecom backup, and scalable parallel configurations.",
+          "Product family: 51.2V Rack-Mount LiFePO4 Battery Module supporting max 16 units in parallel.",
+          "Technical specs: Exceptional cycle life of ≥5000 to ≥6000 times at 80% SOC (1C/1C, 25°C), low internal impedance (≤20mΩ), and IP21 protection rating.",
+          "Operating parameters: Charge temperature range from 0°C to 45°C, discharge temperature from -10°C to 55°C, with RS485, RS232, and CAN communication interfaces."
+        ],
+        [
+          "Catalog documentation: The supplied Deutsche Power product information describes the 51.2V rack battery system and its intended applications.",
+          "Certifications referenced in the supplied source: IEC62619, UN38.3, CE, and ROHS compliance.",
+          "Electrical integration: Standard 19-inch rack installation format; verify parallel linking parameters and communication protocols prior to startup."
+        ]
+      ],
+      "video": "assets/product-videos/LV-Battery.mp4"
+    },
+    {
+      "id": "hv-battery-500v-800v",
+      "name": "HV Battery System 500V~800V",
+      "images": [
+        "assets/images/products/batteries/HV-500V-1.png",
+        "assets/images/products/batteries/HV-500V-2.png",
+        "assets/images/products/batteries/HV-500V-3.png",
+        "assets/images/products/batteries/HV-500V-4.png",
+        "assets/images/products/batteries/HV-500V-5.png",
+        "assets/images/products/batteries/HV-500V-6.png"
+      ],
+      "tabs": [
+        [
+          "HV Battery System 500V~800V is a Deutsche Power ultra-high voltage modular energy storage system engineered for large commercial installations and utility-scale microgrids.",
+          "The catalog highlights a nominal voltage of 537.6V with capacity options of 100Ah, 200Ah, and 300Ah, providing total energy storage ranging from 53.76KWh to 161.28KWh per cluster.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+        ],
+        [
+          "Application: designed for large renewable power plants, industrial heavy backup, and high-capacity commercial energy storage stations.",
+          "Product family: High Voltage System Series featuring models CLFP537-100-4, CLFP537-200-4, and CLFP537-300-4.",
+          "Technical specs: 5000 cycles @ 25°C (1C/1C, 80% DOD), adjustable charge voltage from 500V to 900V, and robust RS485/CAN communication.",
+          "Physical build: IP54 water protection level, weights ranging from 490kg to 1470kg, 32U modular rack architecture, 10-year design life, and 5-year warranty."
+        ],
+        [
+          "Catalog documentation: The supplied Deutsche Power product information describes the 500V~800V HV battery system and its intended applications.",
+          "Certifications referenced in the supplied source: CE, UL, ROHS, and UN38.3 compliance.",
+          "Electrical integration: Confirm heavy-duty DC terminal connections (ANDERSON/CONNECTOR), system grounding, and high-voltage safety protocols before deployment."
+        ]
+      ],
+      "video": "assets/product-videos/HV-Battery.mp4"
+    },
+    {
       "id": "micro-data-center",
       "name": "Single and Multirack Micro Data Center",
       "images": [
@@ -1161,8 +1280,8 @@
       "video": "assets/product-videos/XL-Sine.mp4"
     },
     {
-      "id": "solar-panel",
-      "name": "Solar Panel",
+      "id": "solo-nova-hybrid-inverter",
+      "name": "Solo Nova Hybrid Inverter",
       "images": [
         "assets/images/project/project-1.jpg",
         "assets/images/project/project-2.jpg",
@@ -1173,265 +1292,20 @@
       ],
       "tabs": [
         [
-          "Solar Panel is a Deutsche Power mono- and polycrystalline photovoltaic module family developed for rooftop, commercial and off-grid solar installations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights positive power tolerance; low-light performance; source-stated wind and snow load ratings. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Solo Nova Hybrid Inverter is a Deutsche Power single-phase low voltage hybrid inverter developed for high-efficiency solar energy storage, outdoor reliability, and backup power applications.",
+          "The catalog highlights 3kW to 12kW power ratings, IP66 outdoor protection rating, high PV utilization supporting up to twice rated power, three-stage conversion, and scalable capacity up to 15 parallel units.",
           "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
         ],
         [
-          "Application: designed for rooftop, commercial and off-grid solar installations.",
-          "Product family: Mono- and polycrystalline photovoltaic module family.",
-          "Monocrystalline and polycrystalline photovoltaic module options.",
-          "Positive power tolerance of 0–3% claimed in the catalog.",
-          "Anti-reflective and hydrophobic glass coating described.",
-          "Low-light performance and wind/snow resistance are described; confirm testing by model."
+          "Application: designed for solar and wind energy storage systems, residential backup power, electric mobility, and telecommunication infrastructure.",
+          "Product family: Single Phase Low Voltage Hybrid Inverter with outdoor-ready IP66 protection.",
+          "Features soft start protection, three-stage charge/discharge conversion, and dual MPPT channels for maximum energy yield.",
+          "Equipped with a 4.3-inch HD touch screen display, customizable time-of-use scheduling, and built-in output bypass function."
         ],
         [
-          "Catalog documentation: The supplied Deutsche Power product information describes Solar Panel and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "solar-charge-controller",
-      "name": "Solar Charge Controller",
-      "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
-      ],
-      "tabs": [
-        [
-          "Solar Charge Controller is a Deutsche Power MPPT solar charge controller developed for off-grid photovoltaic and battery-charging systems. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 12/24/48 V systems; up to 150 V DC PV input; multi-stage charging. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for off-grid photovoltaic and battery-charging systems.",
-          "Product family: Mppt solar charge controller.",
-          "12/24/48 V systems.",
-          "up to 150 V DC PV input.",
-          "multi-stage charging.",
-          "Intelligent Maximum Power Point Tracing technology increases efficiency 25%~30%.",
-          "Compatible for PV systems in 12V, 24V or 48V.",
-          "Five -stage charging optimizes battery performance.",
-          "High Tracking Efficiency of 99%.",
-          "Maximum efficiency up to 98%."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Solar Charge Controller and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: CE. References in a product-family description do not establish certification of every model or configuration.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "on-grid-solar-inverter",
-      "name": "On-grid Solar Inverter",
-      "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
-      ],
-      "tabs": [
-        [
-          "On-grid Solar Inverter is a Deutsche Power grid-connected photovoltaic inverter developed for solar installations exporting or using grid-synchronized energy. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights transformerless topology; MPPT; remote monitoring and communication options. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for solar installations exporting or using grid-synchronized energy.",
-          "Product family: Grid-connected photovoltaic inverter.",
-          "transformerless topology.",
-          "MPPT.",
-          "remote monitoring and communication options.",
-          "Maximum efciency of 97.8% and wide input voltage range."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes On-grid Solar Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "zon-plus-inverter",
-      "name": "Zon Plus Inverter",
-      "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
-      ],
-      "tabs": [
-        [
-          "Zon Plus Inverter is a Deutsche Power pure sine wave solar hybrid inverter developed for off-grid homes and systems with AC and solar charging. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 1–12 kW family; MPPT charging; selectable AC/DC priority modes. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for off-grid homes and systems with AC and solar charging.",
-          "Product family: Pure sine wave solar hybrid inverter.",
-          "1–12 kW family.",
-          "MPPT charging.",
-          "selectable AC/DC priority modes.",
-          "ZON Pure sine wave Hybrid Inverter.",
-          "AC/Solar charge hybrid off grid inverter.",
-          "LED/LCD display, Enhanced functions setting via LCD, Man-machine intelligent design.",
-          "Built-in 40A/60/80A MPPT solar charger controller.",
-          "External remote display panel."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Zon Plus Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "grid-tie-3-phase-inverter",
-      "name": "Grid Tie 3 Phase Inverter",
-      "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
-      ],
-      "tabs": [
-        [
-          "Grid Tie 3 Phase Inverter is a Deutsche Power three-phase solar grid-tie inverter developed for commercial and industrial three-phase PV installations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights grid-tie central and Solak variants; multiple MPPT and monitoring features. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for commercial and industrial three-phase PV installations.",
-          "Product family: Three-phase solar grid-tie inverter.",
-          "grid-tie central and Solak variants.",
-          "multiple MPPT and monitoring features.",
-          "3 PHASE GRID TIE CENTRAL & SOLAK INVERTER.",
-          "Transfer efficiency up to 99%, saving 30% ~ 60% solar panel compared with traditional profile.",
-          "Wide input working voltage range of solar panel.",
-          "Autometic cutting of the curcuit by the overload protection controller.",
-          "PV Grid-Tie Solak Inverter (3 Phase)."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Grid Tie 3 Phase Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "dh-series",
-      "name": "DH Series",
-      "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
-      ],
-      "tabs": [
-        [
-          "DH Series is a Deutsche Power DH series solar power product developed for photovoltaic power applications. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The DH Series appears in the existing product inventory, but the supplied source files do not contain a dedicated DH Series description. Technical details, ratings and compatible equipment cannot be stated reliably without its datasheet.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for photovoltaic power applications.",
-          "Product family: Dh series solar power product.",
-          "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes DH Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Catalog documentation: The supplied Deutsche Power product information describes Solo Nova Hybrid Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
+          "Standards and certifications referenced in the supplied source: IEC 62109-1 2010, IEC 62109-2 2011, EN/IEC 50549-10, VDE-4105, EC 60529, and RoHS compliance.",
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "solo-series",
-      "name": "SOLO Series",
-      "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
-      ],
-      "tabs": [
-        [
-          "SOLO Series is a Deutsche Power SOLO inverter series within solar portfolio developed for home and light office backup power. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 600 VA, 1 kVA and 2 kVA variants referenced in inverter catalog. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for home and light office backup power.",
-          "Product family: Solo inverter series within solar portfolio.",
-          "600 VA, 1 kVA and 2 kVA variants referenced in inverter catalog.",
-          "Selectable input voltage range for home appliances or personal computers.",
-          "Selectable charging current : 10A or 20A.",
-          "Auto restart while AC is recovering.",
-          "Overload and short circuit protection.",
-          "Generators & Computer-related devices compatible."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes SOLO Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "solo-sine-inverter-photovoltaic",
-      "name": "SOLO Sine Inverter",
-      "images": [
-        "assets/images/project/project-1.jpg",
-        "assets/images/project/project-2.jpg",
-        "assets/images/project/project-3.jpg",
-        "assets/images/project/project-4.jpg",
-        "assets/images/project/project-5.jpg",
-        "assets/images/project/project-6.jpg"
-      ],
-      "tabs": [
-        [
-          "SOLO Sine Inverter is a Deutsche Power SOLO Sine pure sine wave inverter within solar portfolio developed for low-power domestic and office loads. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 350 W and 500 W variants referenced in inverter catalog. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for low-power domestic and office loads.",
-          "Product family: Solo sine pure sine wave inverter within solar portfolio.",
-          "350 W and 500 W variants referenced in inverter catalog.",
-          "SOLO SINE SERIES INVERTER.",
-          "Selectable input voltage range for home appliances or personal computers.",
-          "Selectable battery types of gel. lead-acid and open lead acid (optional).",
-          "Selectable charging current: 10A or 20A.",
-          "Auto restart while AC is recovering."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes SOLO Sine Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
