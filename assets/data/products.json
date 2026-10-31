@@ -4,98 +4,348 @@
       "id": "ups",
       "name": "UPS",
       "products": [
-        { "id": "xl-plus", "name": "XL Plus", "image": "assets/images/products/UPS/XL-Plus/Cover.png" },
-        { "id": "xl-sine-series", "name": "XL Sine Series", "image": "assets/images/products/UPS/XL-Sine-Series/Cover.png" },
-        { "id": "elentra-series-green-mode", "name": "Elentra Series Green Mode", "image": "assets/images/products/UPS/Elentra-Series-Green-Mode/Cover.png" },
-        { "id": "elektra-series-1-1-it", "name": "Elektra Series 1/1", "image": "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/Cover.png" },
-        { "id": "elektra-series-3-1-it", "name": "Elektra Series 3/1", "image": "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/Cover.png" },
-        { "id": "elektra-series-3-3-it-500kva", "name": "Elektra Series 3/3", "image": "assets/images/products/UPS/Elektra-Series-3.3/500KVA/Cover (1).png" },
-        { "id": "elektra-one", "name": "Elektra One", "image": "assets/images/products/UPS/Elektra-Series-One/Cover.png" },
-        { "id": "elektra-series-3-3-it-200kva", "name": "Elektra Series 3/3", "image": "assets/images/products/UPS/Elektra-Series-3.3/200KVA/Cover (1).png" },
-        { "id": "elektra-series-1-1-industrial", "name": "Elektra Series 1/1", "image": "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/Cover.png" },
-        { "id": "elektra-series-3-1-industrial", "name": "Elektra Series 3/1", "image": "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/Cover.png" },
-        { "id": "elektra-lf-3-3-industrial", "name": "Elektra LF 3/3", "image": "assets/images/products/UPS/Elektra-Series-3.3/LF/Cover.png" },
-        { "id": "moduler-fuhrer", "name": "ESHS Moduler Fuhrer", "image": "assets/images/products/UPS/Modular-fuhrer/Cover.png" },
-        { "id": "enclosure-based-1-1", "name": "Enclosure Based 1/1", "image": "assets/images/products/UPS/Enclosure-UPS/Cover.png" },
-        { "id": "elentra-sc-series", "name": "Elentra SC Series", "image": "assets/images/products/UPS/Elentra-SC-Series/Cover.png" }
+        {
+          "id": "xl-plus",
+          "name": "XL Plus",
+          "image": "assets/images/products/UPS/XL-Plus/Cover.png",
+          "subcategory": "Line Interactive UPS"
+        },
+        {
+          "id": "xl-sine-series",
+          "name": "XL Sine Series",
+          "image": "assets/images/products/UPS/XL-Sine-Series/Cover.png",
+          "subcategory": "Line Interactive UPS"
+        },
+        {
+          "id": "elentra-series-green-mode",
+          "name": "Elentra Series Green Mode",
+          "image": "assets/images/products/UPS/Elentra-Series-Green-Mode/Cover.png",
+          "subcategory": "Line Interactive UPS"
+        },
+        {
+          "id": "elektra-series-1-1-it",
+          "name": "Elektra Series 1/1",
+          "image": "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/Cover.png",
+          "subcategory": "IT Grade UPS"
+        },
+        {
+          "id": "elektra-series-3-1-it",
+          "name": "Elektra Series 3/1",
+          "image": "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/Cover.png",
+          "subcategory": "IT Grade UPS"
+        },
+        {
+          "id": "elektra-series-3-3-it-500kva",
+          "name": "Elektra Series 3/3",
+          "image": "assets/images/products/UPS/Elektra-Series-3.3/500KVA/Cover (1).png",
+          "subcategory": "IT Grade UPS"
+        },
+        {
+          "id": "elektra-one",
+          "name": "Elektra One",
+          "image": "assets/images/products/UPS/Elektra-Series-One/Cover.png",
+          "subcategory": "IT Grade UPS"
+        },
+        {
+          "id": "elektra-series-3-3-it-200kva",
+          "name": "Elektra Series 3/3",
+          "image": "assets/images/products/UPS/Elektra-Series-3.3/200KVA/Cover (1).png",
+          "subcategory": "IT Grade UPS"
+        },
+        {
+          "id": "elektra-series-1-1-industrial",
+          "name": "Elektra Series 1/1",
+          "image": "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/Cover.png",
+          "subcategory": "Industrial Grade UPS"
+        },
+        {
+          "id": "elektra-series-3-1-industrial",
+          "name": "Elektra Series 3/1",
+          "image": "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/Cover.png",
+          "subcategory": "Industrial Grade UPS"
+        },
+        {
+          "id": "elektra-lf-3-3-industrial",
+          "name": "Elektra LF 3/3",
+          "image": "assets/images/products/UPS/Elektra-Series-3.3/LF/Cover.png",
+          "subcategory": "Industrial Grade UPS"
+        },
+        {
+          "id": "modular-fuhrer",
+          "name": "ESHS Modular Fuhrer",
+          "image": "assets/images/products/UPS/Modular-fuhrer/Cover.png",
+          "subcategory": "Modular Redundant UPS"
+        },
+        {
+          "id": "enclosure-based-1-1",
+          "name": "Enclosure Based 1/1",
+          "image": "assets/images/products/UPS/Enclosure-UPS/Cover.png",
+          "subcategory": "Enclosure Based UPS"
+        },
+        {
+          "id": "elentra-sc-series",
+          "name": "Elentra SC Series",
+          "image": "assets/images/products/UPS/Elentra-SC-Series/Cover.png",
+          "subcategory": "Enclosure Based UPS"
+        }
       ]
     },
     {
       "id": "inverter",
       "name": "Inverter",
       "products": [
-        { "id": "home-inverter-series", "name": "Home Inverter Series", "image": "assets/images/products/Inverter/Home/Cover.png" },
-        { "id": "solo-sine-inverter", "name": "Solo Sine Inverter", "image": "assets/images/products/Inverter/Solo-sine/Cover.png" }
+        {
+          "id": "home-inverter-series",
+          "name": "Home Inverter Series",
+          "image": "assets/images/products/Inverter/Home/Cover.png",
+          "subcategory": "Home Inverter Series"
+        },
+        {
+          "id": "solo-sine-inverter",
+          "name": "Solo Sine Inverter",
+          "image": "assets/images/products/Inverter/Solo-sine/Cover.png",
+          "subcategory": "Solo Sine Series"
+        }
       ]
     },
     {
       "id": "storage",
       "name": "Storage",
       "products": [
-        { "id": "vrla-sla-fm-np-series", "name": "VRLA/SLA FM-NP Series", "image": "assets/images/service/service-3.png" },
-        { "id": "vrla-sla-fm-npl-series", "name": "VRLA/SLA FM-NPL Series", "image": "assets/images/service/service-3.png" },
-        { "id": "vrla-sla-fm-npg-series", "name": "VRLA/SLA FM-NPG Series", "image": "assets/images/service/service-3.png" },
-        { "id": "vrla-sla-ft-npg-series", "name": "VRLA/SLA FT-NPG Series", "image": "assets/images/service/service-3.png" },
-        { "id": "opzv-series-2v-cell", "name": "OPzV Series, 2V Cell", "image": "assets/images/service/service-3.png" },
-        { "id": "opzs-series-2v-cell", "name": "OPzS Series, 2V Cell", "image": "assets/images/service/service-3.png" }
+        {
+          "id": "vrla-sla-fm-np-series",
+          "name": "VRLA/SLA FM-NP Series",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "VRLA/SLA Batteries"
+        },
+        {
+          "id": "vrla-sla-fm-npl-series",
+          "name": "VRLA/SLA FM-NPL Series",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "VRLA/SLA Batteries"
+        },
+        {
+          "id": "vrla-sla-fm-npg-series",
+          "name": "VRLA/SLA FM-NPG Series",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "VRLA/SLA Batteries"
+        },
+        {
+          "id": "vrla-sla-ft-npg-series",
+          "name": "VRLA/SLA FT-NPG Series",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "VRLA/SLA Batteries"
+        },
+        {
+          "id": "opzv-series-2v-cell",
+          "name": "OPzV Series, 2V Cell",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "OPz Series"
+        },
+        {
+          "id": "opzs-series-2v-cell",
+          "name": "OPzS Series, 2V Cell",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "OPz Series"
+        }
       ]
     },
     {
       "id": "digital",
       "name": "Digital",
       "products": [
-        { "id": "micro-data-center", "name": "Dual-rack Micro Data Center", "image": "assets/images/service/service-1.png" },
-        { "id": "modular-data-center", "name": "Modular Data Center", "image": "assets/images/service/service-1.png" },
-        { "id": "container-data-center", "name": "Container Data Center", "image": "assets/images/service/service-1.png" },
-        { "id": "power-distribution-unit-it", "name": "Power Distribution Unit", "image": "assets/images/service/service-1.png" },
-        { "id": "server-rack", "name": "Server Rack", "image": "assets/images/service/service-1.png" }
+        {
+          "id": "micro-data-center",
+          "name": "Dual-rack Micro Data Center",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "Data Center Solutions"
+        },
+        {
+          "id": "modular-data-center",
+          "name": "Modular Data Center",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "Data Center Solutions"
+        },
+        {
+          "id": "container-data-center",
+          "name": "Container Data Center",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "Data Center Solutions"
+        },
+        {
+          "id": "power-distribution-unit-it",
+          "name": "Power Distribution Unit",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "Infrastructure Equipment"
+        },
+        {
+          "id": "server-rack",
+          "name": "Server Rack",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "Infrastructure Equipment"
+        }
       ]
     },
     {
       "id": "photovoltaic",
       "name": "PV Inverter",
       "products": [
-        { "id": "solo-nova-hybrid-inverter", "name": "Solo Nova Hybrid Inverter", "image": "assets/images/service/service-3.png" }
+        {
+          "id": "solo-nova-hybrid-inverter",
+          "name": "Solo Nova Hybrid Inverter",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "Hybrid Inverter"
+        }
       ]
     },
     {
       "id": "lifepo4",
       "name": "LiFePO4",
       "products": [
-        { "id": "lifepo4-hv-battery-96v", "name": "LiFePO4 HV 96V", "image": "assets/images/service/service-3.png" },        
-        { "id": "lifepo4-hv-battery-192v-240v", "name": "LiFePO4 HV 192V", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-hv-battery-384v-480v", "name": "LiFePO4 HV 384V", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-lv-battery-12v", "name": "LiFePO4 HV 12V", "image": "assets/images/service/service-3.png" },        
-        { "id": "lifepo4-lv-battery-24v", "name": "LiFePO4 LV 24V", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-lv-battery-48v", "name": "LiFePO4 LV 48V", "image": "assets/images/service/service-3.png" },
-        { "id": "lifepo4-lv-battery-51-2v-rack", "name": "LiFePO4 LV 51.2V", "image": "assets/images/service/service-3.png" }
+        {
+          "id": "lifepo4-hv-battery-96v",
+          "name": "LiFePO4 HV 96V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "High Voltage"
+        },
+        {
+          "id": "lifepo4-hv-battery-192v-240v",
+          "name": "LiFePO4 HV 192V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "High Voltage"
+        },
+        {
+          "id": "lifepo4-hv-battery-384v-480v",
+          "name": "LiFePO4 HV 384V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "High Voltage"
+        },
+        {
+          "id": "lifepo4-lv-battery-12v",
+          "name": "LiFePO4 LV 12V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "Low Voltage"
+        },
+        {
+          "id": "lifepo4-lv-battery-24v",
+          "name": "LiFePO4 LV 24V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "Low Voltage"
+        },
+        {
+          "id": "lifepo4-lv-battery-48v",
+          "name": "LiFePO4 LV 48V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "Low Voltage"
+        },
+        {
+          "id": "lifepo4-lv-battery-51-2v-rack",
+          "name": "LiFePO4 LV 51.2V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "Low Voltage"
+        }
       ]
     },
     {
       "id": "solution",
       "name": "Smart Solution",
       "products": [
-        { "id": "environmental-sensor", "name": "Environmental Sensor", "image": "assets/images/service/service-1.png" },
-        { "id": "management-software", "name": "Management Software", "image": "assets/images/service/service-1.png" },
-        { "id": "snmp", "name": "SNMP", "image": "assets/images/service/service-1.png" },
-        { "id": "modbus", "name": "Modbus", "image": "assets/images/service/service-1.png" }
+        {
+          "id": "environmental-sensor",
+          "name": "Environmental Sensor",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "RMS Compliance"
+        },
+        {
+          "id": "management-software",
+          "name": "Management Software",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "Custom Software"
+        },
+        {
+          "id": "snmp",
+          "name": "SNMP",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "RMS Compliance"
+        },
+        {
+          "id": "modbus",
+          "name": "Modbus",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "RMS Compliance"
+        }
       ]
     },
     {
       "id": "accessories",
       "name": "Accessories",
       "products": [
-        { "id": "led-residential-tube-lights", "name": "LED Residential Tube Lights", "image": "assets/images/service/service-3.png" },
-        { "id": "led-down-lights", "name": "LED Down Lights", "image": "assets/images/service/service-3.png" },
-        { "id": "led-industrial-tube-lights", "name": "LED Industrial Tube Lights", "image": "assets/images/service/service-3.png" },
-        { "id": "anti-fogging-light", "name": "Anti-fogging Light", "image": "assets/images/service/service-3.png" },
-        { "id": "panel-light", "name": "Panel Light", "image": "assets/images/service/service-3.png" },
-        { "id": "grille-light", "name": "Grille Light", "image": "assets/images/service/service-3.png" },
-        { "id": "led-outdoor-light", "name": "LED Outdoor Light", "image": "assets/images/service/service-3.png" },
-        { "id": "led-flood-lights", "name": "LED Flood Lights", "image": "assets/images/service/service-3.png" },
-        { "id": "power-distribution-unit-accessories", "name": "Power Distribution Unit", "image": "assets/images/service/service-1.png" },
-        { "id": "ats", "name": "ATS", "image": "assets/images/service/service-1.png" },
-        { "id": "outdoor-ups-cabinet", "name": "Outdoor UPS Cabinet", "image": "assets/images/service/service-1.png" }
+        {
+          "id": "led-residential-tube-lights",
+          "name": "LED Residential Tube Lights",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "LED Lights"
+        },
+        {
+          "id": "led-down-lights",
+          "name": "LED Down Lights",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "LED Lights"
+        },
+        {
+          "id": "led-industrial-tube-lights",
+          "name": "LED Industrial Tube Lights",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "LED Lights"
+        },
+        {
+          "id": "anti-fogging-light",
+          "name": "Anti-fogging Light",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "LED Lights"
+        },
+        {
+          "id": "panel-light",
+          "name": "Panel Light",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "LED Lights"
+        },
+        {
+          "id": "grille-light",
+          "name": "Grille Light",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "LED Lights"
+        },
+        {
+          "id": "led-outdoor-light",
+          "name": "LED Outdoor Light",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "LED Lights"
+        },
+        {
+          "id": "led-flood-lights",
+          "name": "LED Flood Lights",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "LED Lights"
+        },
+        {
+          "id": "power-distribution-unit-accessories",
+          "name": "Power Distribution Unit",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "Power Components"
+        },
+        {
+          "id": "ats",
+          "name": "ATS",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "Power Components"
+        },
+        {
+          "id": "outdoor-ups-cabinet",
+          "name": "Outdoor UPS Cabinet",
+          "image": "assets/images/service/service-1.png",
+          "subcategory": "Power Components"
+        }
       ]
     }
   ]

@@ -272,40 +272,154 @@
         </section>
         <!-- banner-section end -->
 
-        <!-- brand slider section -->
-        <section class="relative md:pt-[75px] pt-17 md:pb-[75px] pb-10">
-            <div class="relative px-12 min-h-20">
-                <div class="marquee_mode-rightToLeft">
-                    <ul class="flex items-center gap-[15px] flex-nowrap w-fit">
-                        <li class="flex items-center gap-[15px]">
-                            <div class="image-box w-25 h-25 rounded-[100px]"><img
-                                    src="assets/images/resource/scroll-1.jpg" class="w-full rounded-[100px]" alt="">
-                            </div>
-                            <h3
-                                class="relative inline-block text-[28px] leading-8.5 font-semibold rounded-[100px] border border-[#bbbbbb] px-13 py-5.5">
-                                Deutsche Power</h3>
-                        </li>
-                        <li class="flex items-center gap-[15px]">
-                            <div class="image-box w-25 h-25 rounded-[100px]"><img
-                                    src="assets/images/resource/scroll-2.jpg" class="w-full rounded-[100px]" alt="">
-                            </div>
-                            <h3
-                                class="relative inline-block text-[28px] leading-8.5 font-semibold rounded-[100px] border border-[#bbbbbb] px-13 py-5.5">
-                                Deutsche Power</h3>
-                        </li>
-                        <li class="flex items-center gap-[15px] mr-[15px]">
-                            <div class="image-box w-25 h-25 rounded-[100px]"><img
-                                    src="assets/images/resource/scroll-3.jpg" class="w-full rounded-[100px]" alt="">
-                            </div>
-                            <h3
-                                class="relative inline-block text-[28px] leading-8.5 font-semibold rounded-[100px] border border-[#bbbbbb] px-13 py-5.5">
-                                Deutsche Power</h3>
-                        </li>
-                    </ul>
+        
+        <!-- product portfolio showcase -->
+        <section class="product-pill-showcase relative py-16 md:py-20 bg-white dark:bg-secondary-color overflow-hidden">
+            <style>
+                .pill-marquee-track {
+                    display: flex;
+                    width: max-content;
+                    animation: pill-marquee-left 38s linear infinite;
+                    will-change: transform;
+                    padding: 10px 0;
+                }
+
+                .pill-marquee-track.reverse {
+                    animation-name: pill-marquee-right;
+                }
+
+                .pill-marquee-set {
+                    display: flex;
+                    align-items: center;
+                    gap: 8px;
+                    padding-right: 8px;
+                }
+
+                .product-pill {
+                    position: relative;
+                    display: inline-flex;
+                    align-items: center;
+                    justify-content: center;
+                    min-height: 30px;
+                    padding: 15px 30px;
+                    border-radius: 100px;
+                    background: linear-gradient(90deg, #0068a8 0%, #2db4e7 100%);
+                    color: #fff;
+                    font-family: "Barlow", sans-serif;
+                    font-size: 18px;
+                    font-weight: 500;
+                    line-height: 22px;
+                    white-space: nowrap;
+                    isolation: isolate;
+                    transition: transform 250ms ease, filter 250ms ease;
+                }
+
+                .product-pill::before {
+                    content: "";
+                    position: absolute;
+                    inset: 0;
+                    z-index: -1;
+                    border-radius: inherit;
+                    background: linear-gradient(90deg, #2db4e7 0%, #0068a8 100%);
+                    opacity: 0;
+                    transition: opacity 250ms ease;
+                }
+
+                .product-pill:hover {
+                    transform: translateY(-2px);
+                    filter: brightness(1.05);
+                }
+
+                .product-pill:hover::before {
+                    opacity: 1;
+                }
+
+                .pill-marquee:hover .pill-marquee-track {
+                    animation-play-state: paused;
+                }
+
+                @keyframes pill-marquee-left {
+                    from {
+                        transform: translateX(-50%);
+                    }
+
+                    to {
+                        transform: translateX(0);
+                    }
+                }
+
+                @keyframes pill-marquee-right {
+                    from {
+                        transform: translateX(0);
+                    }
+
+                    to {
+                        transform: translateX(-50%);
+                    }
+                }
+
+                @media (prefers-reduced-motion: reduce) {
+                    .pill-marquee-track {
+                        animation-play-state: paused;
+                    }
+                }
+            </style>
+
+            <div class="container-layout">
+                <div class="text-center mb-10 md:mb-12 wow fadeUp">
+                    <h2 class="text-4xl md:text-[60px] md:leading-[68px] font-bold">Explore Our Power Universe</h2>
                 </div>
             </div>
+
+            <div class="pill-marquee flex flex-col gap-3 md:gap-[20px] mb-5" aria-label="Product portfolio">
+                <div class="pill-marquee-row overflow-hidden">
+                    <div class="pill-marquee-track">
+                        <div class="pill-marquee-set">
+                            <a href="product-category.html?category=ups" class="product-pill">Line Interactive UPS</a>
+                            <a href="product-category.html?category=ups" class="product-pill">IT Grade UPS</a>
+                            <a href="product-category.html?category=ups" class="product-pill">Industrial Grade UPS</a>
+                            <a href="product-category.html?category=ups" class="product-pill">Modular Redundant UPS</a>
+                            <a href="product-category.html?category=ups" class="product-pill">Enclosure Based UPS</a>
+                            <a href="product-category.html?category=inverter" class="product-pill">Home Inverter</a>
+                            <a href="product-category.html?category=inverter" class="product-pill">Solo Sine Series</a>
+                            <a href="product-category.html?category=storage" class="product-pill">VRLA/SLA Batteries</a>
+                            <a href="product-category.html?category=storage" class="product-pill">OPz Series</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pill-marquee flex flex-col gap-3 md:gap-[20px] mb-5" aria-label="Product portfolio">
+                <div class="pill-marquee-row overflow-hidden">
+                    <div class="pill-marquee-track reverse">
+                        <div class="pill-marquee-set">
+                            <a href="product-category.html?category=digital" class="product-pill">Data Center
+                                Solutions</a>
+                            <a href="product-category.html?category=digital" class="product-pill">Infrastructure
+                                Equipment</a>
+                            <a href="product-category.html?category=photovoltaic" class="product-pill">Hybrid PV
+                                Inverter</a>
+                            <a href="product-category.html?category=lifepo4" class="product-pill">High Voltage
+                                LiFePO4</a>
+                            <a href="product-category.html?category=lifepo4" class="product-pill">Low Voltage
+                                LiFePO4</a>
+                            <a href="product-category.html?category=solution" class="product-pill">RMS Compliance</a>
+                            <a href="product-category.html?category=solution" class="product-pill">Custom Software</a>
+                            <a href="product-category.html?category=accessories" class="product-pill">LED Lights</a>
+                            <a href="product-category.html?category=accessories" class="product-pill">Power
+                                Components</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                document.querySelectorAll(".pill-marquee-track").forEach((track) => {
+                    const set = track.querySelector(".pill-marquee-set");
+                    track.append(set.cloneNode(true));
+                });
+            </script>
         </section>
-        <!-- section end -->
+        <!-- product portfolio showcase end -->
 
         <!-- about-section -->
         <section class="about-section md:pt-[100px] pt-17 md:pb-[100px] pb-[50px]">

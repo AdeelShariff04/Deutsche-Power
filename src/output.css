@@ -49,6 +49,7 @@
     --color-accent-color: #52C1EE;
     --color-accent2-color: #0054A0;
     --color-secondary-color: #121212;
+    --color-mute-color: #b8b7b7;
     --color-text-color: #000000;
     --color-title-color: #000000;
     --color-bg-color-1: #f5f2ee;
@@ -979,6 +980,9 @@
   }
   .border-theme-color {
     border-color: var(--color-theme-color);
+  }
+  .border-mute-color {
+    border-color: var(--color-mute-color);
   }
   .border-white {
     border-color: var(--color-white);

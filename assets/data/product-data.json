@@ -2,7 +2,8 @@
   "tabNames": [
     "Overview",
     "Key Features",
-    "Compliance"
+    "Compliance",
+    "Documentation"
   ],
   "products": [
     {
@@ -36,6 +37,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes XL Plus and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/XL-Plus-Series.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Series.mp4"
@@ -70,6 +78,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes XL Sine Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/XL-Sine-Series.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Series.mp4"
@@ -107,6 +122,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Elentra Series Green Mode and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/Elentra-Series-Green.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/Elantra-Series-Green.mp4"
@@ -144,6 +166,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 1/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: CE, EN50091-2, EN61000-2-2, EN61000-4-3, EN61000-4-4, EN61000-4-5, EN62040, EN62040-1-1, GB4943-2001, IEC62040-1. References in a product-family description do not establish certification of every model or configuration.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/ES-IT-1.1.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/Elektra-Series-1.1-IT.mp4"
@@ -181,7 +210,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 3/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: CE, EN50081-1, EN50082-1, EN50091-2, EN55022, EN61000-2-2, EN61000-4-3, EN61000-4-4, EN61000-4-5, EN62040, EN62040-1-1, FCC. References in a product-family description do not establish certification of every model or configuration.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/Elektra-Series-3.1-IT.mp4"
     },
@@ -218,7 +248,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 3/3 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/Elektra-Series-3.3-500.mp4"
     },
@@ -254,6 +285,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Elektra One and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/Elektra-One.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -292,6 +330,13 @@
           "Safety Standards: Fully compliant with IEC/EN 62040-1 and IEC/EN 60950-1.",
           "EMC & Immunity Compliance: Certified to IEC/EN 62040-2, IEC 61000-4-2, IEC 61000-4-3, IEC 61000-4-4, IEC 61000-4-5, IEC 61000-4-6, and IEC 61000-4-8.",
           "Environmental & Overload Resilience: High overload endurance with optional dust-proof filtration kits for harsh industrial conditions."
+        ],
+        [
+          {
+            "file": "assets/product-documents/ES-200KV-3.3.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -325,6 +370,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 1/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/ES-Industrial-1.1.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -361,7 +413,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 3/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: EN60950-1, EN62040-1, EN62040-2, IEC61000-4-2, IEC61000-4-4, IEC61000-4-5, IEC61000-4-6, IEC61000-4-8. References in a product-family description do not establish certification of every model or configuration.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -395,13 +448,20 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Elektra LF 3/3 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: EN50091-2, EN61000-2-2, EN61000-4, EN61000-4-3, EN61000-4-5, EN62040-1-1. References in a product-family description do not establish certification of every model or configuration.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/ES-LF-3.3.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
     {
-      "id": "moduler-fuhrer",
-      "name": "ESHS Series Moduler Fuhrer",
+      "id": "modular-fuhrer",
+      "name": "ESHS Series Modular Fuhrer",
       "images": [
         "assets/images/products/UPS/Modular-fuhrer/1.png",
         "assets/images/products/UPS/Modular-fuhrer/2.png",
@@ -427,6 +487,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Moduler Fuhrer and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: EN50091-2, EN61000-2-2, EN61000-4, EN61000-4-3, EN61000-4-5, EN62040-1-1. References in a product-family description do not establish certification of every model or configuration.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/ESHS-Moduler.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -461,6 +528,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Enclosure Based 1/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/ES-Outdoor.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -498,6 +572,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Elentra SC Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/Elentra-SC-Series.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -535,7 +616,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Home Inverter Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -571,6 +653,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Solo Sine Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/Solo-Sine-Inverter.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -603,7 +692,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes VRLA/SLA FM-NP Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: BS6290, CE, EN61000-6-1, EN61000-6-3, FCC, ISO14001, ISO9001, UL. References in a product-family description do not establish certification of every model or configuration.",
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -637,7 +727,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes VRLA/SLA FM-NPL Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: BS6290, EN61000-6-1, EN61000-6-3, IATAA-67, UL. References in a product-family description do not establish certification of every model or configuration.",
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -671,7 +762,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes VRLA/SLA FM-NPG Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: BS6290, EN61000-6-1, EN61000-6-3, IATAA-67, UL. References in a product-family description do not establish certification of every model or configuration.",
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -704,111 +796,10 @@
           "Catalog documentation: The supplied Deutsche Power product information describes VRLA/SLA FT-NPG Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: BS6290, EN61000-6-1, EN61000-6-3, IATAA-67, UL. References in a product-family description do not establish certification of every model or configuration.",
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
-      "id": "lifepo4-512v-100ah",
-      "name": "LiFePO4 Battery 51.2V 50Ah~200Ah",
-      "images": [
-        "assets/images/products/batteries/LiFePO4-51.2V-1.png",
-        "assets/images/products/batteries/LiFePO4-51.2V-2.png",
-        "assets/images/products/batteries/LiFePO4-51.2V-3.png",
-        "assets/images/products/batteries/LiFePO4-51.2V-4.png",
-        "assets/images/products/batteries/LiFePO4-51.2V-5.png",
-        "assets/images/products/batteries/LiFePO4-51.2V-6.png"
-      ],
-      "tabs": [
-        [
-          "LiFePO4 51.2V Series is a Deutsche Power lithium iron phosphate battery family engineered for solar energy storage, residential power-walls, and modular rackmount installations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 51.2V nominal voltage configurations with 50Ah, 100Ah, 150Ah, and 200Ah capacity options. These capabilities support selection of a suitable solution for residential, commercial, or industrial backup power.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for solar storage, wind energy systems, electric mobility, and telecommunication backup.",
-          "Product family: Lithium iron phosphate battery family with Block Design, Rackmount Design, and Power-Wall configurations.",
-          "51.2V nominal voltage variants with 50Ah to 200Ah capacity options.",
-          "Longer Cycle Life: Offers up to 20 times longer cycle life and 5 times longer float/calendar life than traditional lead-acid batteries.",
-          "Lighter Weight: Approximately 40% of the weight of a comparable lead-acid battery, serving as a direct drop-in replacement.",
-          "Higher Power & Efficiency: Delivers twice the power of lead-acid alternatives even at high discharge rates while maintaining high energy capacity.",
-          "Wider Temperature Range: Operates reliably from -20°C to 60°C.",
-          "Superior Safety: Advanced Lithium Iron Phosphate chemistry eliminates the risk of explosion or combustion due to high impact, overcharging, or short circuits."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the LiFePO4 51.2V series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: CE, FCC, UL, ISO9001, and ISO14001 quality and environmental management certifications. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
-      ],
-      "video": "assets/product-videos/LiFePO4-51.2V.mp4"
-    },
-    {
-      "id": "lifepo4-48v",
-      "name": "LiFePO4 Battery 48V 50Ah~200Ah",
-      "images": [
-        "assets/images/products/batteries/LiFePO4-48V-1.png",
-        "assets/images/products/batteries/LiFePO4-48V-2.png",
-        "assets/images/products/batteries/LiFePO4-48V-3.png",
-        "assets/images/products/batteries/LiFePO4-48V-4.png",
-        "assets/images/products/batteries/LiFePO4-48V-5.png",
-        "assets/images/products/batteries/LiFePO4-48V-6.png"
-      ],
-      "tabs": [
-        [
-          "LiFePO4 48V Series is a Deutsche Power lithium iron phosphate energy storage solution built for high-demand telecommunication and solar power backup environments. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 48V configurations with 50Ah, 100Ah, 150Ah, and 200Ah capacity options. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for telecommunication backup, data centers, solar/wind energy storage systems, and medical equipment.",
-          "Product family: Lithium iron phosphate battery family with Block Design, Rackmount Design, and Power-Wall options.",
-          "48V system architecture with 50Ah to 200Ah capacity ratings.",
-          "Longer Cycle Life: Minimizes replacement frequency and reduces total cost of ownership compared to conventional lead-acid.",
-          "Lighter Weight: Ultra-lightweight footprint (~40% of lead-acid weight) providing an easy drop-in upgrade.",
-          "Superior Safety & Thermal Stability: Built-in safeguards eliminate combustion risks under extreme operating conditions.",
-          "Wider Temperature Range: Fully functional between -20°C and 60°C."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the LiFePO4 48V series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: CE, FCC, UL, ISO9001, and ISO14001. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
-      ],
-      "video": "assets/product-videos/LiFePO4-48V.mp4"
-    },
-    {
-      "id": "lifepo4-24v",
-      "name": "LiFePO4 Battery 24V 50Ah~200Ah",
-      "images": [
-        "assets/images/products/batteries/LiFePO4-24V-1.png",
-        "assets/images/products/batteries/LiFePO4-24V-2.png",
-        "assets/images/products/batteries/LiFePO4-24V-3.png",
-        "assets/images/products/batteries/LiFePO4-24V-4.png",
-        "assets/images/products/batteries/LiFePO4-24V-5.png",
-        "assets/images/products/batteries/LiFePO4-24V-6.png"
-      ],
-      "tabs": [
-        [
-          "LiFePO4 24V Series is a Deutsche Power lithium iron phosphate energy storage solution designed for residential backup, off-grid solar setups, and mobile electric applications. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 24V nominal configurations with 50Ah, 100Ah, 150Ah, and 200Ah capacity choices. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for electric mobility, solar and wind energy storage systems, home backup power, and remote field equipment.",
-          "Product family: Lithium iron phosphate battery family featuring flexible block, rackmount, and power-wall architectures.",
-          "24V voltage tier with 50Ah to 200Ah capacity options.",
-          "Longer Cycle Life: Delivers extended operational lifetime with minimal maintenance overhead.",
-          "High Power Density: Provides double the usable power of standard lead-acid batteries at high discharge rates.",
-          "Wider Temperature Range: Operates effectively across -20°C to 60°C."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the LiFePO4 24V series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: CE, FCC, UL, ISO9001, and ISO14001. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
-      ],
-      "video": "assets/product-videos/LiFePO4-24V.mp4"
     },
     {
       "id": "opzv-series-2v-cell",
@@ -843,7 +834,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes OPzV Series, 2V Cell and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: BS6290, DIN40742, EN61000-6-1, EN61000-6-3, UL. References in a product-family description do not establish certification of every model or configuration.",
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -875,7 +867,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes OPzS Series, 2V Cell and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: BS6290, EN61000-6-1, EN61000-6-3, UL. References in a product-family description do not establish certification of every model or configuration.",
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -906,6 +899,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes the 96V HV battery system and its intended applications.",
           "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
           "Electrical integration: Confirm input/output ratings, terminal connections (Anderson/Connector), overcurrent protection, and local safety approvals before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/LiFePO4-HV.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/HV-Battery.mp4"
@@ -937,6 +937,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes the 192V~240V HV battery series and its intended applications.",
           "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3.",
           "Electrical integration: Confirm input/output ratings, cabling requirements, grounding standards, and local approvals prior to deployment."
+        ],
+        [
+          {
+            "file": "assets/product-documents/LiFePO4-HV.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/HV-Battery.mp4"
@@ -968,6 +975,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes the 384V~480V HV battery system and its intended applications.",
           "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
           "Electrical integration: Confirm input/output ratings, overcurrent protection, terminal specs, and local regulatory requirements before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/LiFePO4-HV.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/HV-Battery.mp4"
@@ -999,6 +1013,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes the 12V low voltage battery system and its intended applications.",
           "Certifications and safety: Built-in hardware and software over-voltage, low-voltage, and short-circuit protections.",
           "Battery handling: Verify applicable safety, charging, and recycling guidelines for the exact model before installation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/LiFePO4-LV.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/LV-Battery.mp4"
@@ -1030,6 +1051,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes the 24V low voltage battery series and its intended applications.",
           "Safety and compliance: Includes internal protection mechanisms against over-charging, over-discharging, and short circuits.",
           "Battery handling: Confirm terminal configurations, charging voltage limits, and mounting requirements prior to setup."
+        ],
+        [
+          {
+            "file": "assets/product-documents/LiFePO4-LV.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/LV-Battery.mp4"
@@ -1061,6 +1089,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes the 48V low voltage cabinet battery series and its intended applications.",
           "Certifications and safety: Comprehensive hardware and software protection against high/low temperatures, over-current, and voltage anomalies.",
           "Electrical integration: Standard rack-mount enclosure design for easy installation; verify busbar and communication cabling before operation."
+        ],
+        [
+          {
+            "file": "assets/product-documents/LiFePO4-LV.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/LV-Battery.mp4"
@@ -1092,40 +1127,16 @@
           "Catalog documentation: The supplied Deutsche Power product information describes the 51.2V rack battery system and its intended applications.",
           "Certifications referenced in the supplied source: IEC62619, UN38.3, CE, and ROHS compliance.",
           "Electrical integration: Standard 19-inch rack installation format; verify parallel linking parameters and communication protocols prior to startup."
+        ],
+        [
+          {
+            "file": "assets/product-documents/LiFePO4-LV.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/LV-Battery.mp4"
-    },
-    {
-      "id": "hv-battery-500v-800v",
-      "name": "HV Battery System 500V~800V",
-      "images": [
-        "assets/images/products/batteries/HV-500V-1.png",
-        "assets/images/products/batteries/HV-500V-2.png",
-        "assets/images/products/batteries/HV-500V-3.png",
-        "assets/images/products/batteries/HV-500V-4.png",
-        "assets/images/products/batteries/HV-500V-5.png",
-        "assets/images/products/batteries/HV-500V-6.png"
-      ],
-      "tabs": [
-        [
-          "HV Battery System 500V~800V is a Deutsche Power ultra-high voltage modular energy storage system engineered for large commercial installations and utility-scale microgrids.",
-          "The catalog highlights a nominal voltage of 537.6V with capacity options of 100Ah, 200Ah, and 300Ah, providing total energy storage ranging from 53.76KWh to 161.28KWh per cluster.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
-        ],
-        [
-          "Application: designed for large renewable power plants, industrial heavy backup, and high-capacity commercial energy storage stations.",
-          "Product family: High Voltage System Series featuring models CLFP537-100-4, CLFP537-200-4, and CLFP537-300-4.",
-          "Technical specs: 5000 cycles @ 25°C (1C/1C, 80% DOD), adjustable charge voltage from 500V to 900V, and robust RS485/CAN communication.",
-          "Physical build: IP54 water protection level, weights ranging from 490kg to 1470kg, 32U modular rack architecture, 10-year design life, and 5-year warranty."
-        ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the 500V~800V HV battery system and its intended applications.",
-          "Certifications referenced in the supplied source: CE, UL, ROHS, and UN38.3 compliance.",
-          "Electrical integration: Confirm heavy-duty DC terminal connections (ANDERSON/CONNECTOR), system grounding, and high-voltage safety protocols before deployment."
-        ]
-      ],
-      "video": "assets/product-videos/HV-Battery.mp4"
     },
     {
       "id": "micro-data-center",
@@ -1153,7 +1164,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Single and Multirack Micro Data Center and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1183,7 +1195,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Modular Data Center and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1213,7 +1226,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Container Data Center and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1245,7 +1259,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Power Distribution Unit and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1275,7 +1290,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Server Rack and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1306,6 +1322,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Solo Nova Hybrid Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and certifications referenced in the supplied source: IEC 62109-1 2010, IEC 62109-2 2011, EN/IEC 50549-10, VDE-4105, EC 60529, and RoHS compliance.",
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
+        ],
+        [
+          {
+            "file": "assets/product-documents/Solo-Nova-Inverter.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1339,7 +1362,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes LED Residential Tube Lights and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1372,7 +1396,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes LED Down Lights and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1404,7 +1429,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes LED Industrial Tube Lights and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1436,7 +1462,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Anti-fogging Light and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1469,7 +1496,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Panel Light and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1501,7 +1529,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Grille Light and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1534,7 +1563,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes LED Outdoor Light and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1566,7 +1596,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes LED Flood Lights and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1603,7 +1634,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Environmental Sensor and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1639,6 +1671,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Management Software and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
+        ],
+        [
+          {
+            "file": "assets/product-documents/SNMP.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1676,6 +1715,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes SNMP and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: RFC1213, RFC1315, RFC1316, RFC1628. References in a product-family description do not establish certification of every model or configuration.",
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
+        ],
+        [
+          {
+            "file": "assets/product-documents/SNMP.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1711,7 +1757,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Modbus and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1745,7 +1792,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Power Distribution Unit and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1780,7 +1828,8 @@
           "Catalog documentation: The supplied Deutsche Power product information describes ATS and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ]
+        ],
+        []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
     },
@@ -1810,6 +1859,13 @@
           "Catalog documentation: The supplied Deutsche Power product information describes Outdoor UPS Cabinet and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
           "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
+        ],
+        [
+          {
+            "file": "assets/product-documents/ES-Outdoor.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
         ]
       ],
       "video": "assets/product-videos/XL-Sine.mp4"

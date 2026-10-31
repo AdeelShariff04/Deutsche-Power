@@ -11,7 +11,7 @@ tabList.setAttribute("role", "tablist");
 tabList.setAttribute("aria-label", "Product categories");
 
 const productGrid = document.createElement("div");
-productGrid.className = "grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-[30px] mb-[30px]";
+productGrid.className = "mb-[30px]";
 productGrid.setAttribute("role", "tabpanel");
 productGrid.setAttribute("aria-live", "polite");
 productGrid.textContent = "Loading products...";
@@ -57,7 +57,47 @@ function selectCategory(categories, selectedIndex, tabs) {
     });
 
     productGrid.setAttribute("aria-labelledby", activeTab.id);
-    productGrid.replaceChildren(...category.products.map((product) => createProductCard(product)));
+    const sections = [];
+    const groupedProducts = new Map();
+    const ungroupedProducts = [];
+
+    category.products.forEach((product) => {
+        const subcategory = typeof product.subcategory === "string" ? product.subcategory.trim() : "";
+        if (!subcategory) {
+            ungroupedProducts.push(product);
+            return;
+        }
+        if (!groupedProducts.has(subcategory)) groupedProducts.set(subcategory, []);
+        groupedProducts.get(subcategory).push(product);
+    });
+
+    groupedProducts.forEach((products, subcategory) => {
+        const section = document.createElement("section");
+        section.className = "mb-[30px]";
+        sections.push(section);
+
+        const heading = document.createElement("h2");
+        heading.className = "mb-[30px] text-center text-[16px] font-semibold text-white";
+        heading.style.background = "linear-gradient(90deg, #003b75 0%, #52c1ef 100%)";
+        heading.style.minHeight = "44px";
+        heading.style.borderRadius = "999px";
+        heading.style.padding = "12px 20px";
+        heading.textContent = subcategory;
+
+        const grid = document.createElement("div");
+        grid.className = "grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-[30px] mb-[30px]";
+        grid.append(...products.map((product) => createProductCard(product)));
+        section.append(heading, grid);
+    });
+
+    if (ungroupedProducts.length) {
+        const grid = document.createElement("div");
+        grid.className = "grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-[30px] mb-[30px]";
+        grid.append(...ungroupedProducts.map((product) => createProductCard(product)));
+        sections.push(grid);
+    }
+
+    productGrid.replaceChildren(...sections);
 }
 
 fetch("assets/data/products.json")
