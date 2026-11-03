@@ -2,7 +2,8 @@
   "tabNames": [
     "Overview",
     "Key Features",
-    "Compliance",
+    "Technical Specifications",
+    "Communication & Ports",
     "Documentation"
   ],
   "products": [
@@ -20,8 +21,9 @@
       "tabs": [
         [
           "XL Plus is a Deutsche Power line-interactive UPS developed for SOHO offices, workstations and point-of-sale equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 500–3000 VA; LCD status monitoring; off-mode charging; cold start; remote monitoring as described. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "500–3000 VA; LCD status monitoring; off-mode charging; cold start; remote monitoring as described. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: EN55022, GB9254.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for SOHO offices, workstations and point-of-sale equipment.",
@@ -34,9 +36,10 @@
           "Technology XL Plus uses line interactive technology to produce a basic level of protection."
         ],
         [
-          "Catalog documentation: The supplied Deutsche Power product information describes XL Plus and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+          "assets/images/products/UPS/XL-Plus/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/XL-Plus/TechSpec.png"
         ],
         [
           {
@@ -62,8 +65,9 @@
       "tabs": [
         [
           "XL Sine Series is a Deutsche Power pure sine wave line-interactive UPS developed for servers, network equipment and office IT. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 1000–3000 VA; automatic voltage regulation; LCD status; surge and data-line protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "1000–3000 VA; automatic voltage regulation; LCD status; surge and data-line protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: EN55022, GB9254.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for servers, network equipment and office IT.",
@@ -74,11 +78,8 @@
           "surge and data-line protection.",
           "XL Sine Series is an improved Line-Interactive UPS with Pure Sine Wave out put."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes XL Sine Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/XL-Sine-Series.pdf",
@@ -90,8 +91,8 @@
       "video": "assets/product-videos/XL-Series.mp4"
     },
     {
-      "id": "elentra-series-green-mode",
-      "name": "Elentra Series Green Mode",
+      "id": "elentra-series-lifepo4",
+      "name": "Elentra Series LiFePO4",
       "images": [
         "assets/images/products/UPS/Elentra-Series-Green-Mode/1.png",
         "assets/images/products/UPS/Elentra-Series-Green-Mode/2.png",
@@ -103,8 +104,9 @@
       "tabs": [
         [
           "Elentra Series Green Mode is a Deutsche Power pure sine wave line-interactive UPS with Green Mode developed for domestic loads, IT systems and network equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 1–8 kVA; standard or extended battery autonomy; adjustable charging; LCD monitoring; Green Mode. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "1–8 kVA; standard or extended battery autonomy; adjustable charging; LCD monitoring; Green Mode. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: EN55022, GB9254.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for domestic loads, IT systems and network equipment.",
@@ -118,11 +120,8 @@
           "Extended Runtime Capability.",
           "Video Frequency Disturbance: GB9254 1998/EN55022 CLASS A."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Elentra Series Green Mode and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/Elentra-Series-Green.pdf",
@@ -147,8 +146,9 @@
       "tabs": [
         [
           "Elektra Series 1/1 is a Deutsche Power online double-conversion UPS developed for mission-critical single-phase IT systems. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 1–20 kVA (1/1); DSP control; generator compatibility; optional connectivity cards. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "1–20 kVA (1/1); DSP control; generator compatibility; optional connectivity cards. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: CE, EN50091-2, EN61000-2-2, EN61000-4-3, EN61000-4-4, EN61000-4-5, EN62040, EN62040-1-1, GB4943-2001, IEC62040-1.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for mission-critical single-phase IT systems.",
@@ -162,11 +162,8 @@
           "Wide Input Voltage & Frequency Range.",
           "EN50091-2: Limits for UPS which have a rated output current exceeding 25A (25~100A)."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 1/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: CE, EN50091-2, EN61000-2-2, EN61000-4-3, EN61000-4-4, EN61000-4-5, EN62040, EN62040-1-1, GB4943-2001, IEC62040-1. References in a product-family description do not establish certification of every model or configuration.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/ES-IT-1.1.pdf",
@@ -191,8 +188,9 @@
       "tabs": [
         [
           "Elektra Series 3/1 is a Deutsche Power online double-conversion UPS developed for mission-critical three-phase-input, single-phase-output IT systems. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 10–20 kVA (3/1); continuous power conditioning; advanced monitoring and protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "10–20 kVA (3/1); continuous power conditioning; advanced monitoring and protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: CE, EN50081-1, EN50082-1, EN50091-2, EN55022, EN61000-2-2, EN61000-4-3, EN61000-4-4, EN61000-4-5, EN62040, EN62040-1-1, FCC.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for mission-critical three-phase-input, single-phase-output IT systems.",
@@ -206,11 +204,8 @@
           "EN50091-2: Limits for UPS which have a rated output current exceeding 25A (25~100A).",
           "EN61000-2-2 (Immunity to low frequency signal)."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 3/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: CE, EN50081-1, EN50082-1, EN50091-2, EN55022, EN61000-2-2, EN61000-4-3, EN61000-4-4, EN61000-4-5, EN62040, EN62040-1-1, FCC. References in a product-family description do not establish certification of every model or configuration.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/Elektra-Series-3.1-IT.mp4"
@@ -229,8 +224,9 @@
       "tabs": [
         [
           "Elektra Series 3/3 is a Deutsche Power online double-conversion UPS developed for three-phase data centers and critical installations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 10–500 kVA (3/3); three-phase power protection; system monitoring and scalability. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "10–500 kVA (3/3); three-phase power protection; system monitoring and scalability. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for three-phase data centers and critical installations.",
@@ -244,11 +240,8 @@
           "Active Input Power Factor Correction (Pfc).",
           "Network Management Design."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 3/3 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/Elektra-Series-3.3-500.mp4"
@@ -267,8 +260,9 @@
       "tabs": [
         [
           "Elektra One is a Deutsche Power online UPS designed for 48 V battery operation developed for IT equipment and critical single-phase loads. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 6 kVA; 48 V architecture; online double-conversion operation. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "6 kVA; 48 V architecture; online double-conversion operation. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for IT equipment and critical single-phase loads.",
@@ -281,11 +275,8 @@
           "Common 48Vdc battery pack for the parallel system.",
           "Full Bridge inverter design to support half-wave load and unbalanced load."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Elektra One and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/Elektra-One.pdf",
@@ -311,7 +302,13 @@
         [
           "Elektra Series 3/3 is an IT-grade high-frequency online double-conversion UPS engineered for mission-critical three-phase power protection across data centers, medical labs, and enterprise IT infrastructure.",
           "Built with a compact footprint and full DSP digital control, the system delivers zero transfer time (0ms), an active input power factor above 0.99, and up to 94% operational efficiency (exceeding 98% in ECO mode) to significantly lower total operating costs.",
-          "Its robust topology guarantees stable, surge-free power even under heavy electrical disturbances, supporting 100% unbalanced load capacity and broad generator synchronization across fluctuating utility grids."
+          "Its robust topology guarantees stable, surge-free power even under heavy electrical disturbances, supporting 100% unbalanced load capacity and broad generator synchronization across fluctuating utility grids.",
+          "Target Applications: Hyperscale and enterprise data centers, telecom VoIP nodes, medical diagnostic labs, railway control systems, and automated industrial plants.",
+          "Standard Communication Ports: USB, RS232, RS485, Parallel redundancy bus, and programmable dry contacts.",
+          "Optional Network Interfaces: Intelligent smart slot for SNMP network cards, AS400 relay cards, and environmental monitoring probes.",
+          "Safety Standards: Fully compliant with IEC/EN 62040-1 and IEC/EN 60950-1.",
+          "EMC & Immunity Compliance: Certified to IEC/EN 62040-2, IEC 61000-4-2, IEC 61000-4-3, IEC 61000-4-4, IEC 61000-4-5, IEC 61000-4-6, and IEC 61000-4-8.",
+          "Environmental & Overload Resilience: High overload endurance with optional dust-proof filtration kits for harsh industrial conditions."
         ],
         [
           "Capacity Range: 08 kVA to 200 kVA (scalable up to 500 kVA 3-phase in / 3-phase out).",
@@ -323,14 +320,8 @@
           "Intelligent Battery Management: Cold DC start capability and flexible battery string configurations (16/18/20 or 32–40 blocks).",
           "Emergency Power Off (EPO) and full support for unbalanced loads."
         ],
-        [
-          "Target Applications: Hyperscale and enterprise data centers, telecom VoIP nodes, medical diagnostic labs, railway control systems, and automated industrial plants.",
-          "Standard Communication Ports: USB, RS232, RS485, Parallel redundancy bus, and programmable dry contacts.",
-          "Optional Network Interfaces: Intelligent smart slot for SNMP network cards, AS400 relay cards, and environmental monitoring probes.",
-          "Safety Standards: Fully compliant with IEC/EN 62040-1 and IEC/EN 60950-1.",
-          "EMC & Immunity Compliance: Certified to IEC/EN 62040-2, IEC 61000-4-2, IEC 61000-4-3, IEC 61000-4-4, IEC 61000-4-5, IEC 61000-4-6, and IEC 61000-4-8.",
-          "Environmental & Overload Resilience: High overload endurance with optional dust-proof filtration kits for harsh industrial conditions."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/ES-200KV-3.3.pdf",
@@ -355,8 +346,9 @@
       "tabs": [
         [
           "Elektra Series 1/1 is a Deutsche Power industrial online double-conversion UPS developed for industrial single-phase loads and mission-critical operations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 1–20 kVA (1/1); industrial-grade power conditioning and control. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "1–20 kVA (1/1); industrial-grade power conditioning and control. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for industrial single-phase loads and mission-critical operations.",
@@ -366,11 +358,8 @@
           "Unique Battery Protection Function & Management.",
           "Harmonic filter, SNMP adopter, LBS cables, Battery temperature sensor, Bypass current-sharing inductor."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 1/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/ES-Industrial-1.1.pdf",
@@ -395,8 +384,9 @@
       "tabs": [
         [
           "Elektra Series 3/1 is a Deutsche Power industrial online double-conversion UPS developed for industrial systems with three-phase input and single-phase output. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 10–40 kVA (3/1); continuous online power protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "10–40 kVA (3/1); continuous online power protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: EN60950-1, EN62040-1, EN62040-2, IEC61000-4-2, IEC61000-4-4, IEC61000-4-5, IEC61000-4-6, IEC61000-4-8.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for industrial systems with three-phase input and single-phase output.",
@@ -409,11 +399,8 @@
           "Active Input Power Factor Correction (Pfc).",
           "Network Management Design."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Elektra Series 3/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: EN60950-1, EN62040-1, EN62040-2, IEC61000-4-2, IEC61000-4-4, IEC61000-4-5, IEC61000-4-6, IEC61000-4-8. References in a product-family description do not establish certification of every model or configuration.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -432,8 +419,9 @@
       "tabs": [
         [
           "Elektra LF 3/3 is a Deutsche Power industrial low-frequency online double-conversion UPS developed for large industrial facilities and critical three-phase loads. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 10 kVA–3.2 MVA (3/3); robust industrial power protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "10 kVA–3.2 MVA (3/3); robust industrial power protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: EN50091-2, EN61000-2-2, EN61000-4, EN61000-4-3, EN61000-4-5, EN62040-1-1.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for large industrial facilities and critical three-phase loads.",
@@ -444,11 +432,8 @@
           "Unique Battery Protection Function & Management.",
           "Harmonic filter, SNMP adopter, LBS cables, Battery temperature sensor, Bypass current-sharing inductor."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Elektra LF 3/3 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: EN50091-2, EN61000-2-2, EN61000-4, EN61000-4-3, EN61000-4-5, EN62040-1-1. References in a product-family description do not establish certification of every model or configuration.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/ES-LF-3.3.pdf",
@@ -473,8 +458,9 @@
       "tabs": [
         [
           "Moduler Fuhrer is a Deutsche Power modular online UPS platform developed for expandable critical-power rooms and enterprise installations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 10–520 kVA (3/3); modular architecture for capacity expansion and serviceability. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "10–520 kVA (3/3); modular architecture for capacity expansion and serviceability. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: EN50091-2, EN61000-2-2, EN61000-4, EN61000-4-3, EN61000-4-5, EN62040-1-1.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for expandable critical-power rooms and enterprise installations.",
@@ -483,11 +469,8 @@
           "modular architecture for capacity expansion and serviceability.",
           "EN61000-2-2 (Immunity to low Frequency signal)."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Moduler Fuhrer and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: EN50091-2, EN61000-2-2, EN61000-4, EN61000-4-3, EN61000-4-5, EN62040-1-1. References in a product-family description do not establish certification of every model or configuration.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/ESHS-Moduler.pdf",
@@ -512,8 +495,9 @@
       "tabs": [
         [
           "Enclosure Based 1/1 is a Deutsche Power enclosure-based sine wave UPS developed for outdoor installations that need protected power equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 1–10 kVA (1/1); line-interactive UPS in an outdoor-oriented enclosure. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "1–10 kVA (1/1); line-interactive UPS in an outdoor-oriented enclosure. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for outdoor installations that need protected power equipment.",
@@ -524,11 +508,8 @@
           "Special outdoor powder coating, high temperature and corrosion resistance.",
           "Heater and Temperature Controller."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Enclosure Based 1/1 and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/ES-Outdoor.pdf",
@@ -553,8 +534,9 @@
       "tabs": [
         [
           "Elentra SC Series is a Deutsche Power pure sine wave UPS for demanding environments developed for racks, towers and installations exposed to challenging conditions. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 1–8 kVA; rackmount or tower installation; environmental robustness. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "1–8 kVA; rackmount or tower installation; environmental robustness. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for racks, towers and installations exposed to challenging conditions.",
@@ -568,11 +550,8 @@
           "Automated voltage regulation(AVR), noise filtering and surge protection.",
           "Extended Runtime Capability."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Elentra SC Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/Elentra-SC-Series.pdf",
@@ -597,8 +576,9 @@
       "tabs": [
         [
           "Home Inverter Series is a Deutsche Power pure sine wave home inverter developed for homes, small offices and everyday electrical loads. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 600–3000 VA; intelligent battery management; selectable displays; AC voltage regulation. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "600–3000 VA; intelligent battery management; selectable displays; AC voltage regulation. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for homes, small offices and everyday electrical loads.",
@@ -612,11 +592,8 @@
           "Highly accuracy and fully automatic voltage regulator endurance load safely running.",
           "Friendly LED display (standard) or digital LCD display (optional)."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Home Inverter Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -635,8 +612,9 @@
       "tabs": [
         [
           "Solo Sine Inverter is a Deutsche Power pure sine wave compact inverter developed for small home and office electrical equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 350 W and 500 W; selectable input range and charging current. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "350 W and 500 W; selectable input range and charging current. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
           "Application: designed for small home and office electrical equipment.",
@@ -649,11 +627,8 @@
           "Selectable charging current: 10A or 20A.",
           "Auto restart while AC is recovering."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Solo Sine Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Electrical integration: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/Solo-Sine-Inverter.pdf",
@@ -678,8 +653,9 @@
       "tabs": [
         [
           "VRLA/SLA FM-NP Series is a Deutsche Power sealed lead-acid battery series developed for UPS backup, lighting, alarms and general-purpose equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights FM-NP family; general-purpose and deep-cycle service; catalog-stated 15-year design life. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "FM-NP family; general-purpose and deep-cycle service; catalog-stated 15-year design life. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: BS6290, CE, EN61000-6-1, EN61000-6-3, FCC, ISO14001, ISO9001, UL.",
+          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
           "Application: designed for UPS backup, lighting, alarms and general-purpose equipment.",
@@ -688,11 +664,8 @@
           "general-purpose and deep-cycle service.",
           "catalog-stated 15-year design life."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes VRLA/SLA FM-NP Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: BS6290, CE, EN61000-6-1, EN61000-6-3, FCC, ISO14001, ISO9001, UL. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -711,8 +684,9 @@
       "tabs": [
         [
           "VRLA/SLA FM-NPL Series is a Deutsche Power deep-cycle sealed lead-acid battery series developed for solar, wind, telecom and large UPS backup. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights FM-NPL family; gel electrolyte; catalog-stated 15-year design life. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "FM-NPL family; gel electrolyte; catalog-stated 15-year design life. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: BS6290, EN61000-6-1, EN61000-6-3, IATAA-67, UL.",
+          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
           "Application: designed for solar, wind, telecom and large UPS backup.",
@@ -723,11 +697,8 @@
           "Deep Cycle Solar Design 15 years life.",
           "Great for deep-cycle applications."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes VRLA/SLA FM-NPL Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: BS6290, EN61000-6-1, EN61000-6-3, IATAA-67, UL. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -746,8 +717,9 @@
       "tabs": [
         [
           "VRLA/SLA FM-NPG Series is a Deutsche Power deep-cycle gel battery series developed for renewable-energy storage and stationary backup systems. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights FM-NPG family; gel electrolyte; catalog-stated 15-year design life. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "FM-NPG family; gel electrolyte; catalog-stated 15-year design life. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: BS6290, EN61000-6-1, EN61000-6-3, IATAA-67, UL.",
+          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
           "Application: designed for renewable-energy storage and stationary backup systems.",
@@ -758,11 +730,8 @@
           "Deep Cycle Gel Design 15 years design life.",
           "Great for deep-cycle applications."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes VRLA/SLA FM-NPG Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: BS6290, EN61000-6-1, EN61000-6-3, IATAA-67, UL. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -781,8 +750,9 @@
       "tabs": [
         [
           "VRLA/SLA FT-NPG Series is a Deutsche Power deep-cycle gel battery series developed for front-terminal or space-conscious backup arrangements. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights FT-NPG family; gel battery design and long-life standby applications. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "FT-NPG family; gel battery design and long-life standby applications. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: BS6290, EN61000-6-1, EN61000-6-3, IATAA-67, UL.",
+          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
           "Application: designed for front-terminal or space-conscious backup arrangements.",
@@ -792,11 +762,8 @@
           "Deep Cycle Gel Design 15 years design life.",
           "Great for deep-cycle applications."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes VRLA/SLA FT-NPG Series and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: BS6290, EN61000-6-1, EN61000-6-3, IATAA-67, UL. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -815,8 +782,9 @@
       "tabs": [
         [
           "OPzV Series, 2V Cell is a Deutsche Power 2 V tubular gel stationary battery series developed for solar, telecommunications and long-duration standby storage. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights OPzV tubular gel design; up to 20-year design life; deep-cycle capability. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "OPzV tubular gel design; up to 20-year design life; deep-cycle capability. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: BS6290, DIN40742, EN61000-6-1, EN61000-6-3, UL.",
+          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
           "Application: designed for solar, telecommunications and long-duration standby storage.",
@@ -830,11 +798,8 @@
           "Stronger constant power discharge capability.",
           "Better charge acceptability."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes OPzV Series, 2V Cell and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: BS6290, DIN40742, EN61000-6-1, EN61000-6-3, UL. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -853,8 +818,9 @@
       "tabs": [
         [
           "OPzS Series, 2V Cell is a Deutsche Power 2 V OPzS gel battery series developed for industrial and solar stationary battery banks. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 2 V cells; catalog-stated deep-cycle gel design and 15-year design life. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "2 V cells; catalog-stated deep-cycle gel design and 15-year design life. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: BS6290, EN61000-6-1, EN61000-6-3, UL.",
+          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
           "Application: designed for industrial and solar stationary battery banks.",
@@ -863,11 +829,8 @@
           "catalog-stated deep-cycle gel design and 15-year design life.",
           "Gel Battery OPzS Series, 2V Gel Battery Deep cycle Gel design 15 years design life."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes OPzS Series, 2V Cell and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: BS6290, EN61000-6-1, EN61000-6-3, UL. References in a product-family description do not establish certification of every model or configuration.",
-          "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -887,7 +850,9 @@
         [
           "HV Battery System 96V is a Deutsche Power high voltage lithium iron phosphate battery solution designed for commercial and industrial energy storage applications.",
           "The system features a nominal voltage of 96VDC with capacity options including 50Ah and 100Ah, delivering energy capacities ranging from 4.8KWh to 9.6KWh per cluster setup.",
-          "Review the current model datasheet for dimensions, ratings, supported cluster options and operating limits before selecting a configuration."
+          "Review the current model datasheet for dimensions, ratings, supported cluster options and operating limits before selecting a configuration.",
+          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
+          "Installation guidance: Confirm input/output ratings, terminal connections (Anderson/Connector), overcurrent protection, and local safety approvals before installation."
         ],
         [
           "Application: designed for commercial energy storage, backup power stations, and industrial infrastructure systems.",
@@ -895,11 +860,8 @@
           "Technical specs: 5000 cycles at 25°C (1C/1C, 80% DOD), RS232/RS485/CAN communication, and built-in LCD display.",
           "Operating parameters: Adjustable voltage range of 96-106V, IP54 water protection rating, and standard operating temperature range from -20°C to 55°C for discharge."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the 96V HV battery system and its intended applications.",
-          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
-          "Electrical integration: Confirm input/output ratings, terminal connections (Anderson/Connector), overcurrent protection, and local safety approvals before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/LiFePO4-HV.pdf",
@@ -925,7 +887,9 @@
         [
           "HV Battery System 192V~240V is a Deutsche Power high voltage modular battery system engineered for advanced commercial energy storage and multi-cluster rack deployments.",
           "The system supports nominal voltages of 192VDC and 240VDC with capacities spanning 20Ah, 50Ah, and 100Ah configurations, achieving energy storage levels up to 24KWh.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
+          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3.",
+          "Installation guidance: Confirm input/output ratings, cabling requirements, grounding standards, and local approvals prior to deployment."
         ],
         [
           "Application: designed for high-capacity renewable energy systems, enterprise power backup, and utility-scale installations.",
@@ -933,11 +897,8 @@
           "Technical specs: Standard cycle life of 5000 times @ 25°C, max discharge current up to 400A, and robust RS232/RS485/CAN communication support.",
           "Safety and design: IP54 water-proof enclosure, 10-year design life, 5-year warranty, and intelligent LCD status monitoring."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the 192V~240V HV battery series and its intended applications.",
-          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3.",
-          "Electrical integration: Confirm input/output ratings, cabling requirements, grounding standards, and local approvals prior to deployment."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/LiFePO4-HV.pdf",
@@ -963,7 +924,9 @@
         [
           "HV Battery System 384V~480V is a Deutsche Power high voltage industrial battery cluster designed for heavy-duty commercial energy storage and microgrid architecture.",
           "The system provides nominal voltage configurations of 384VDC and 480VDC with capacity choices of 20Ah, 50Ah, and 100Ah, yielding energy capacities from 7.6KWh up to 48KWh.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
+          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
+          "Installation guidance: Confirm input/output ratings, overcurrent protection, terminal specs, and local regulatory requirements before installation."
         ],
         [
           "Application: designed for large-scale solar farms, industrial plant backup, and multi-cluster utility environments.",
@@ -971,11 +934,8 @@
           "Technical specs: Advanced multi-cluster architecture supporting up to 3 clusters, max discharge currents up to 400A, and RS485/CAN communication interface.",
           "Durability: IP54 water protection, operating temperature range of -20°C to 55°C, and integrated LCD display for system telemetry."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the 384V~480V HV battery system and its intended applications.",
-          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
-          "Electrical integration: Confirm input/output ratings, overcurrent protection, terminal specs, and local regulatory requirements before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/LiFePO4-HV.pdf",
@@ -1000,8 +960,10 @@
       "tabs": [
         [
           "Low Voltage Battery System 12V is a Deutsche Power lithium iron phosphate battery family housed in a lead-acid plastic shell package, developed for versatile domestic and portable applications.",
-          "The catalog highlights ratings from 20Ah up to 250Ah (models CPLI-1220AH through CPLI-12250AH) providing lightweight, high energy density alternatives to traditional lead-acid batteries.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "ratings from 20Ah up to 250Ah (models CPLI-1220AH through CPLI-12250AH) providing lightweight, high energy density alternatives to traditional lead-acid batteries.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
+          "Certifications and safety: Built-in hardware and software over-voltage, low-voltage, and short-circuit protections.",
+          "Battery handling: Verify applicable safety, charging, and recycling guidelines for the exact model before installation."
         ],
         [
           "Application: designed for photovoltaic systems, street lighting, telecommunications, portable mobile products, and general DC backup.",
@@ -1009,11 +971,8 @@
           "Technical specs: 100% DOD with 2500-3000 cycles, intelligent battery balance management via BMS, and lighter weight construction.",
           "Performance: High discharge current capabilities up to 150A depending on model capacity."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the 12V low voltage battery system and its intended applications.",
-          "Certifications and safety: Built-in hardware and software over-voltage, low-voltage, and short-circuit protections.",
-          "Battery handling: Verify applicable safety, charging, and recycling guidelines for the exact model before installation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/LiFePO4-LV.pdf",
@@ -1038,8 +997,10 @@
       "tabs": [
         [
           "Low Voltage Battery System 24V is a Deutsche Power lithium iron phosphate energy storage solution built for residential solar setups, mobile equipment, and telecommunication backup.",
-          "The catalog highlights capacity ratings from 10Ah to 125Ah (models CPLI-2410AH through CPLI-24125AH) featuring high energy density and reduced physical weight.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "capacity ratings from 10Ah to 125Ah (models CPLI-2410AH through CPLI-24125AH) featuring high energy density and reduced physical weight.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
+          "Safety and compliance: Includes internal protection mechanisms against over-charging, over-discharging, and short circuits.",
+          "Battery handling: Confirm terminal configurations, charging voltage limits, and mounting requirements prior to setup."
         ],
         [
           "Application: designed for solar energy storage, electric mobility, marine use, and backup power supplies.",
@@ -1047,11 +1008,8 @@
           "Technical specs: 100% DOD, 2500-3000 operating cycles, intelligent BMS balance management, and integrated charge/discharge safeguards.",
           "Efficiency: Direct drop-in replacement for traditional lead-acid batteries with enhanced power density and faster recharge capability."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the 24V low voltage battery series and its intended applications.",
-          "Safety and compliance: Includes internal protection mechanisms against over-charging, over-discharging, and short circuits.",
-          "Battery handling: Confirm terminal configurations, charging voltage limits, and mounting requirements prior to setup."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/LiFePO4-LV.pdf",
@@ -1076,8 +1034,10 @@
       "tabs": [
         [
           "Low Voltage Battery System 48V is a Deutsche Power modular lithium iron phosphate battery solution engineered for telecommunication networks, data centers, and rack-mount energy storage.",
-          "The catalog highlights cabinet-format ratings from 5Ah up to 150Ah (models CPLI-4805AH through CPLI-48150AH) configured in standard 2U, 3U, 4U, and 5U cabinet sizes.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "cabinet-format ratings from 5Ah up to 150Ah (models CPLI-4805AH through CPLI-48150AH) configured in standard 2U, 3U, 4U, and 5U cabinet sizes.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
+          "Certifications and safety: Comprehensive hardware and software protection against high/low temperatures, over-current, and voltage anomalies.",
+          "Installation guidance: Standard rack-mount enclosure design for easy installation; verify busbar and communication cabling before operation."
         ],
         [
           "Application: designed for EV/PHEV, telecommunication base stations, UPS systems, and renewable energy storage stations.",
@@ -1085,11 +1045,8 @@
           "Technical specs: High-precision voltage detection (25mV/cell), high-precision current detection, 5-channel temperature monitoring, and EEPROM history storage.",
           "Interface and communication: RS232 interface for SOC/SOH telemetry, RS485 cascade communication between battery modules, and SMBUS V2.0 compatibility."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the 48V low voltage cabinet battery series and its intended applications.",
-          "Certifications and safety: Comprehensive hardware and software protection against high/low temperatures, over-current, and voltage anomalies.",
-          "Electrical integration: Standard rack-mount enclosure design for easy installation; verify busbar and communication cabling before operation."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/LiFePO4-LV.pdf",
@@ -1114,8 +1071,11 @@
       "tabs": [
         [
           "Low Voltage Battery System 51.2V Rack is a Deutsche Power advanced 19-inch rack-mountable lithium iron phosphate module designed for residential and commercial solar storage.",
-          "The catalog highlights capacities including 50Ah (2.56KWh), 100Ah (5.12KWh), and 200Ah (10.24KWh) models under the CLFP-51.2 series.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "capacities including 50Ah (2.56KWh), 100Ah (5.12KWh), and 200Ah (10.24KWh) models under the CLFP-51.2 series.",
+          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
+          "2V rack battery system and its intended applications.",
+          "Certifications referenced in the supplied source: IEC62619, UN38.3, CE, and ROHS compliance.",
+          "Installation guidance: Standard 19-inch rack installation format; verify parallel linking parameters and communication protocols prior to startup."
         ],
         [
           "Application: designed for solar energy storage, residential power-walls, telecom backup, and scalable parallel configurations.",
@@ -1123,11 +1083,8 @@
           "Technical specs: Exceptional cycle life of ≥5000 to ≥6000 times at 80% SOC (1C/1C, 25°C), low internal impedance (≤20mΩ), and IP21 protection rating.",
           "Operating parameters: Charge temperature range from 0°C to 45°C, discharge temperature from -10°C to 55°C, with RS485, RS232, and CAN communication interfaces."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes the 51.2V rack battery system and its intended applications.",
-          "Certifications referenced in the supplied source: IEC62619, UN38.3, CE, and ROHS compliance.",
-          "Electrical integration: Standard 19-inch rack installation format; verify parallel linking parameters and communication protocols prior to startup."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/LiFePO4-LV.pdf",
@@ -1152,19 +1109,17 @@
       "tabs": [
         [
           "Single and Multirack Micro Data Center is a Deutsche Power single- and multi-rack micro data center solution developed for compact edge IT installations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights product name identifies rack-scale data-center deployment; specifications not provided. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "product name identifies rack-scale data-center deployment; specifications not provided. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
           "Application: designed for compact edge IT installations.",
           "Product family: Single- and multi-rack micro data center solution.",
           "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Single and Multirack Micro Data Center and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1183,19 +1138,17 @@
       "tabs": [
         [
           "Modular Data Center is a Deutsche Power modular data center solution developed for organizations planning scalable IT infrastructure. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights modular data-center concept; module-level specifications not provided. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "modular data-center concept; module-level specifications not provided. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
           "Application: designed for organizations planning scalable IT infrastructure.",
           "Product family: Modular data center solution.",
           "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Modular Data Center and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1214,19 +1167,17 @@
       "tabs": [
         [
           "Container Data Center is a Deutsche Power containerized data center solution developed for deployable IT and infrastructure installations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights container-based data-center concept; specifications not provided. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "container-based data-center concept; specifications not provided. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
           "Application: designed for deployable IT and infrastructure installations.",
           "Product family: Containerized data center solution.",
           "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Container Data Center and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1245,8 +1196,9 @@
       "tabs": [
         [
           "Power Distribution Unit is a Deutsche Power IT rack power distribution unit developed for rack-based IT and communications equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights rack-level power distribution; outlet and electrical configuration vary by model. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "rack-level power distribution; outlet and electrical configuration vary by model. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: EN55022, GB9254.",
+          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
           "Application: designed for rack-based IT and communications equipment.",
@@ -1255,11 +1207,8 @@
           "Catalog lists 250 V AC and 50/60 Hz for its PDU description.",
           "Confirm socket count, connections and rated current before specifying a model."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Power Distribution Unit and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
-          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1278,19 +1227,17 @@
       "tabs": [
         [
           "Server Rack is a Deutsche Power server rack enclosure developed for servers, switches and structured IT equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights rack enclosure product category; dimensions and load ratings not provided. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "rack enclosure product category; dimensions and load ratings not provided. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
           "Application: designed for servers, switches and structured IT equipment.",
           "Product family: Server rack enclosure.",
           "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Server Rack and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1309,8 +1256,9 @@
       "tabs": [
         [
           "Solo Nova Hybrid Inverter is a Deutsche Power single-phase low voltage hybrid inverter developed for high-efficiency solar energy storage, outdoor reliability, and backup power applications.",
-          "The catalog highlights 3kW to 12kW power ratings, IP66 outdoor protection rating, high PV utilization supporting up to twice rated power, three-stage conversion, and scalable capacity up to 15 parallel units.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "3kW to 12kW power ratings, IP66 outdoor protection rating, high PV utilization supporting up to twice rated power, three-stage conversion, and scalable capacity up to 15 parallel units.",
+          "Standards and certifications referenced in the supplied source: IEC 62109-1 2010, IEC 62109-2 2011, EN/IEC 50549-10, VDE-4105, EC 60529, and RoHS compliance.",
+          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
           "Application: designed for solar and wind energy storage systems, residential backup power, electric mobility, and telecommunication infrastructure.",
@@ -1318,11 +1266,8 @@
           "Features soft start protection, three-stage charge/discharge conversion, and dual MPPT channels for maximum energy yield.",
           "Equipped with a 4.3-inch HD touch screen display, customizable time-of-use scheduling, and built-in output bypass function."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Solo Nova Hybrid Inverter and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and certifications referenced in the supplied source: IEC 62109-1 2010, IEC 62109-2 2011, EN/IEC 50549-10, VDE-4105, EC 60529, and RoHS compliance.",
-          "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/Solo-Nova-Inverter.pdf",
@@ -1347,8 +1292,9 @@
       "tabs": [
         [
           "LED Residential Tube Lights is a Deutsche Power T8 LED tube light family developed for residential and commercial linear lighting. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 2 ft and 4 ft T8 configurations; thermal management; optional motion sensing. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "2 ft and 4 ft T8 configurations; thermal management; optional motion sensing. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
           "Application: designed for residential and commercial linear lighting.",
@@ -1358,11 +1304,8 @@
           "optional motion sensing.",
           "Advanced Cooling Technology."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes LED Residential Tube Lights and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1381,8 +1324,9 @@
       "tabs": [
         [
           "LED Down Lights is a Deutsche Power LED recessed downlight family developed for homes, hospitality spaces, offices and corridors. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 3–18 W range; anti-glare lighting and aluminum thermal management. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "3–18 W range; anti-glare lighting and aluminum thermal management. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
           "Application: designed for homes, hospitality spaces, offices and corridors.",
@@ -1392,11 +1336,8 @@
           "Wall-Wash | Anti-Glare | Gentle Light.",
           "Advanced Cooling Technology."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes LED Down Lights and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1415,8 +1356,9 @@
       "tabs": [
         [
           "LED Industrial Tube Lights is a Deutsche Power industrial T8 LED tube lighting developed for factories, workshops and commercial facilities. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 2 ft and 4 ft T8 formats; optional motion detection and heat dissipation. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "2 ft and 4 ft T8 formats; optional motion detection and heat dissipation. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
           "Application: designed for factories, workshops and commercial facilities.",
@@ -1425,11 +1367,8 @@
           "optional motion detection and heat dissipation.",
           "Advanced Cooling Technology."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes LED Industrial Tube Lights and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1448,8 +1387,9 @@
       "tabs": [
         [
           "Anti-fogging Light is a Deutsche Power anti-fogging LED light developed for hotels, offices and retail interiors. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights soft light output; panel/downlight family description in source. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "soft light output; panel/downlight family description in source. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
           "Application: designed for hotels, offices and retail interiors.",
@@ -1458,11 +1398,8 @@
           "Designed for integration into indoor ceiling lighting.",
           "Catalog-stated rated service life of up to 50,000 hours; operating conditions affect service life."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Anti-fogging Light and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1481,8 +1418,9 @@
       "tabs": [
         [
           "Panel Light is a Deutsche Power flat-panel LED lighting solution developed for offices, shops and indoor general illumination. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights warm- or cool-white light choices; diffused illumination. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "warm- or cool-white light choices; diffused illumination. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
           "Application: designed for offices, shops and indoor general illumination.",
@@ -1492,11 +1430,8 @@
           "Diffused illumination for general overhead use.",
           "Lightweight heat-sink design and a PC surface cover described."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Panel Light and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1515,8 +1450,9 @@
       "tabs": [
         [
           "Grille Light is a Deutsche Power adjustable LED grille spotlight developed for retail showcases, galleries and hospitality areas. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 8 W, 16 W and 24 W configurations; adjustable lighting direction. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "8 W, 16 W and 24 W configurations; adjustable lighting direction. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
           "Application: designed for retail showcases, galleries and hospitality areas.",
@@ -1525,11 +1461,8 @@
           "adjustable lighting direction.",
           "Advanced Cooling Technology."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Grille Light and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1548,8 +1481,9 @@
       "tabs": [
         [
           "LED Outdoor Light is a Deutsche Power outdoor LED lighting family developed for streets, canopies, parking areas and external spaces. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights outdoor LED fixtures; source discusses thermal design and energy-saving operation. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "outdoor LED fixtures; source discusses thermal design and energy-saving operation. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
           "Application: designed for streets, canopies, parking areas and external spaces.",
@@ -1559,11 +1493,8 @@
           "Outdoor Lights, Street Light, Canopy Lights, Parking Lights, Etc.",
           "Advanced Cooling Technology."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes LED Outdoor Light and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1582,8 +1513,9 @@
       "tabs": [
         [
           "LED Flood Lights is a Deutsche Power LED flood light family developed for exterior and high-output area lighting. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 10–100 W family; LED-based broad-area illumination. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "10–100 W family; LED-based broad-area illumination. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
           "Application: designed for exterior and high-output area lighting.",
@@ -1592,11 +1524,8 @@
           "LED-based broad-area illumination.",
           "Advanced Cooling Technology."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes LED Flood Lights and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1615,8 +1544,9 @@
       "tabs": [
         [
           "Environmental Sensor is a Deutsche Power temperature and humidity monitoring sensor developed for UPS rooms, telecom sites, data centers and environmental monitoring. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights RS-485 Modbus RTU; environmental alerts; optional sensor configuration. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "RS-485 Modbus RTU; environmental alerts; optional sensor configuration. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
           "Application: designed for UPS rooms, telecom sites, data centers and environmental monitoring.",
@@ -1630,11 +1560,8 @@
           "Ambient temperature testing range: -2 % ~ +85 %accuracy: +.5%.",
           "Temperature sensor testing range: -5 % ~ +155 % accuracy: +5%."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Environmental Sensor and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1653,8 +1580,9 @@
       "tabs": [
         [
           "Management Software is a Deutsche Power UPS monitoring and control software developed for managed UPS deployments and networked computer systems. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights power-event notifications; battery monitoring; automated orderly shutdown. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "power-event notifications; battery monitoring; automated orderly shutdown. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
           "Application: designed for managed UPS deployments and networked computer systems.",
@@ -1667,11 +1595,8 @@
           "Device for Temperature, Humidity and Water level Sensor.",
           "Devices for Web-Based 8 Channel Sensor Collector."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Management Software and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/SNMP.pdf",
@@ -1696,8 +1621,9 @@
       "tabs": [
         [
           "SNMP is a Deutsche Power SNMP UPS network management adapter developed for network racks, data centers and remote UPS locations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights 10/100 Mbps Ethernet; web management; alerts and history logging. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "10/100 Mbps Ethernet; web management; alerts and history logging. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: RFC1213, RFC1315, RFC1316, RFC1628.",
+          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
           "Application: designed for network racks, data centers and remote UPS locations.",
@@ -1711,11 +1637,8 @@
           "Round-the-clock real-time monitor and manage.",
           "Improve the stability and reliability of the UPS power and the safety of the computer network."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes SNMP and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: RFC1213, RFC1315, RFC1316, RFC1628. References in a product-family description do not establish certification of every model or configuration.",
-          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/SNMP.pdf",
@@ -1740,8 +1663,9 @@
       "tabs": [
         [
           "Modbus is a Deutsche Power Modbus communication interface developed for building management and industrial monitoring integrations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights Modbus connectivity for equipment monitoring and system integration. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "Modbus connectivity for equipment monitoring and system integration. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
           "Application: designed for building management and industrial monitoring integrations.",
@@ -1753,11 +1677,8 @@
           "Down transfers supports RS232 power level (protocol of the device).",
           "Up transfer supports RS422 Full duplex and RS485 Half duplex modes (Modbus protocol/ optional for users)."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Modbus and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1776,8 +1697,9 @@
       "tabs": [
         [
           "Power Distribution Unit is a Deutsche Power power distribution unit for equipment cabinets developed for dense rack and cabinet installations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights distribution and power management in rack environments. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "distribution and power management in rack environments. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "Applicable standards: EN55022, GB9254.",
+          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
           "Application: designed for dense rack and cabinet installations.",
@@ -1788,11 +1710,8 @@
           "Leakage Current: <0.5mA 250V/50Hz.",
           "Video Frequency Disturbance: GB9254 1998/ EN55022 CLASS A."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Power Distribution Unit and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "Standards and designations referenced in the supplied source: EN55022, GB9254. References in a product-family description do not establish certification of every model or configuration.",
-          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1811,8 +1730,9 @@
       "tabs": [
         [
           "ATS is a Deutsche Power automatic transfer switch developed for equipment requiring an alternative power source. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "The catalog highlights two independent power inlets and automatic source transfer. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "two independent power inlets and automatic source transfer. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
           "Application: designed for equipment requiring an alternative power source.",
@@ -1824,11 +1744,8 @@
           "High reliable 19\" rack design (1U).",
           "Built in USB and RS232 communication Ports."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes ATS and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ],
+        [],
+        [],
         []
       ],
       "video": "assets/product-videos/XL-Sine.mp4"
@@ -1848,18 +1765,16 @@
         [
           "Outdoor UPS Cabinet is a Deutsche Power outdoor UPS cabinet developed for outdoor housing of compatible UPS equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
           "The Outdoor UPS Cabinet is listed as a product, but the supplied documentation does not give its enclosure material, ingress-protection rating, thermal-management method or dimensions. Those specifications must be obtained from the manufacturer.",
-          "The values and options quoted describe the product family, not necessarily every variant. Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration."
+          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
+          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
           "Application: designed for outdoor housing of compatible UPS equipment.",
           "Product family: Outdoor ups cabinet.",
           "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
         ],
-        [
-          "Catalog documentation: The supplied Deutsche Power product information describes Outdoor UPS Cabinet and its intended applications. This tab distinguishes catalog statements from verified model-specific approvals.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
-        ],
+        [],
+        [],
         [
           {
             "file": "assets/product-documents/ES-Outdoor.pdf",

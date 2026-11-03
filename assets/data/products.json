@@ -8,19 +8,19 @@
           "id": "xl-plus",
           "name": "XL Plus",
           "image": "assets/images/products/UPS/XL-Plus/Cover.png",
-          "subcategory": "Line Interactive UPS"
+          "subcategory": "Line Interactive - Stimulated Sine Wave "
         },
         {
           "id": "xl-sine-series",
           "name": "XL Sine Series",
           "image": "assets/images/products/UPS/XL-Sine-Series/Cover.png",
-          "subcategory": "Line Interactive UPS"
+          "subcategory": "Line Interactive - Sine Wave"
         },
         {
-          "id": "elentra-series-green-mode",
-          "name": "Elentra Series Green Mode",
+          "id": "elentra-series-lifepo4",
+          "name": "Elentra Series LiFePO4",
           "image": "assets/images/products/UPS/Elentra-Series-Green-Mode/Cover.png",
-          "subcategory": "Line Interactive UPS"
+          "subcategory": "Line Interactive - Sine Wave"
         },
         {
           "id": "elektra-series-1-1-it",

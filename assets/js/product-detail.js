@@ -172,8 +172,42 @@ function renderProduct(product, tabNames) {
         heading.className = "md:text-[55px] md:leading-[60px] text-4xl leading-11 font-bold mb-5";
         heading.textContent = tabNames[selectedIndex];
 
-        if (selectedIndex === 3) {
-            const documents = Array.isArray(product.tabs[3]) ? product.tabs[3] : [];
+        if (selectedIndex === 2 || selectedIndex === 3) {
+            const tabImages = Array.isArray(product.tabs[selectedIndex]) ? product.tabs[selectedIndex] : [];
+            const imageField = selectedIndex === 2
+                ? (product.technicalSpecificationImages || product.technicalSpecificationImage || tabImages)
+                : (product.communicationImages || product.communicationPortsImages || tabImages);
+            const images = typeof imageField === "string"
+                ? [imageField]
+                : Array.isArray(imageField) ? imageField : [];
+
+            if (images.length === 0) {
+                const message = document.createElement("p");
+                message.className = "text-[18px] leading-8";
+                message.textContent = selectedIndex === 2
+                    ? "No technical specification chart is available for this product."
+                    : "No communication and ports chart is available for this product.";
+                panel.replaceChildren(heading, message);
+                return;
+            }
+
+            const gallery = document.createElement("div");
+            gallery.className = "grid grid-cols-1 gap-5";
+            images.filter((imagePath) => typeof imagePath === "string" && imagePath.trim()).forEach((imagePath) => {
+                const image = document.createElement("img");
+                image.src = imagePath.trim();
+                image.alt = `${product.name} ${tabNames[selectedIndex].toLowerCase()} chart`;
+                image.className = "w-full h-auto rounded-2xl";
+                gallery.append(image);
+            });
+            panel.replaceChildren(heading, gallery);
+            return;
+        }
+
+        if (selectedIndex === 4) {
+            const documents = Array.isArray(product.tabs[4])
+                ? product.tabs[4]
+                : Array.isArray(product.tabs[3]) ? product.tabs[3] : [];
             if (documents.length === 0) {
                 const message = document.createElement("p");
                 message.className = "text-[18px] leading-8";
@@ -220,7 +254,8 @@ function renderProduct(product, tabNames) {
             return;
         }
 
-        const paragraphs = product.tabs[selectedIndex].map((content) => {
+        const tabContent = product.tabs[selectedIndex];
+        const paragraphs = (tabContent || []).map((content) => {
             const paragraph = document.createElement("p");
             paragraph.className = "mb-5 text-[18px] leading-8";
             paragraph.textContent = content;
@@ -242,9 +277,9 @@ fetch("assets/data/product-data.json")
         return response.json();
     })
     .then((data) => {
-        if (!Array.isArray(data.tabNames) || data.tabNames.length !== 4 ||
+        if (!Array.isArray(data.tabNames) || data.tabNames.length !== 5 ||
             data.tabNames.some((tabName) => typeof tabName !== "string") || !Array.isArray(data.products)) {
-            throw new Error("Product data must provide four tab names and a product list.");
+            throw new Error("Product data must provide five tab names and a product list.");
         }
 
         const product = data.products.find((item) => item.id === productId);
@@ -264,13 +299,13 @@ fetch("assets/data/product-data.json")
 
         if (typeof product.name !== "string" || !Array.isArray(product.images) || product.images.length === 0 ||
             product.images.some((imagePath) => typeof imagePath !== "string" || !imagePath) ||
-            !Array.isArray(product.tabs) || product.tabs.length !== 4 ||
-            product.tabs.slice(0, 3).some((tabContent) => !Array.isArray(tabContent) || tabContent.length < 2 ||
+            !Array.isArray(product.tabs) || product.tabs.length !== 5 ||
+            product.tabs.slice(0, 2).some((tabContent) => !Array.isArray(tabContent) || tabContent.length < 2 ||
                 tabContent.some((paragraph) => typeof paragraph !== "string")) ||
-            !Array.isArray(product.tabs[3]) ||
-            product.tabs[3].some((documentInfo) => !documentInfo ||
+            !Array.isArray(product.tabs[4]) ||
+            product.tabs[4].some((documentInfo) => !documentInfo ||
                 typeof documentInfo !== "object" || typeof documentInfo.file !== "string" || !documentInfo.file)) {
-            throw new Error(`Product "${productId}" must include a name, at least one image, and content for all four tabs.`);
+            throw new Error(`Product "${productId}" must include a name, at least one image, and content for all five tabs.`);
         }
 
         renderProduct(product, data.tabNames);

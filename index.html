@@ -274,7 +274,7 @@
 
         
         <!-- product portfolio showcase -->
-        <section class="product-pill-showcase relative py-16 md:py-20 bg-white dark:bg-secondary-color overflow-hidden">
+        <!-- <section class="product-pill-showcase relative py-16 md:py-20 bg-white dark:bg-secondary-color overflow-hidden">
             <style>
                 .pill-marquee-track {
                     display: flex;
@@ -418,7 +418,7 @@
                     track.append(set.cloneNode(true));
                 });
             </script>
-        </section>
+        </section> -->
         <!-- product portfolio showcase end -->
 
         <!-- about-section -->
@@ -548,6 +548,212 @@
             </div>
         </section>
         <!-- about-section end -->
+
+        <!-- connected industries section -->
+        <section class="connected-industries-section relative overflow-hidden py-16 md:py-24 bg-white dark:bg-secondary-color">
+            <div class="container-layout">
+                <div class="text-center max-w-[760px] mx-auto mb-10 md:mb-14 wow fadeUp">
+                    <span class="inline-block mb-3 font-special-font text-[14px] font-bold uppercase tracking-[0.22em] text-theme-color">Powering every ambition</span>
+                    <h2 class="text-[40px] leading-[46px] md:text-[64px] md:leading-[70px] font-bold">One Network. Endless Possibilities.</h2>
+                    <p class="mt-5 text-[17px] leading-8 text-[#686868] dark:text-white/70">Reliable energy infrastructure connecting the places where people live, learn, heal, transact and innovate.</p>
+                </div>
+
+                <style>
+                    .industry-network {
+                        position: relative;
+                        height: 520px;
+                        max-width: 1050px;
+                        margin: 0 auto;
+                        isolation: isolate;
+                    }
+
+                    .network-link-map {
+                        position: absolute;
+                        inset: 0;
+                        width: 100%;
+                        height: 100%;
+                        overflow: visible;
+                    }
+
+                    .network-link {
+                        fill: none;
+                        stroke: #ffad67;
+                        stroke-width: 2;
+                    }
+
+                    .network-energy {
+                        fill: none;
+                        stroke: #1598d5;
+                        stroke-width: 5;
+                        stroke-linecap: round;
+                        stroke-dasharray: 2 170;
+                        animation: network-flow 2.8s linear infinite;
+                    }
+
+                    .network-node {
+                        position: absolute;
+                        z-index: 3;
+                        display: flex;
+                        align-items: center;
+                        min-height: 44px;
+                        padding: 10px 20px;
+                        border: 1px solid rgba(21, 152, 213, 0.18);
+                        border-radius: 999px;
+                        background: rgba(255, 255, 255, 0.96);
+                        box-shadow: 0 12px 35px rgba(11, 73, 110, 0.12);
+                        color: #111;
+                        font-family: "Barlow", sans-serif;
+                        font-size: 17px;
+                        font-weight: 700;
+                        line-height: 20px;
+                        white-space: nowrap;
+                        transform: translate(-50%, -50%);
+                        transition: transform 250ms ease, border-color 250ms ease, box-shadow 250ms ease;
+                    }
+
+                    .network-node::before {
+                        content: "";
+                        width: 8px;
+                        height: 8px;
+                        margin-right: 10px;
+                        border-radius: 50%;
+                        background: #1598d5;
+                        box-shadow: 0 0 0 5px rgba(21, 152, 213, 0.12);
+                    }
+
+                    .network-node:hover {
+                        transform: translate(-50%, -50%) translateY(-4px);
+                        border-color: #1598d5;
+                        box-shadow: 0 16px 40px rgba(11, 73, 110, 0.18);
+                    }
+
+                    .network-core {
+                        position: absolute;
+                        left: 50%;
+                        top: 50%;
+                        z-index: 5;
+                        width: 132px;
+                        height: 132px;
+                        transform: translate(-50%, -50%);
+                        border-radius: 50%;
+                        background: white;
+                        box-shadow: 0 18px 55px rgba(0, 91, 145, 0.22), 0 0 0 14px rgba(21, 152, 213, 0.06);
+                    }
+
+                    .network-core::before,
+                    .network-core::after {
+                        content: "";
+                        position: absolute;
+                        inset: -18px;
+                        z-index: -1;
+                        border: 1px solid rgba(238, 145, 57, 0.32);
+                        border-radius: 50%;
+                        animation: core-pulse 2.6s ease-out infinite;
+                    }
+
+                    .network-core::after {
+                        animation-delay: 1.3s;
+                    }
+
+                    .network-core img {
+                        width: 100%;
+                        height: 100%;
+                        display: block;
+                        border-radius: 50%;
+                        object-fit: contain;
+                    }
+
+                    .industry-banking { left: 18%; top: 25%; }
+                    .industry-energy { left: 50%; top: 8%; }
+                    .industry-healthcare { left: 82%; top: 23%; }
+                    .industry-education { left: 90%; top: 50%; }
+                    .industry-technology { left: 77%; top: 82%; }
+                    .industry-government { left: 50%; top: 94%; }
+                    .industry-commerce { left: 16%; top: 80%; }
+                    .industry-public { left: 16%; top: 50%; }
+
+                    @keyframes network-flow {
+                        to { stroke-dashoffset: -172; }
+                    }
+
+                    @keyframes core-pulse {
+                        0% { opacity: 0.9; transform: scale(0.82); }
+                        100% { opacity: 0; transform: scale(1.38); }
+                    }
+
+                    @media (max-width: 767px) {
+                        .industry-network {
+                            display: grid;
+                            grid-template-columns: repeat(2, minmax(0, 1fr));
+                            gap: 14px;
+                            height: auto;
+                            padding-top: 150px;
+                        }
+
+                        .network-link-map {
+                            top: 0;
+                            height: 150px;
+                            opacity: 0.9;
+                        }
+
+                        .network-core {
+                            top: 75px;
+                            width: 104px;
+                            height: 104px;
+                        }
+
+                        .network-node {
+                            position: relative;
+                            left: auto !important;
+                            top: auto !important;
+                            width: 100%;
+                            min-height: 52px;
+                            justify-content: flex-start;
+                            padding: 10px 12px;
+                            font-size: 14px;
+                            white-space: normal;
+                            transform: none;
+                        }
+
+                        .network-node:hover {
+                            transform: translateY(-3px);
+                        }
+
+                        .network-node::before {
+                            flex: 0 0 auto;
+                            margin-right: 8px;
+                        }
+                    }
+
+                    @media (prefers-reduced-motion: reduce) {
+                        .network-energy,
+                        .network-core::before,
+                        .network-core::after {
+                            animation: none;
+                        }
+                    }
+                </style>
+
+                <div class="industry-network wow fadeUp" aria-label="Deutsche Power industry network">
+                    <svg class="network-link-map md:block hidden" viewBox="0 0 1000 520" preserveAspectRatio="none" aria-hidden="true">
+                        <path class="network-link" d="M500 260 L180 130 M500 260 L500 42 M500 260 L820 120 M500 260 L900 260 M500 260 L770 426 M500 260 L500 489 M500 260 L160 416 M500 260 L160 260"/>
+                        <path class="network-energy" d="M500 260 L180 130 M500 260 L500 42 M500 260 L820 120 M500 260 L900 260 M500 260 L770 426 M500 260 L500 489 M500 260 L160 416 M500 260 L160 260"/>
+                    </svg>
+                    <div class="network-core" aria-label="Deutsche Power">
+                        <img src="assets/images/icon.gif" alt="Deutsche Power">
+                    </div>
+                    <div class="network-node industry-banking">Financial Institutions</div>
+                    <div class="network-node industry-energy">Energy &amp; Utilities</div>
+                    <div class="network-node industry-healthcare">Healthcare Services</div>
+                    <div class="network-node industry-education">Education Institutions</div>
+                    <div class="network-node industry-technology">Technology &amp; Data</div>
+                    <div class="network-node industry-government">Government Sector</div>
+                    <div class="network-node industry-commerce">Retail &amp; Commercial</div>
+                    <div class="network-node industry-public">Public Sector</div>
+                </div>
+            </div>
+        </section>
+        <!-- connected industries section end -->
 
         <!-- product line section -->
         <section
