@@ -327,7 +327,15 @@
         <section class="relative md:pt-[150px] pt-10 pb-10 bg-bg-color-1 dark:bg-[rgba(255,255,255,0.05)]">
             <div class="absolute left-0 bottom-0 w-full h-[185px] dark:bg-transparent"></div>
             <div class="container-layout">
-                <div class="grid grid-cols-1 lg:grid-cols-12 gap-2.5">
+                <!-- Product video is populated by product-detail.js -->
+                <div id="product-video" class="image-inner mb-17 border border-theme-color dark:border-theme-color wow fadeUp rounded-3xl overflow-hidden">
+                    <div class="video-box relative">
+                        <video class="w-auto h-auto object-cover rounded-3xl" autoplay muted loop playsinline>
+                            <source type="video/mp4" />
+                        </video>
+                    </div>
+                </div>
+                <div class="grid grid-cols-1 lg:grid-cols-12 gap-2.5 pt-17 pb-17">
                     <div class="lg:col-span-6 wow fadeUp">
                         <div class="sec-title mb-7">
                             <span class="sub-title mb-5">Quick enquiry</span>
@@ -408,15 +416,6 @@
                                 </div>
                             </div>
                         </form>
-                    </div>
-                </div>
-
-                <!-- Product video is populated by product-detail.js -->
-                <div id="product-video" class="image-inner pt-12">
-                    <div class="video-box relative rounded-3xl mask-shape mask-shape-3 h-[570px]">
-                        <video class="w-auto h-auto object-cover" autoplay muted loop playsinline>
-                            <source type="video/mp4" />
-                        </video>
                     </div>
                 </div>
             </div>

@@ -49,7 +49,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/XL-Series.mp4"
+      "video": "assets/product-videos/XL-Plus.mp4"
     },
     {
       "id": "xl-sine-series",
@@ -78,8 +78,12 @@
           "surge and data-line protection.",
           "XL Sine Series is an improved Line-Interactive UPS with Pure Sine Wave out put."
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/XL-Sine-Series/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/XL-Sine-Series/TechSpec.png"
+        ],
         [
           {
             "file": "assets/product-documents/XL-Sine-Series.pdf",
@@ -88,7 +92,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/XL-Series.mp4"
+      "video": "assets/product-videos/XL-Sine.mp4"
     },
     {
       "id": "elentra-series-lifepo4",
@@ -120,8 +124,12 @@
           "Extended Runtime Capability.",
           "Video Frequency Disturbance: GB9254 1998/EN55022 CLASS A."
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/Elentra-Series-Green-Mode/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Elentra-Series-Green-Mode/TechSpec.png"
+        ],
         [
           {
             "file": "assets/product-documents/Elentra-Series-Green.pdf",
