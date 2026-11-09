@@ -20,26 +20,28 @@
       ],
       "tabs": [
         [
-          "XL Plus is a Deutsche Power line-interactive UPS developed for SOHO offices, workstations and point-of-sale equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "500–3000 VA; LCD status monitoring; off-mode charging; cold start; remote monitoring as described. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "Applicable standards: EN55022, GB9254.",
-          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+          "The Deutsche Power XL Series consists of line-interactive uninterruptible power supplies (UPS) engineered by DP Electronics primarily for Small Office/Home Office (SOHO) setups, personal workstations, and light IT infrastructure.",
+          "Built with an internal transformer, these systems feature Automatic Voltage Regulation (AVR) with Buck & Boost stabilization to smooth out intense grid voltage shifts without prematurely draining the battery.",
+          "The series accommodates a wide input voltage range—typically 140–300VAC.",
+          "It includes valuable operational features such as cold start capability, off-mode battery charging, and comprehensive safety protections against overloads, surges, and deep discharges."
         ],
         [
-          "Application: designed for SOHO offices, workstations and point-of-sale equipment.",
-          "Product family: Line-interactive ups.",
-          "500–3000 VA.",
-          "LCD status monitoring.",
-          "off-mode charging.",
-          "cold start.",
-          "remote monitoring as described.",
-          "Technology XL Plus uses line interactive technology to produce a basic level of protection."
+          "Line-Interactive Topology: Features a built-in transformer that dynamically interacts with the grid to smooth out basic power anomalies.",
+          "Automatic Voltage Regulation (AVR): Utilizes electronic Buck & Boost stabilization to handle intense grid voltage shifts without draining the battery.",
+          "Wide Capacity Range: Offers single-phase systems ranging from 650VA up to 3000VA to scale with different light IT loads.",
+          "Broad Input Voltage Window: Accommodates volatile grid swings, accepting inputs from 140–300VAC (lower models) to 162–290VAC (higher models).",
+          "Front-Panel LCD Screen: Displays crucial real-time metrics including input/output voltages, frequency tracking, battery capacity, and active faults.",
+          "Swift Transfer Time: Switches seamlessly from utility grid to battery backup within a rapid 2 to 6 milliseconds during a power failure.",
+          "Off-Mode Charging Capability: Replenishes the internal VRLA batteries even when the chassis power button is turned completely off.",
+          "Cold Start Capability: Programmed to turn on and supply emergency power directly from its batteries when utility grid power is completely absent.",
+          "Secure Remote Communication: Built with standard USB and RS-232 communication interfaces for network-based log inspection and parameter tracking.",
+          "Comprehensive Safety Protections: Internal safety circuits safeguard connected loads against unexpected power surges, overloads, overcharging, and deep discharges."
         ],
         [
           "assets/images/products/UPS/XL-Plus/TechSpec.png"
         ],
         [
-          "assets/images/products/UPS/XL-PortGuide.png"
+          "assets/images/products/UPS/XL-Plus/PortGuide.png"
         ],
         [
           {
@@ -64,25 +66,29 @@
       ],
       "tabs": [
         [
-          "XL Sine Series is a Deutsche Power pure sine wave line-interactive UPS developed for servers, network equipment and office IT. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "1000–3000 VA; automatic voltage regulation; LCD status; surge and data-line protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "Applicable standards: EN55022, GB9254.",
-          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+          "XL Sine is a single-phase Line Interactive Sine Wave UPS with configurations ranging from 650VA to 3000VA.",
+          "The XL Series delivers a Pure sine wave output with a swift transfer time of 2–6 milliseconds during a utility failure.",
+          "Users can monitor real-time metrics—including input/output voltages, frequency tracking, and battery capacity—via a clear front-panel LCD screen or remotely through integrated USB and RS-232 communication interfaces.",
+          "This balance of digital monitoring, voltage stabilization, and reliable emergency battery backup makes the lineup an ideal, cost-effective solution for safeguarding desktop computers, internet routers, POS terminals, and peripheral network equipment."
         ],
         [
-          "Application: designed for servers, network equipment and office IT.",
-          "Product family: Pure sine wave line-interactive ups.",
-          "1000–3000 VA.",
-          "automatic voltage regulation.",
-          "LCD status.",
-          "surge and data-line protection.",
-          "XL Sine Series is an improved Line-Interactive UPS with Pure Sine Wave out put."
+          "Sine wave : The Pure Sine wave Output makes it a special Product for mission crititcal Equipments",
+          "Line-Interactive Topology: Features a built-in transformer that dynamically interacts with the grid to smooth out basic power anomalies.",
+          "Automatic Voltage Regulation (AVR): Utilizes electronic Buck & Boost stabilization to handle intense grid voltage shifts without draining the battery.",
+          "Wide Capacity Range: Offers single-phase systems ranging from 650VA up to 3000VA to scale with different light IT loads.",
+          "Broad Input Voltage Window: Accommodates volatile grid swings, accepting inputs from 140–300VAC (lower models) to 162–290VAC (higher models).",
+          "Front-Panel LCD Screen: Displays crucial real-time metrics including input/output voltages, frequency tracking, battery capacity, and active faults.",
+          "Swift Transfer Time: Switches seamlessly from utility grid to battery backup within a rapid 2 to 6 milliseconds during a power failure.",
+          "Off-Mode Charging Capability: Replenishes the internal VRLA batteries even when the chassis power button is turned completely off.",
+          "Cold Start Capability: Programmed to turn on and supply emergency power directly from its batteries when utility grid power is completely absent.",
+          "Secure Remote Communication: Built with standard USB and RS-232 communication interfaces for network-based log inspection and parameter tracking.",
+          "Comprehensive Safety Protections: Internal safety circuits safeguard connected loads against unexpected power surges, overloads, overcharging, and deep discharges."
         ],
         [
           "assets/images/products/UPS/XL-Sine-Series/TechSpec.png"
         ],
         [
-          "assets/images/products/UPS/XL-Sine-Series/TechSpec.png"
+          "assets/images/products/UPS/XL-Sine-Series/PortGuide.png"
         ],
         [
           {
@@ -128,7 +134,7 @@
           "assets/images/products/UPS/Elentra-Series-Green-Mode/TechSpec.png"
         ],
         [
-          "assets/images/products/UPS/Elentra-PortGuide.png"
+          "assets/images/products/UPS/Elentra-Series-Green-Mode/PortGuide.png"
         ],
         [
           {
