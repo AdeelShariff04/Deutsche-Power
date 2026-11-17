@@ -624,6 +624,9 @@
   .min-h-\[500px\] {
     min-height: 500px;
   }
+  .min-h-\[530px\] {
+    min-height: 530px;
+  }
   .min-h-\[630px\] {
     min-height: 630px;
   }
@@ -686,6 +689,9 @@
   }
   .w-\[calc\(100\%-80px\)\] {
     width: calc(100% - 80px);
+  }
+  .w-4\/5 {
+    width: 80%;
   }
   .w-auto {
     width: auto;
@@ -788,6 +794,10 @@
   }
   .-translate-x-1\/2 {
     --tw-translate-x: calc(calc(1/2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+  .-translate-y-1\/2 {
+    --tw-translate-y: calc(calc(1/2 * 100%) * -1);
     translate: var(--tw-translate-x) var(--tw-translate-y);
   }
   .translate-x-full {
@@ -1136,6 +1146,9 @@
   }
   .py-1\.5 {
     padding-block: calc(var(--spacing) * 1.5);
+  }
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
   }
   .py-3\.5 {
     padding-block: calc(var(--spacing) * 3.5);
@@ -2887,10 +2900,45 @@
       }
     }
   }
+  .in-\[\.active\]\:md\:mb-\[220px\] {
+    :where(*:is(.active)) & {
+      @media (width >= 768px) {
+        margin-bottom: 220px;
+      }
+    }
+  }
+  .in-\[\.active\]\:md\:mb-\[200px\] {
+    :where(*:is(.active)) & {
+      @media (width >= 768px) {
+        margin-bottom: 200px;
+      }
+    }
+  }
+  .in-\[\.active\]\:md\:mb-\[175px\] {
+    :where(*:is(.active)) & {
+      @media (width >= 768px) {
+        margin-bottom: 175px;
+      }
+    }
+  }
+  .in-\[\.active\]\:md\:mb-\[150px\] {
+    :where(*:is(.active)) & {
+      @media (width >= 768px) {
+        margin-bottom: 100px;
+      }
+    }
+  }
   .in-\[\.active\]\:md\:mb-\[268px\] {
     :where(*:is(.active)) & {
       @media (width >= 768px) {
         margin-bottom: 268px;
+      }
+    }
+  }
+  .md\:in-\[\.active\]\:w-\[550px\] {
+    @media (width >= 768px) {
+      :where(*:is(.active)) & {
+        width: 550px;
       }
     }
   }
@@ -3492,6 +3540,13 @@
       }
     }
   }
+  .md\:\[\&\.active\]\:w-\[550px\] {
+    @media (width >= 768px) {
+      &.active {
+        width: 550px;
+      }
+    }
+  }
   .md\:\[\&\.active\]\:w-\[650px\] {
     @media (width >= 768px) {
       &.active {
@@ -3572,7 +3627,7 @@
 }
 .container-layout {
   margin-inline: auto;
-  max-width: 1320px;
+  max-width: 1200px;
   padding-right: 15px;
   padding-left: 15px;
 }

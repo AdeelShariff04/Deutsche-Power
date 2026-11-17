@@ -120,7 +120,7 @@ fetch("assets/data/products.json")
             const tab = document.createElement("button");
             tab.type = "button";
             tab.id = `product-category-${category.id}`;
-            tab.className = "sub-title py-3.5 px-8 border border-[#515151] rounded-4xl hover:text-white hover:border-theme-color hover:bg-theme-color";
+            tab.className = "sub-title py-3 px-6 border border-[#515151] rounded-4xl hover:text-white hover:border-theme-color hover:bg-theme-color";
             tab.setAttribute("role", "tab");
             tab.setAttribute("aria-controls", "product-grid");
             tab.textContent = category.name;

@@ -60,12 +60,12 @@ function renderProduct(product, tabNames) {
         const item = document.createElement("div");
         item.className = `moving-item relative rounded-2xl overflow-hidden md:w-[165px] w-full ${
             index < product.images.length - 1 ? "md:mb-0 mb-2.5" : ""
-        } min-h-[630px] transition-[width] duration-500 md:[&.active]:w-[650px]`;
+        } min-h-[530px] transition-[width] duration-500 md:[&.active]:w-[550px]`;
         
         if (index === 0) item.classList.add("active");
 
         const imageBox = document.createElement("div");
-        imageBox.className = "image-box relative block min-h-[630px] md:w-[165px] w-full bg-cover bg-no-repeat md:in-[.active]:w-[650px] in-[.active]:w-full duration-500";
+        imageBox.className = "image-box relative block min-h-[530px] md:w-[165px] w-full bg-cover bg-no-repeat md:in-[.active]:w-[550px] in-[.active]:w-full duration-500";
         imageBox.style.backgroundImage = `url("${imagePath}")`;
 
         const imageLink = document.createElement("a");
