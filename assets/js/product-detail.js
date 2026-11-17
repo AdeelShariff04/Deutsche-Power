@@ -235,7 +235,14 @@ function renderProduct(product, tabNames) {
                 const image = document.createElement("img");
                 image.src = imagePath.trim();
                 image.alt = `${product.name} ${tabNames[selectedIndex].toLowerCase()} chart`;
-                image.className = "w-full h-auto rounded-2xl";
+                image.className = "rounded-2xl";
+                image.style.maxHeight = "100vh";
+                image.style.maxWidth = "100%";
+                image.style.width = "auto";
+                image.style.height = "auto";
+                image.style.objectFit = "contain";
+                image.style.display = "block";
+                // image.style.margin = "0 auto";
                 gallery.append(image);
             });
             panel.replaceChildren(heading, gallery);
