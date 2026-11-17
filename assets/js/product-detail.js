@@ -20,6 +20,18 @@ function showMessage(container, message) {
     container.replaceChildren(paragraph);
 }
 
+function isKeyFeature(feature) {
+    return Boolean(
+        feature &&
+        typeof feature === "object" &&
+        !Array.isArray(feature) &&
+        typeof feature.icon === "string" &&
+        feature.icon.trim() &&
+        typeof feature.name === "string" &&
+        feature.name.trim()
+    );
+}
+
 function renderProduct(product, tabNames) {
     productName.textContent = product.name;
     document.title = `${product.name} | Deutsche Power`;
@@ -172,6 +184,32 @@ function renderProduct(product, tabNames) {
         heading.className = "md:text-[55px] md:leading-[60px] text-4xl leading-11 font-bold mb-5";
         heading.textContent = tabNames[selectedIndex];
 
+        if (selectedIndex === 1) {
+            const grid = document.createElement("div");
+            grid.className = "key-feature-grid";
+
+            product.tabs[1].forEach((feature) => {
+                const card = document.createElement("div");
+                card.className = "key-feature-card";
+
+                const icon = document.createElement("img");
+                icon.className = "key-feature-icon";
+                icon.src = feature.icon.trim();
+                icon.alt = "";
+                icon.setAttribute("aria-hidden", "true");
+
+                const name = document.createElement("h3");
+                name.className = "key-feature-name";
+                name.textContent = feature.name.trim();
+
+                card.append(icon, name);
+                grid.append(card);
+            });
+
+            panel.replaceChildren(heading, grid);
+            return;
+        }
+
         if (selectedIndex === 2 || selectedIndex === 3) {
             const tabImages = Array.isArray(product.tabs[selectedIndex]) ? product.tabs[selectedIndex] : [];
             const imageField = selectedIndex === 2
@@ -297,15 +335,18 @@ fetch("assets/data/product-data.json")
             return;
         }
 
+        const keyFeatures = Array.isArray(product.tabs?.[1]) ? product.tabs[1] : [];
+
         if (typeof product.name !== "string" || !Array.isArray(product.images) || product.images.length === 0 ||
             product.images.some((imagePath) => typeof imagePath !== "string" || !imagePath) ||
             !Array.isArray(product.tabs) || product.tabs.length !== 5 ||
-            product.tabs.slice(0, 2).some((tabContent) => !Array.isArray(tabContent) || tabContent.length < 2 ||
-                tabContent.some((paragraph) => typeof paragraph !== "string")) ||
+            !Array.isArray(product.tabs[0]) || product.tabs[0].length < 2 ||
+            product.tabs[0].some((paragraph) => typeof paragraph !== "string") ||
+            keyFeatures.length < 10 || !keyFeatures.every(isKeyFeature) ||
             !Array.isArray(product.tabs[4]) ||
             product.tabs[4].some((documentInfo) => !documentInfo ||
                 typeof documentInfo !== "object" || typeof documentInfo.file !== "string" || !documentInfo.file)) {
-            throw new Error(`Product "${productId}" must include a name, at least one image, and content for all five tabs.`);
+            throw new Error(`Product "${productId}" must include a name, at least one image, ten key features with icons and names, and content for all five tabs.`);
         }
 
         renderProduct(product, data.tabNames);

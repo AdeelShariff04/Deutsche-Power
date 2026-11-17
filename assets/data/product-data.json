@@ -26,16 +26,46 @@
           "It includes valuable operational features such as cold start capability, off-mode battery charging, and comprehensive safety protections against overloads, surges, and deep discharges."
         ],
         [
-          "Line-Interactive Topology: Features a built-in transformer that dynamically interacts with the grid to smooth out basic power anomalies.",
-          "Automatic Voltage Regulation (AVR): Utilizes electronic Buck & Boost stabilization to handle intense grid voltage shifts without draining the battery.",
-          "Wide Capacity Range: Offers single-phase systems ranging from 650VA up to 3000VA to scale with different light IT loads.",
-          "Broad Input Voltage Window: Accommodates volatile grid swings, accepting inputs from 140–300VAC (lower models) to 162–290VAC (higher models).",
-          "Front-Panel LCD Screen: Displays crucial real-time metrics including input/output voltages, frequency tracking, battery capacity, and active faults.",
-          "Swift Transfer Time: Switches seamlessly from utility grid to battery backup within a rapid 2 to 6 milliseconds during a power failure.",
-          "Off-Mode Charging Capability: Replenishes the internal VRLA batteries even when the chassis power button is turned completely off.",
-          "Cold Start Capability: Programmed to turn on and supply emergency power directly from its batteries when utility grid power is completely absent.",
-          "Secure Remote Communication: Built with standard USB and RS-232 communication interfaces for network-based log inspection and parameter tracking.",
-          "Comprehensive Safety Protections: Internal safety circuits safeguard connected loads against unexpected power surges, overloads, overcharging, and deep discharges."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Line-Interactive Topology"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Automatic Voltage Regulation"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Wide Capacity Range"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Broad Input Voltage Window"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Front-Panel LCD Screen"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Swift Transfer Time"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Off-Mode Charging Capability"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Secure Remote Communication"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Cold Start Capability"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Comprehensive Safety Protections"
+          }
         ],
         [
           "assets/images/products/UPS/XL-Plus/TechSpec.png"
@@ -72,17 +102,50 @@
           "This balance of digital monitoring, voltage stabilization, and reliable emergency battery backup makes the lineup an ideal, cost-effective solution for safeguarding desktop computers, internet routers, POS terminals, and peripheral network equipment."
         ],
         [
-          "Sine wave : The Pure Sine wave Output makes it a special Product for mission crititcal Equipments",
-          "Line-Interactive Topology: Features a built-in transformer that dynamically interacts with the grid to smooth out basic power anomalies.",
-          "Automatic Voltage Regulation (AVR): Utilizes electronic Buck & Boost stabilization to handle intense grid voltage shifts without draining the battery.",
-          "Wide Capacity Range: Offers single-phase systems ranging from 650VA up to 3000VA to scale with different light IT loads.",
-          "Broad Input Voltage Window: Accommodates volatile grid swings, accepting inputs from 140–300VAC (lower models) to 162–290VAC (higher models).",
-          "Front-Panel LCD Screen: Displays crucial real-time metrics including input/output voltages, frequency tracking, battery capacity, and active faults.",
-          "Swift Transfer Time: Switches seamlessly from utility grid to battery backup within a rapid 2 to 6 milliseconds during a power failure.",
-          "Off-Mode Charging Capability: Replenishes the internal VRLA batteries even when the chassis power button is turned completely off.",
-          "Cold Start Capability: Programmed to turn on and supply emergency power directly from its batteries when utility grid power is completely absent.",
-          "Secure Remote Communication: Built with standard USB and RS-232 communication interfaces for network-based log inspection and parameter tracking.",
-          "Comprehensive Safety Protections: Internal safety circuits safeguard connected loads against unexpected power surges, overloads, overcharging, and deep discharges."
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Pure Input Sine wave"
+          },
+          {
+            "icon": "assets/icons/11.svg",
+            "name": "Green Mode Topology"
+          },
+          {
+            "icon": "assets/icons/12.svg",
+            "name": "Broad Power Capacity"
+          },
+          {
+            "icon": "assets/icons/13.svg",
+            "name": "Flexible Battery Autonomy"
+          },
+          {
+            "icon": "assets/icons/14.svg",
+            "name": "Adjustable Charging Current"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Front-Panel LCD Screen"
+          },
+          {
+            "icon": "assets/icons/15.svg",
+            "name": "Extended Runtime Capability"
+          },
+          {
+            "icon": "assets/icons/16.svg",
+            "name": "Electromagnetic Compliance"
+          },
+          {
+            "icon": "assets/icons/17.svg",
+            "name": "Generator Capability"
+          },
+          {
+            "icon": "assets/icons/18.svg",
+            "name": "Overload & Fault Protections"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Secure Remote Communication"
+          }
         ],
         [
           "assets/images/products/UPS/XL-Sine-Series/TechSpec.png"
@@ -119,16 +182,50 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for domestic loads, IT systems and network equipment.",
-          "Product family: Pure sine wave line-interactive ups with green mode.",
-          "1–8 kVA.",
-          "standard or extended battery autonomy.",
-          "adjustable charging.",
-          "LCD monitoring.",
-          "Green Mode.",
-          "LINE INTERACTIVE PURE SINE WAVE UPS.",
-          "Extended Runtime Capability.",
-          "Video Frequency Disturbance: GB9254 1998/EN55022 CLASS A."
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Pure Input Sine wave"
+          },
+          {
+            "icon": "assets/icons/11.svg",
+            "name": "Green Mode Topology"
+          },
+          {
+            "icon": "assets/icons/12.svg",
+            "name": "Broad Power Capacity"
+          },
+          {
+            "icon": "assets/icons/13.svg",
+            "name": "Flexible Battery Autonomy"
+          },
+          {
+            "icon": "assets/icons/14.svg",
+            "name": "Adjustable Charging Current"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Front-Panel LCD Screen"
+          },
+          {
+            "icon": "assets/icons/15.svg",
+            "name": "Extended Runtime Capability"
+          },
+          {
+            "icon": "assets/icons/16.svg",
+            "name": "Electromagnetic Compliance"
+          },
+          {
+            "icon": "assets/icons/17.svg",
+            "name": "Generator Capability"
+          },
+          {
+            "icon": "assets/icons/18.svg",
+            "name": "Overload & Fault Protections"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Secure Remote Communication"
+          }
         ],
         [
           "assets/images/products/UPS/Elentra-Series-Green-Mode/TechSpec.png"
@@ -165,16 +262,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for mission-critical single-phase IT systems.",
-          "Product family: Online double-conversion ups.",
-          "1–20 kVA (1/1).",
-          "DSP control.",
-          "generator compatibility.",
-          "optional connectivity cards.",
-          "Active Input Power Factor Correction (Pfc).",
-          "Compatible With Generators.",
-          "Wide Input Voltage & Frequency Range.",
-          "EN50091-2: Limits for UPS which have a rated output current exceeding 25A (25~100A)."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "1–20 kVA (1/1)"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "DSP control"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "generator compatibility"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "optional connectivity cards"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Compatible With Generators"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Wide Input Voltage & Frequency Range"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "EN50091-2"
+          }
         ],
         [],
         [],
@@ -207,16 +334,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for mission-critical three-phase-input, single-phase-output IT systems.",
-          "Product family: Online double-conversion ups.",
-          "10–20 kVA (3/1).",
-          "continuous power conditioning.",
-          "advanced monitoring and protection.",
-          "Active Input Power Factor Correction (Pfc).",
-          "Compatible With Generators.",
-          "Wide Input Voltage & Frequency Range.",
-          "EN50091-2: Limits for UPS which have a rated output current exceeding 25A (25~100A).",
-          "EN61000-2-2 (Immunity to low frequency signal)."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "10–20 kVA (3/1)"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "continuous power conditioning"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "advanced monitoring and protection"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Compatible With Generators"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Wide Input Voltage & Frequency Range"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "EN50091-2"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -243,16 +400,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for three-phase data centers and critical installations.",
-          "Product family: Online double-conversion ups.",
-          "10–500 kVA (3/3).",
-          "three-phase power protection.",
-          "system monitoring and scalability.",
-          "Compatible With Generators.",
-          "Wide Input Voltage & Frequency Range.",
-          "Wide input frequency range, ensure all types of fuel generators connected work stable.",
-          "Active Input Power Factor Correction (Pfc).",
-          "Network Management Design."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "10–500 kVA (3/3)"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "three-phase power protection"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "system monitoring and scalability"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Compatible With Generators"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Wide Input Voltage & Frequency Range"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Network Management Design"
+          }
         ],
         [],
         [],
@@ -279,15 +466,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for IT equipment and critical single-phase loads.",
-          "Product family: Online ups designed for 48 v battery operation.",
-          "6 kVA.",
-          "48 V architecture.",
-          "online double-conversion operation.",
-          "Compatible with generator.",
-          "Configurable charging current via LCD setting.",
-          "Common 48Vdc battery pack for the parallel system.",
-          "Full Bridge inverter design to support half-wave load and unbalanced load."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "6 kVA"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "48 V architecture"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "online double-conversion operation"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Compatible with generator"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -325,14 +543,46 @@
           "Environmental & Overload Resilience: High overload endurance with optional dust-proof filtration kits for harsh industrial conditions."
         ],
         [
-          "Capacity Range: 08 kVA to 200 kVA (scalable up to 500 kVA 3-phase in / 3-phase out).",
-          "True Online Double-Conversion Topology with 0ms transfer time for uninterrupted continuity.",
-          "High Output Power Factor: 0.9 standard (unity PF 1.0 available on request).",
-          "Active Power Factor Correction (PFC): Input PF > 0.99 with low harmonic distortion (THDi ≤ 3%).",
-          "Ultra-Wide Input Range: 208–478 VAC voltage and 40–70 Hz frequency for seamless generator compatibility.",
-          "Dual LCD & LED Display: Real-time telemetry monitoring for load status, voltage, frequency, and fault history.",
-          "Intelligent Battery Management: Cold DC start capability and flexible battery string configurations (16/18/20 or 32–40 blocks).",
-          "Emergency Power Off (EPO) and full support for unbalanced loads."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Capacity Range"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Feature 2"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "High Output Power Factor"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Active Power Factor Correction (PFC)"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Ultra-Wide Input Range"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Dual LCD & LED Display"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Intelligent Battery Management"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -365,12 +615,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for industrial single-phase loads and mission-critical operations.",
-          "Product family: Industrial online double-conversion ups.",
-          "1–20 kVA (1/1).",
-          "industrial-grade power conditioning and control.",
-          "Unique Battery Protection Function & Management.",
-          "Harmonic filter, SNMP adopter, LBS cables, Battery temperature sensor, Bypass current-sharing inductor."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "1–20 kVA (1/1)"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -403,15 +687,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for industrial systems with three-phase input and single-phase output.",
-          "Product family: Industrial online double-conversion ups.",
-          "10–40 kVA (3/1).",
-          "continuous online power protection.",
-          "Compatible With Generators.",
-          "Wide Input Voltage & Frequency Range.",
-          "Wide input frequency range, ensure all types of fuel generators connected work stable.",
-          "Active Input Power Factor Correction (Pfc).",
-          "Network Management Design."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "10–40 kVA (3/1)"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "continuous online power protection"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Compatible With Generators"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Wide Input Voltage & Frequency Range"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Network Management Design"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -438,13 +753,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for large industrial facilities and critical three-phase loads.",
-          "Product family: Industrial low-frequency online double-conversion ups.",
-          "10 kVA–3.2 MVA (3/3).",
-          "robust industrial power protection.",
-          "Ultimate Power Protection for Mission Critical & Industrial Grade UPS.",
-          "Unique Battery Protection Function & Management.",
-          "Harmonic filter, SNMP adopter, LBS cables, Battery temperature sensor, Bypass current-sharing inductor."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "10 kVA–3.2 MVA (3/3)"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "robust industrial power protection"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -477,11 +825,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for expandable critical-power rooms and enterprise installations.",
-          "Product family: Modular online ups platform.",
-          "10–520 kVA (3/3).",
-          "modular architecture for capacity expansion and serviceability.",
-          "EN61000-2-2 (Immunity to low Frequency signal)."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "10–520 kVA (3/3)"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -514,13 +897,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for outdoor installations that need protected power equipment.",
-          "Product family: Enclosure-based sine wave ups.",
-          "1–10 kVA (1/1).",
-          "line-interactive UPS in an outdoor-oriented enclosure.",
-          "LINE INTERACTIVE PURE SINE WAVE UPS.",
-          "Special outdoor powder coating, high temperature and corrosion resistance.",
-          "Heater and Temperature Controller."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "1–10 kVA (1/1)"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "LINE INTERACTIVE PURE SINE WAVE UPS"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Heater and Temperature Controller"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -553,16 +969,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for racks, towers and installations exposed to challenging conditions.",
-          "Product family: Pure sine wave ups for demanding environments.",
-          "1–8 kVA.",
-          "rackmount or tower installation.",
-          "environmental robustness.",
-          "UPS Built FOR Extreme Environment with Dual AC & DC OUTPUT Especially for Surveillance and Network Monitoring.",
-          "Advanced Battery Management.",
-          "Network Grade Power Conditioning.",
-          "Automated voltage regulation(AVR), noise filtering and surge protection.",
-          "Extended Runtime Capability."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "1–8 kVA"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "rackmount or tower installation"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "environmental robustness"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Advanced Battery Management"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Network Grade Power Conditioning"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Extended Runtime Capability"
+          }
         ],
         [],
         [],
@@ -595,16 +1041,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for homes, small offices and everyday electrical loads.",
-          "Product family: Pure sine wave home inverter.",
-          "600–3000 VA.",
-          "intelligent battery management.",
-          "selectable displays.",
-          "AC voltage regulation.",
-          "Extra strong load capability supports air conditions, motor and other capacitive or inductive loads.",
-          "Intelligent RS232 communication port, friendly digital remote monitoring (for B type).",
-          "Highly accuracy and fully automatic voltage regulator endurance load safely running.",
-          "Friendly LED display (standard) or digital LCD display (optional)."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "600–3000 VA"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "intelligent battery management"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "selectable displays"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "AC voltage regulation"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -631,15 +1107,46 @@
           "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
         ],
         [
-          "Application: designed for small home and office electrical equipment.",
-          "Product family: Pure sine wave compact inverter.",
-          "350 W and 500 W.",
-          "selectable input range and charging current.",
-          "SOLO SINE SERIES INVERTER.",
-          "Selectable input voltage range for home appliances or personal computers.",
-          "Selectable battery types of gel. lead-acid and open lead acid (optional).",
-          "Selectable charging current: 10A or 20A.",
-          "Auto restart while AC is recovering."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "350 W and 500 W"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "SOLO SINE SERIES INVERTER"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Selectable charging current"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Auto restart while AC is recovering"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -672,11 +1179,46 @@
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
-          "Application: designed for UPS backup, lighting, alarms and general-purpose equipment.",
-          "Product family: Sealed lead-acid battery series.",
-          "FM-NP family.",
-          "general-purpose and deep-cycle service.",
-          "catalog-stated 15-year design life."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "FM-NP family"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "catalog-stated 15-year design life"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -703,13 +1245,46 @@
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
-          "Application: designed for solar, wind, telecom and large UPS backup.",
-          "Product family: Deep-cycle sealed lead-acid battery series.",
-          "FM-NPL family.",
-          "gel electrolyte.",
-          "catalog-stated 15-year design life.",
-          "Deep Cycle Solar Design 15 years life.",
-          "Great for deep-cycle applications."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "FM-NPL family"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "gel electrolyte"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "catalog-stated 15-year design life"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Great for deep-cycle applications"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -736,13 +1311,46 @@
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
-          "Application: designed for renewable-energy storage and stationary backup systems.",
-          "Product family: Deep-cycle gel battery series.",
-          "FM-NPG family.",
-          "gel electrolyte.",
-          "catalog-stated 15-year design life.",
-          "Deep Cycle Gel Design 15 years design life.",
-          "Great for deep-cycle applications."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "FM-NPG family"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "gel electrolyte"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "catalog-stated 15-year design life"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Great for deep-cycle applications"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -769,12 +1377,46 @@
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
-          "Application: designed for front-terminal or space-conscious backup arrangements.",
-          "Product family: Deep-cycle gel battery series.",
-          "FT-NPG family.",
-          "gel battery design and long-life standby applications.",
-          "Deep Cycle Gel Design 15 years design life.",
-          "Great for deep-cycle applications."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "FT-NPG family"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Great for deep-cycle applications"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -801,16 +1443,46 @@
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
-          "Application: designed for solar, telecommunications and long-duration standby storage.",
-          "Product family: 2 v tubular gel stationary battery series.",
-          "OPzV tubular gel design.",
-          "up to 20-year design life.",
-          "deep-cycle capability.",
-          "Better temperature resistance performance.",
-          "Excellent deep cycle performance.",
-          "Superior low current discharge performance.",
-          "Stronger constant power discharge capability.",
-          "Better charge acceptability."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "OPzV tubular gel design"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "up to 20-year design life"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "deep-cycle capability"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Excellent deep cycle performance"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Better charge acceptability"
+          }
         ],
         [],
         [],
@@ -837,11 +1509,46 @@
           "Battery handling and installation: Verify the applicable safety, charging, transport and recycling requirements for the exact chemistry and model; source-stated life and cycle figures are design claims, not a performance guarantee."
         ],
         [
-          "Application: designed for industrial and solar stationary battery banks.",
-          "Product family: 2 v opzs gel battery series.",
-          "2 V cells.",
-          "catalog-stated deep-cycle gel design and 15-year design life.",
-          "Gel Battery OPzS Series, 2V Gel Battery Deep cycle Gel design 15 years design life."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "2 V cells"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -869,10 +1576,46 @@
           "Installation guidance: Confirm input/output ratings, terminal connections (Anderson/Connector), overcurrent protection, and local safety approvals before installation."
         ],
         [
-          "Application: designed for commercial energy storage, backup power stations, and industrial infrastructure systems.",
-          "Product family: High Voltage Battery System 96V Series featuring CLFP96-50-H and CLFP96-100-H common models.",
-          "Technical specs: 5000 cycles at 25°C (1C/1C, 80% DOD), RS232/RS485/CAN communication, and built-in LCD display.",
-          "Operating parameters: Adjustable voltage range of 96-106V, IP54 water protection rating, and standard operating temperature range from -20°C to 55°C for discharge."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Technical specs"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Operating parameters"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -906,10 +1649,46 @@
           "Installation guidance: Confirm input/output ratings, cabling requirements, grounding standards, and local approvals prior to deployment."
         ],
         [
-          "Application: designed for high-capacity renewable energy systems, enterprise power backup, and utility-scale installations.",
-          "Product family: High Voltage Battery System featuring models such as CLFP192-50-H, CLFP192-100-H, CLFP240-20-H, CLFP240-50-H, and CLFP240-100-H.",
-          "Technical specs: Standard cycle life of 5000 times @ 25°C, max discharge current up to 400A, and robust RS232/RS485/CAN communication support.",
-          "Safety and design: IP54 water-proof enclosure, 10-year design life, 5-year warranty, and intelligent LCD status monitoring."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Technical specs"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Safety and design"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -943,10 +1722,46 @@
           "Installation guidance: Confirm input/output ratings, overcurrent protection, terminal specs, and local regulatory requirements before installation."
         ],
         [
-          "Application: designed for large-scale solar farms, industrial plant backup, and multi-cluster utility environments.",
-          "Product family: High Voltage Battery System featuring models CLFP380-20-H, CLFP380-50-H, CLFP380-100-H, CLFP480-20-H, CLFP480-50-H, and CLFP480-100-H.",
-          "Technical specs: Advanced multi-cluster architecture supporting up to 3 clusters, max discharge currents up to 400A, and RS485/CAN communication interface.",
-          "Durability: IP54 water protection, operating temperature range of -20°C to 55°C, and integrated LCD display for system telemetry."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Technical specs"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Durability"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -980,10 +1795,46 @@
           "Battery handling: Verify applicable safety, charging, and recycling guidelines for the exact model before installation."
         ],
         [
-          "Application: designed for photovoltaic systems, street lighting, telecommunications, portable mobile products, and general DC backup.",
-          "Product family: 12V Low Voltage LiFePO4 Battery Series with built-in battery charge/discharge protection.",
-          "Technical specs: 100% DOD with 2500-3000 cycles, intelligent battery balance management via BMS, and lighter weight construction.",
-          "Performance: High discharge current capabilities up to 150A depending on model capacity."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Technical specs"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Performance"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1017,10 +1868,46 @@
           "Battery handling: Confirm terminal configurations, charging voltage limits, and mounting requirements prior to setup."
         ],
         [
-          "Application: designed for solar energy storage, electric mobility, marine use, and backup power supplies.",
-          "Product family: 24V Low Voltage LiFePO4 Battery Series utilizing lead-acid plastic shell packages or modular block designs.",
-          "Technical specs: 100% DOD, 2500-3000 operating cycles, intelligent BMS balance management, and integrated charge/discharge safeguards.",
-          "Efficiency: Direct drop-in replacement for traditional lead-acid batteries with enhanced power density and faster recharge capability."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Technical specs"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Efficiency"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1054,10 +1941,46 @@
           "Installation guidance: Standard rack-mount enclosure design for easy installation; verify busbar and communication cabling before operation."
         ],
         [
-          "Application: designed for EV/PHEV, telecommunication base stations, UPS systems, and renewable energy storage stations.",
-          "Product family: 48V Lithium Iron Phosphate Batteries Module featuring smart battery balancing and FCC capacity automatic learning.",
-          "Technical specs: High-precision voltage detection (25mV/cell), high-precision current detection, 5-channel temperature monitoring, and EEPROM history storage.",
-          "Interface and communication: RS232 interface for SOC/SOH telemetry, RS485 cascade communication between battery modules, and SMBUS V2.0 compatibility."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Technical specs"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Interface and communication"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1092,10 +2015,46 @@
           "Installation guidance: Standard 19-inch rack installation format; verify parallel linking parameters and communication protocols prior to startup."
         ],
         [
-          "Application: designed for solar energy storage, residential power-walls, telecom backup, and scalable parallel configurations.",
-          "Product family: 51.2V Rack-Mount LiFePO4 Battery Module supporting max 16 units in parallel.",
-          "Technical specs: Exceptional cycle life of ≥5000 to ≥6000 times at 80% SOC (1C/1C, 25°C), low internal impedance (≤20mΩ), and IP21 protection rating.",
-          "Operating parameters: Charge temperature range from 0°C to 45°C, discharge temperature from -10°C to 55°C, with RS485, RS232, and CAN communication interfaces."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Technical specs"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Operating parameters"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1128,9 +2087,46 @@
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
-          "Application: designed for compact edge IT installations.",
-          "Product family: Single- and multi-rack micro data center solution.",
-          "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1157,9 +2153,46 @@
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
-          "Application: designed for organizations planning scalable IT infrastructure.",
-          "Product family: Modular data center solution.",
-          "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1186,9 +2219,46 @@
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
-          "Application: designed for deployable IT and infrastructure installations.",
-          "Product family: Containerized data center solution.",
-          "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1215,11 +2285,46 @@
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
-          "Application: designed for rack-based IT and communications equipment.",
-          "Product family: It rack power distribution unit.",
-          "Designed for distribution of electrical power to IT rack equipment.",
-          "Catalog lists 250 V AC and 50/60 Hz for its PDU description.",
-          "Confirm socket count, connections and rated current before specifying a model."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1246,9 +2351,46 @@
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
-          "Application: designed for servers, switches and structured IT equipment.",
-          "Product family: Server rack enclosure.",
-          "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1275,10 +2417,46 @@
           "Project verification: Obtain model drawings, rated electrical and environmental limits, applicable codes and current declarations of conformity before specification or purchase."
         ],
         [
-          "Application: designed for solar and wind energy storage systems, residential backup power, electric mobility, and telecommunication infrastructure.",
-          "Product family: Single Phase Low Voltage Hybrid Inverter with outdoor-ready IP66 protection.",
-          "Features soft start protection, three-stage charge/discharge conversion, and dual MPPT channels for maximum energy yield.",
-          "Equipped with a 4.3-inch HD touch screen display, customizable time-of-use scheduling, and built-in output bypass function."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1311,12 +2489,46 @@
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
-          "Application: designed for residential and commercial linear lighting.",
-          "Product family: T8 led tube light family.",
-          "2 ft and 4 ft T8 configurations.",
-          "thermal management.",
-          "optional motion sensing.",
-          "Advanced Cooling Technology."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "2 ft and 4 ft T8 configurations"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "thermal management"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "optional motion sensing"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Advanced Cooling Technology"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1343,12 +2555,46 @@
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
-          "Application: designed for homes, hospitality spaces, offices and corridors.",
-          "Product family: Led recessed downlight family.",
-          "3–18 W range.",
-          "anti-glare lighting and aluminum thermal management.",
-          "Wall-Wash | Anti-Glare | Gentle Light.",
-          "Advanced Cooling Technology."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "3–18 W range"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Advanced Cooling Technology"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1375,11 +2621,46 @@
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
-          "Application: designed for factories, workshops and commercial facilities.",
-          "Product family: Industrial t8 led tube lighting.",
-          "2 ft and 4 ft T8 formats.",
-          "optional motion detection and heat dissipation.",
-          "Advanced Cooling Technology."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "2 ft and 4 ft T8 formats"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Advanced Cooling Technology"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1406,11 +2687,46 @@
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
-          "Application: designed for hotels, offices and retail interiors.",
-          "Product family: Anti-fogging led light.",
-          "Anti-fogging design with soft, gentle light output.",
-          "Designed for integration into indoor ceiling lighting.",
-          "Catalog-stated rated service life of up to 50,000 hours; operating conditions affect service life."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1437,12 +2753,46 @@
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
-          "Application: designed for offices, shops and indoor general illumination.",
-          "Product family: Flat-panel led lighting solution.",
-          "Flat-panel format with high-power white LEDs.",
-          "Warm-white and cool-white color-temperature options described.",
-          "Diffused illumination for general overhead use.",
-          "Lightweight heat-sink design and a PC surface cover described."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1469,11 +2819,46 @@
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
-          "Application: designed for retail showcases, galleries and hospitality areas.",
-          "Product family: Adjustable led grille spotlight.",
-          "8 W, 16 W and 24 W configurations.",
-          "adjustable lighting direction.",
-          "Advanced Cooling Technology."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "8 W, 16 W and 24 W configurations"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "adjustable lighting direction"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Advanced Cooling Technology"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1500,12 +2885,46 @@
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
-          "Application: designed for streets, canopies, parking areas and external spaces.",
-          "Product family: Outdoor led lighting family.",
-          "outdoor LED fixtures.",
-          "source discusses thermal design and energy-saving operation.",
-          "Outdoor Lights, Street Light, Canopy Lights, Parking Lights, Etc.",
-          "Advanced Cooling Technology."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "outdoor LED fixtures"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Advanced Cooling Technology"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1532,11 +2951,46 @@
           "Lighting requirements: Verify the exact model’s electrical rating, installation method and any region-specific electrical or lighting compliance documentation. Life and energy-savings figures are catalog claims under specified operating conditions."
         ],
         [
-          "Application: designed for exterior and high-output area lighting.",
-          "Product family: Led flood light family.",
-          "10–100 W family.",
-          "LED-based broad-area illumination.",
-          "Advanced Cooling Technology."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "10–100 W family"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "LED-based broad-area illumination"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Advanced Cooling Technology"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1563,16 +3017,46 @@
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
-          "Application: designed for UPS rooms, telecom sites, data centers and environmental monitoring.",
-          "Product family: Temperature and humidity monitoring sensor.",
-          "RS-485 Modbus RTU.",
-          "environmental alerts.",
-          "optional sensor configuration.",
-          "Interior watchdog to guarantee the stability of the running for the temperature and humidity module.",
-          "Green LED flashes when communication data is sending.",
-          "Red LED flashes when error occurs in the testing data.",
-          "Ambient temperature testing range: -2 % ~ +85 %accuracy: +.5%.",
-          "Temperature sensor testing range: -5 % ~ +155 % accuracy: +5%."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "RS-485 Modbus RTU"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "environmental alerts"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "optional sensor configuration"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Ambient temperature testing range"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Temperature sensor testing range"
+          }
         ],
         [],
         [],
@@ -1599,15 +3083,46 @@
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
-          "Application: designed for managed UPS deployments and networked computer systems.",
-          "Product family: Ups monitoring and control software.",
-          "power-event notifications.",
-          "battery monitoring.",
-          "automated orderly shutdown.",
-          "Software to Monitor and Control RS232 Smart UPS like Online UPS.",
-          "Software to Monitor and Control Contact Closure DB9 UPS like Line Interactive UPS.",
-          "Device for Temperature, Humidity and Water level Sensor.",
-          "Devices for Web-Based 8 Channel Sensor Collector."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "power-event notifications"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "battery monitoring"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "automated orderly shutdown"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1640,16 +3155,46 @@
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
-          "Application: designed for network racks, data centers and remote UPS locations.",
-          "Product family: Snmp ups network management adapter.",
-          "10/100 Mbps Ethernet.",
-          "web management.",
-          "alerts and history logging.",
-          "Simple and prompt for installation.",
-          "Interior long-life system clock, supporting user manual collation and auto collation to keep up with the local time.",
-          "Interior optimized SE communication protocol to assure a full using of bandwidth and timeliness of data collection.",
-          "Round-the-clock real-time monitor and manage.",
-          "Improve the stability and reliability of the UPS power and the safety of the computer network."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "10/100 Mbps Ethernet"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "web management"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "alerts and history logging"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Simple and prompt for installation"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1682,14 +3227,46 @@
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
-          "Application: designed for building management and industrial monitoring integrations.",
-          "Product family: Modbus communication interface.",
-          "Modbus connectivity for equipment monitoring and system integration.",
-          "Upper engine communicates with MODBUS protocol convert card through RS422 port.",
-          "RS422 port uses RS422 power level.",
-          "Provides a power connection port (9VDC).",
-          "Down transfers supports RS232 power level (protocol of the device).",
-          "Up transfer supports RS422 Full duplex and RS485 Half duplex modes (Modbus protocol/ optional for users)."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "RS422 port uses RS422 power level"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1716,13 +3293,46 @@
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
-          "Application: designed for dense rack and cabinet installations.",
-          "Product family: Power distribution unit for equipment cabinets.",
-          "distribution and power management in rack environments.",
-          "PDU 'Power Distribution Unit'.",
-          "Working Frequency: 50/60 Hz.",
-          "Leakage Current: <0.5mA 250V/50Hz.",
-          "Video Frequency Disturbance: GB9254 1998/ EN55022 CLASS A."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "PDU 'Power Distribution Unit'"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Working Frequency"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Leakage Current"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Video Frequency Disturbance"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1749,14 +3359,46 @@
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
-          "Application: designed for equipment requiring an alternative power source.",
-          "Product family: Automatic transfer switch.",
-          "two independent power inlets and automatic source transfer.",
-          "Powered by two separately independent power sources.",
-          "Dual Power Supply for Redundancy.",
-          "Provide Seamless Power switch for IT Equipment.",
-          "High reliable 19\" rack design (1U).",
-          "Built in USB and RS232 communication Ports."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Dual Power Supply for Redundancy"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "High reliable 19\" rack design (1U)"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
@@ -1783,9 +3425,46 @@
           "System integration: Check the hardware or software revision, supported communication protocols, equipment compatibility and relevant installation or cybersecurity requirements for the exact deployment."
         ],
         [
-          "Application: designed for outdoor housing of compatible UPS equipment.",
-          "Product family: Outdoor ups cabinet.",
-          "Individual model specifications, dimensions and certified performance figures were not included in the supplied product descriptions."
+          {
+            "icon": "assets/icons/1.svg",
+            "name": "Application"
+          },
+          {
+            "icon": "assets/icons/2.svg",
+            "name": "Product family"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Feature 3"
+          },
+          {
+            "icon": "assets/icons/4.svg",
+            "name": "Feature 4"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Feature 5"
+          },
+          {
+            "icon": "assets/icons/6.svg",
+            "name": "Feature 6"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Feature 7"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Feature 8"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Feature 9"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Feature 10"
+          }
         ],
         [],
         [],
