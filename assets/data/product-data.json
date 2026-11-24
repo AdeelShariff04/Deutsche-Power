@@ -176,10 +176,10 @@
       ],
       "tabs": [
         [
-          "Elentra Series Green Mode is a Deutsche Power pure sine wave line-interactive UPS with Green Mode developed for domestic loads, IT systems and network equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "1–8 kVA; standard or extended battery autonomy; adjustable charging; LCD monitoring; Green Mode. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "Applicable standards: EN55022, GB9254.",
-          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+          "The Deutsche Power Elentra Series consists of pure sine wave line-interactive uninterruptible power supplies (UPS) engineered by DP Electronics primarily for domestic loads, IT systems, and network equipment.",
+          "Built with energy-efficient Green Mode architecture, these systems deliver clean, stable power protection for everyday home and office electronics while minimizing standby energy consumption.",
+          "The series spans a 1–8 kVA capacity range and offers flexible standard or extended battery autonomy options alongside adjustable charging currents.",
+          "It includes valuable operational features such as real-time LCD monitoring, intelligent battery management, and compliance with EN55022 and GB9254 standards for reliable, interference-free performance."
         ],
         [
           {
@@ -256,51 +256,55 @@
       ],
       "tabs": [
         [
-          "Elektra Series 1/1 is a Deutsche Power online double-conversion UPS developed for mission-critical single-phase IT systems. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "1–20 kVA (1/1); DSP control; generator compatibility; optional connectivity cards. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "Applicable standards: CE, EN50091-2, EN61000-2-2, EN61000-4-3, EN61000-4-4, EN61000-4-5, EN62040, EN62040-1-1, GB4943-2001, IEC62040-1.",
-          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+          "The Deutsche Power Elektra Series 1/1 consists of online double-conversion uninterruptible power supplies (UPS) engineered by DP Electronics primarily for mission-critical single-phase IT systems and server rooms.",
+          "Built with true double-conversion topology and precise Digital Signal Processor (DSP) control, these systems deliver zero transfer time and seamless power continuity against severe grid disturbances.",
+          "The series spans a 1–20 kVA capacity range and provides broad generator compatibility to ensure uninterrupted operation during extended utility outages.",
+          "It includes valuable operational features such as optional network connectivity cards, comprehensive international safety compliance (IEC62040-1, EN62040, CE), and advanced electronic protections against surges and overloads."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
+            "icon": "assets/icons/19.svg",
+            "name": "Double Conversion Topology"
           },
           {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
+            "icon": "assets/icons/20.svg",
+            "name": "Digital Signal Processor Control"
+          },
+          {
+            "icon": "assets/icons/22.svg",
+            "name": "Active Power Factor Corrections"
           },
           {
             "icon": "assets/icons/3.svg",
-            "name": "1–20 kVA (1/1)"
+            "name": "Wide Capacity Range"
           },
           {
-            "icon": "assets/icons/4.svg",
-            "name": "DSP control"
+            "icon": "assets/icons/12.svg",
+            "name": "Broad Input Voltage Window"
           },
           {
-            "icon": "assets/icons/5.svg",
-            "name": "generator compatibility"
-          },
-          {
-            "icon": "assets/icons/6.svg",
-            "name": "optional connectivity cards"
+            "icon": "assets/icons/11.svg",
+            "name": "High Frequency Eco Mode"
           },
           {
             "icon": "assets/icons/7.svg",
-            "name": "Feature 7"
+            "name": "Intelligent Battery Management"
           },
           {
-            "icon": "assets/icons/8.svg",
-            "name": "Compatible With Generators"
+            "icon": "assets/icons/23.svg",
+            "name": "Rich Communication Slots"
+          },
+          {
+            "icon": "assets/icons/21.svg",
+            "name": "Safety & EMC Compliance"
           },
           {
             "icon": "assets/icons/9.svg",
-            "name": "Wide Input Voltage & Frequency Range"
+            "name": "Cold Start Functionality"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "EN50091-2"
+            "name": "Comprehensive Protection Suite"
           }
         ],
         [],
@@ -328,51 +332,59 @@
       ],
       "tabs": [
         [
-          "Elektra Series 3/1 is a Deutsche Power online double-conversion UPS developed for mission-critical three-phase-input, single-phase-output IT systems. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "10–20 kVA (3/1); continuous power conditioning; advanced monitoring and protection. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "Applicable standards: CE, EN50081-1, EN50082-1, EN50091-2, EN55022, EN61000-2-2, EN61000-4-3, EN61000-4-4, EN61000-4-5, EN62040, EN62040-1-1, FCC.",
-          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+          "The Deutsche Power Elektra Series 3/1 consists of online double-conversion uninterruptible power supplies (UPS) engineered by DP Electronics primarily for mission-critical three-phase-input, single-phase-output IT environments.",
+          "Built to balance three-phase utility feeds while isolating sensitive single-phase loads, these systems provide continuous power conditioning for high-density enterprise data setups.",
+          "The series spans a 10–20 kVA capacity range and handles demanding power fluctuations with zero transfer time and pure sine wave output.",
+          "It includes valuable operational features such as advanced system monitoring, robust surge and overload protections, and compliance with key international EMC and safety standards including CE, FCC, and EN62040."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
+            "icon": "assets/icons/24.svg",
+            "name": "3 Phase Input & 1 Phase Output"
           },
           {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
+            "icon": "assets/icons/19.svg",
+            "name": "Double Conversion Topology"
+          },
+          {
+            "icon": "assets/icons/20.svg",
+            "name": "Digital Signal Processor Control"
+          },
+          {
+            "icon": "assets/icons/22.svg",
+            "name": "Active Power Factor Corrections"
           },
           {
             "icon": "assets/icons/3.svg",
-            "name": "10–20 kVA (3/1)"
+            "name": "Wide Capacity Range"
           },
           {
-            "icon": "assets/icons/4.svg",
-            "name": "continuous power conditioning"
+            "icon": "assets/icons/17.svg",
+            "name": "Generator Capability"
+          },
+          {
+            "icon": "assets/icons/27.svg",
+            "name": "Front Access Management"
           },
           {
             "icon": "assets/icons/5.svg",
-            "name": "advanced monitoring and protection"
+            "name": "Smart Display Panel"
           },
           {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
+            "icon": "assets/icons/25.svg",
+            "name": "Parallel Redundancy"
+          },
+          {
+            "icon": "assets/icons/26.svg",
+            "name": "International Certifications"
           },
           {
             "icon": "assets/icons/7.svg",
-            "name": "Compatible With Generators"
-          },
-          {
-            "icon": "assets/icons/8.svg",
-            "name": "Wide Input Voltage & Frequency Range"
-          },
-          {
-            "icon": "assets/icons/9.svg",
-            "name": "EN50091-2"
+            "name": "Intelligent Battery Management"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "name": "Multi Layered Protection"
           }
         ],
         [],
@@ -394,51 +406,55 @@
       ],
       "tabs": [
         [
-          "Elektra Series 3/3 is a Deutsche Power online double-conversion UPS developed for three-phase data centers and critical installations. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "10–500 kVA (3/3); three-phase power protection; system monitoring and scalability. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+          "The Deutsche Power Elektra Series 3/3 consists of online double-conversion uninterruptible power supplies (UPS) engineered by DP Electronics primarily for three-phase data centers and critical large-scale installations.",
+          "Built for high-availability infrastructure, these systems deliver continuous power conditioning and scalable capacity to safeguard enterprise facilities against utility outages and voltage spikes.",
+          "The series spans a wide 10–500 kVA capacity range and supports multi-unit parallel redundancy for fault-tolerant power distribution.",
+          "It includes valuable operational features such as comprehensive system monitoring, intelligent battery management, and robust protections against heavy electrical faults and deep discharges."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
-          },
-          {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
+            "icon": "assets/icons/24.svg",
+            "name": "3 Phase Input & 1 Phase Output"
           },
           {
             "icon": "assets/icons/3.svg",
-            "name": "10–500 kVA (3/3)"
+            "name": "Massive Sacalability Range"
           },
           {
-            "icon": "assets/icons/4.svg",
-            "name": "three-phase power protection"
+            "icon": "assets/icons/25.svg",
+            "name": "Parallel Redundancy"
           },
           {
-            "icon": "assets/icons/5.svg",
-            "name": "system monitoring and scalability"
+            "icon": "assets/icons/20.svg",
+            "name": "High Precision SMD"
           },
           {
-            "icon": "assets/icons/6.svg",
-            "name": "Compatible With Generators"
+            "icon": "assets/icons/21.svg",
+            "name": "Lightning Protection"
           },
           {
-            "icon": "assets/icons/7.svg",
-            "name": "Wide Input Voltage & Frequency Range"
+            "icon": "assets/icons/28.svg",
+            "name": "Zero Transfering Time"
+          },
+          {
+            "icon": "assets/icons/22.svg",
+            "name": "Active Power Factor Corrections"
+          },
+          {
+            "icon": "assets/icons/17.svg",
+            "name": "Generator Capability"
+          },
+          {
+            "icon": "assets/icons/27.svg",
+            "name": "Front Access Management"
           },
           {
             "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
+            "name": "Secure Remote Management"
           },
           {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
-          },
-          {
-            "icon": "assets/icons/10.svg",
-            "name": "Network Management Design"
+            "icon": "assets/icons/29.svg",
+            "name": "Advance Thermal Resilience"
           }
         ],
         [],
@@ -460,51 +476,55 @@
       ],
       "tabs": [
         [
-          "Elektra One is a Deutsche Power online UPS designed for 48 V battery operation developed for IT equipment and critical single-phase loads. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "6 kVA; 48 V architecture; online double-conversion operation. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+          "The Deutsche Power Elektra One consists of online double-conversion uninterruptible power supplies (UPS) engineered by DP Electronics primarily for telecommunications infrastructure, IT equipment, and critical single-phase loads.",
+          "Built with a specialized 48 V DC architecture, the system optimizes direct integration with standard 48 V battery banks while maintaining a compact tower footprint.",
+          "Rated at 6 kVA, the unit delivers continuous, zero-transfer-time power conditioning tailored for space-constrained, high-density IT setups.",
+          "It includes valuable operational features such as pure sine wave output, intelligent battery charging management, and comprehensive electronic safeguards against overloads, surges, and deep battery discharges."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
+            "icon": "assets/icons/30.svg",
+            "name": "48V Battery Architecture"
           },
           {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
+            "icon": "assets/icons/31.svg",
+            "name": "Full Bridge Inverter"
           },
           {
-            "icon": "assets/icons/3.svg",
-            "name": "6 kVA"
+            "icon": "assets/icons/13.svg",
+            "name": "Battery Sharing Capability"
           },
           {
-            "icon": "assets/icons/4.svg",
-            "name": "48 V architecture"
+            "icon": "assets/icons/14.svg",
+            "name": "Configurable Charging Current"
+          },
+          {
+            "icon": "assets/icons/19.svg",
+            "name": "Double Conversion Topology"
+          },
+          {
+            "icon": "assets/icons/17.svg",
+            "name": "Generator Synchronization"
           },
           {
             "icon": "assets/icons/5.svg",
-            "name": "online double-conversion operation"
+            "name": "Intuitive LCD Display"
           },
           {
-            "icon": "assets/icons/6.svg",
-            "name": "Compatible with generator"
+            "icon": "assets/icons/32.svg",
+            "name": "Smart Slot Expansion"
           },
           {
-            "icon": "assets/icons/7.svg",
-            "name": "Feature 7"
-          },
-          {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
-          },
-          {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "icon": "assets/icons/22.svg",
+            "name": "Active Power Factor Corrections"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "name": "Safety Circuit Protections"
+          },
+          {
+            "icon": "assets/icons/33.svg",
+            "name": "Compact Tower Design"
           }
         ],
         [],
@@ -532,56 +552,55 @@
       ],
       "tabs": [
         [
-          "Elektra Series 3/3 is an IT-grade high-frequency online double-conversion UPS engineered for mission-critical three-phase power protection across data centers, medical labs, and enterprise IT infrastructure.",
-          "Built with a compact footprint and full DSP digital control, the system delivers zero transfer time (0ms), an active input power factor above 0.99, and up to 94% operational efficiency (exceeding 98% in ECO mode) to significantly lower total operating costs.",
-          "Its robust topology guarantees stable, surge-free power even under heavy electrical disturbances, supporting 100% unbalanced load capacity and broad generator synchronization across fluctuating utility grids.",
-          "Target Applications: Hyperscale and enterprise data centers, telecom VoIP nodes, medical diagnostic labs, railway control systems, and automated industrial plants.",
-          "Standard Communication Ports: USB, RS232, RS485, Parallel redundancy bus, and programmable dry contacts.",
-          "Optional Network Interfaces: Intelligent smart slot for SNMP network cards, AS400 relay cards, and environmental monitoring probes.",
-          "Safety Standards: Fully compliant with IEC/EN 62040-1 and IEC/EN 60950-1.",
-          "EMC & Immunity Compliance: Certified to IEC/EN 62040-2, IEC 61000-4-2, IEC 61000-4-3, IEC 61000-4-4, IEC 61000-4-5, IEC 61000-4-6, and IEC 61000-4-8.",
-          "Environmental & Overload Resilience: High overload endurance with optional dust-proof filtration kits for harsh industrial conditions."
+          "The Deutsche Power Elektra Series 3/3 (200) consists of IT-grade, high-frequency online double-conversion uninterruptible power supplies (UPS) engineered by DP Electronics primarily for data centers, medical diagnostic labs, and enterprise IT infrastructure.",
+          "Built with a compact footprint and full DSP digital control, these systems deliver zero transfer time (0 ms), an active input power factor above 0.99, and up to 94% operational efficiency (exceeding 98% in ECO mode).",
+          "The topology supports 100% unbalanced load capacity and broad generator synchronization to maintain surge-free power across fluctuating utility grids.",
+          "It includes valuable operational capabilities suited for demanding environments, including hyperscale data centers, telecom VoIP nodes, railway control systems, and automated industrial plants."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Capacity Range"
-          },
-          {
-            "icon": "assets/icons/2.svg",
-            "name": "Feature 2"
+            "icon": "assets/icons/24.svg",
+            "name": "3 Phase Input & 1 Phase Output"
           },
           {
             "icon": "assets/icons/3.svg",
-            "name": "High Output Power Factor"
+            "name": "Massive Scalable Capacity"
           },
           {
-            "icon": "assets/icons/4.svg",
-            "name": "Active Power Factor Correction (PFC)"
+            "icon": "assets/icons/34.svg",
+            "name": "Low Harmonic Distortion"
           },
           {
-            "icon": "assets/icons/5.svg",
-            "name": "Ultra-Wide Input Range"
+            "icon": "assets/icons/28.svg",
+            "name": "Zero Transfering Time"
           },
           {
-            "icon": "assets/icons/6.svg",
+            "icon": "assets/icons/35.svg",
+            "name": "High Operating Efficiency"
+          },
+          {
+            "icon": "assets/icons/36.svg",
+            "name": "Unbalanced Load Tolerance"
+          },
+          {
+            "icon": "assets/icons/37.svg",
             "name": "Dual LCD & LED Display"
           },
           {
-            "icon": "assets/icons/7.svg",
-            "name": "Intelligent Battery Management"
+            "icon": "assets/icons/13.svg",
+            "name": "Flexible Battery Autonomy"
           },
           {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
+            "icon": "assets/icons/38.svg",
+            "name": "Emergency Power Off"
           },
           {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "icon": "assets/icons/39.svg",
+            "name": "Industrial Hardening"
           },
           {
-            "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "icon": "assets/icons/23.svg",
+            "name": "Multi-Port Communication"
           }
         ],
         [],
