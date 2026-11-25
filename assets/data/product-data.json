@@ -81,7 +81,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/XL-Plus.mp4"
+      "video": "assets/product-videos/Simulated-Sine-Wave.mp4"
     },
     {
       "id": "xl-sine-series",
@@ -161,7 +161,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/XL-Sine.mp4"
+      "video": "assets/product-videos/Pure-Sine-Sine.mp4"
     },
     {
       "id": "elentra-series-lifepo4",
@@ -241,7 +241,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/Elantra-Series-Green.mp4"
+      "video": "assets/product-videos/Pure-Sine-Wave.mp4"
     },
     {
       "id": "elektra-series-1-1-it",
@@ -317,7 +317,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/Elektra-Series-1.1-IT.mp4"
+      "video": "assets/product-videos/IT-Grade-UPS.mp4"
     },
     {
       "id": "elektra-series-3-1-it",
@@ -391,7 +391,7 @@
         [],
         []
       ],
-      "video": "assets/product-videos/Elektra-Series-3.1-IT.mp4"
+      "video": "assets/product-videos/IT-Grade-UPS.mp4"
     },
     {
       "id": "elektra-series-3-3-it-500kva",
@@ -461,7 +461,7 @@
         [],
         []
       ],
-      "video": "assets/product-videos/Elektra-Series-3.3-500.mp4"
+      "video": "assets/product-videos/IT-Grade-UPS.mp4"
     },
     {
       "id": "elektra-one",
@@ -537,7 +537,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/XL-Sine.mp4"
+      "video": "assets/product-videos/IT-Grade-UPS.mp4"
     },
     {
       "id": "elektra-series-3-3-it-200kva",
@@ -613,7 +613,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/XL-Sine.mp4"
+      "video": "assets/product-videos/IT-Grade-UPS.mp4"
     },
     {
       "id": "elektra-series-1-1-industrial",

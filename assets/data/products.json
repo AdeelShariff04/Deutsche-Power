@@ -203,24 +203,6 @@
       "name": "LiFePO4",
       "products": [
         {
-          "id": "lifepo4-hv-battery-96v",
-          "name": "LiFePO4 HV 96V",
-          "image": "assets/images/service/service-3.png",
-          "subcategory": "High Voltage"
-        },
-        {
-          "id": "lifepo4-hv-battery-192v-240v",
-          "name": "LiFePO4 HV 192V",
-          "image": "assets/images/service/service-3.png",
-          "subcategory": "High Voltage"
-        },
-        {
-          "id": "lifepo4-hv-battery-384v-480v",
-          "name": "LiFePO4 HV 384V",
-          "image": "assets/images/service/service-3.png",
-          "subcategory": "High Voltage"
-        },
-        {
           "id": "lifepo4-lv-battery-12v",
           "name": "LiFePO4 LV 12V",
           "image": "assets/images/service/service-3.png",
@@ -243,6 +225,24 @@
           "name": "LiFePO4 LV 51.2V",
           "image": "assets/images/service/service-3.png",
           "subcategory": "Low Voltage"
+        },
+        {
+          "id": "lifepo4-hv-battery-96v",
+          "name": "LiFePO4 HV 96V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "High Voltage"
+        },
+        {
+          "id": "lifepo4-hv-battery-192v-240v",
+          "name": "LiFePO4 HV 192V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "High Voltage"
+        },
+        {
+          "id": "lifepo4-hv-battery-384v-480v",
+          "name": "LiFePO4 HV 384V",
+          "image": "assets/images/service/service-3.png",
+          "subcategory": "High Voltage"
         }
       ]
     },
