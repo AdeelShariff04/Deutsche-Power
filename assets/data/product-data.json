@@ -1588,52 +1588,51 @@
       ],
       "tabs": [
         [
-          "HV Battery System 96V is a Deutsche Power high voltage lithium iron phosphate battery solution designed for commercial and industrial energy storage applications.",
-          "The system features a nominal voltage of 96VDC with capacity options including 50Ah and 100Ah, delivering energy capacities ranging from 4.8KWh to 9.6KWh per cluster setup.",
-          "Review the current model datasheet for dimensions, ratings, supported cluster options and operating limits before selecting a configuration.",
-          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
-          "Installation guidance: Confirm input/output ratings, terminal connections (Anderson/Connector), overcurrent protection, and local safety approvals before installation."
+          "The Deutsche Power LiFePO4 HV Battery System 96V consists of high-voltage lithium iron phosphate battery solutions engineered by DP Electronics primarily for commercial and industrial energy storage applications.",
+          "Built with a 96VDC nominal voltage architecture, these systems deliver reliable high-voltage energy storage across multi-cluster configurations.",
+          "The series offers 50Ah and 100Ah capacity options, providing energy capacities from 4.8KWh up to 9.6KWh per cluster setup.",
+          "It includes valuable operational features such as UL, CE, ROHS, and UN38.3 compliance, Anderson/connector terminal compatibility, and essential overcurrent and local safety protections."
         ],
         [
           {
             "icon": "assets/icons/1.svg",
-            "name": "Application"
+            "name": "High Voltage Architecture"
+          },
+          {
+            "icon": "assets/icons/15.svg",
+            "name": "Extended Cycle Lifespan"
           },
           {
             "icon": "assets/icons/2.svg",
-            "name": "Product family"
-          },
-          {
-            "icon": "assets/icons/3.svg",
-            "name": "Technical specs"
-          },
-          {
-            "icon": "assets/icons/4.svg",
-            "name": "Operating parameters"
+            "name": "Adjustable Voltage Range"
           },
           {
             "icon": "assets/icons/5.svg",
-            "name": "Feature 5"
+            "name": "Front Panel Display"
           },
           {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
+            "icon": "assets/icons/23.svg",
+            "name": "Multi-Port Communication"
           },
           {
-            "icon": "assets/icons/7.svg",
-            "name": "Feature 7"
+            "icon": "assets/icons/48.svg",
+            "name": "Weatherproof Enclosure Rating"
           },
           {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
+            "icon": "assets/icons/24.svg",
+            "name": "Rapid Power Terminals"
           },
           {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "icon": "assets/icons/29.svg",
+            "name": "Broad Temperature Tolerance"
+          },
+          {
+            "icon": "assets/icons/18.svg",
+            "name": "Long Service Durability"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "name": "Comprehensive Safety Protections"
           }
         ],
         [],
@@ -1661,52 +1660,51 @@
       ],
       "tabs": [
         [
-          "HV Battery System 192V~240V is a Deutsche Power high voltage modular battery system engineered for advanced commercial energy storage and multi-cluster rack deployments.",
-          "The system supports nominal voltages of 192VDC and 240VDC with capacities spanning 20Ah, 50Ah, and 100Ah configurations, achieving energy storage levels up to 24KWh.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
-          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3.",
-          "Installation guidance: Confirm input/output ratings, cabling requirements, grounding standards, and local approvals prior to deployment."
+          "The Deutsche Power LiFePO4 HV Battery System 192V~240V consists of modular high-voltage lithium iron phosphate battery systems engineered by DP Electronics primarily for advanced commercial energy storage and multi-cluster rack deployments.",
+          "Built with 192VDC and 240VDC nominal voltage support, these systems streamline scalable high-voltage rack integration across demanding installations.",
+          "The series spans 20Ah, 50Ah, and 100Ah capacity configurations, achieving energy storage levels up to 24KWh.",
+          "It includes valuable operational features such as UL, CE, ROHS, and UN38.3 compliance, structured cabling and grounding support, and robust safety protections."
         ],
         [
           {
             "icon": "assets/icons/1.svg",
-            "name": "Application"
+            "name": "High Voltage Architecture"
+          },
+          {
+            "icon": "assets/icons/15.svg",
+            "name": "Extended Cycle Lifespan"
           },
           {
             "icon": "assets/icons/2.svg",
-            "name": "Product family"
-          },
-          {
-            "icon": "assets/icons/3.svg",
-            "name": "Technical specs"
-          },
-          {
-            "icon": "assets/icons/4.svg",
-            "name": "Safety and design"
+            "name": "Adjustable Voltage Range"
           },
           {
             "icon": "assets/icons/5.svg",
-            "name": "Feature 5"
+            "name": "Front Panel Display"
           },
           {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
+            "icon": "assets/icons/23.svg",
+            "name": "Multi-Port Communication"
           },
           {
-            "icon": "assets/icons/7.svg",
-            "name": "Feature 7"
+            "icon": "assets/icons/48.svg",
+            "name": "Weatherproof Enclosure Rating"
           },
           {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
+            "icon": "assets/icons/24.svg",
+            "name": "Rapid Power Terminals"
           },
           {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "icon": "assets/icons/29.svg",
+            "name": "Broad Temperature Tolerance"
+          },
+          {
+            "icon": "assets/icons/18.svg",
+            "name": "Long Service Durability"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "name": "Comprehensive Safety Protections"
           }
         ],
         [],
@@ -1734,52 +1732,51 @@
       ],
       "tabs": [
         [
-          "HV Battery System 384V~480V is a Deutsche Power high voltage industrial battery cluster designed for heavy-duty commercial energy storage and microgrid architecture.",
-          "The system provides nominal voltage configurations of 384VDC and 480VDC with capacity choices of 20Ah, 50Ah, and 100Ah, yielding energy capacities from 7.6KWh up to 48KWh.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
-          "Certifications referenced in the supplied documentation: UL, CE, ROHS, and UN38.3 compliance.",
-          "Installation guidance: Confirm input/output ratings, overcurrent protection, terminal specs, and local regulatory requirements before installation."
+          "The Deutsche Power LiFePO4 HV Battery System 384V~480V consists of high-voltage industrial lithium iron phosphate battery clusters engineered by DP Electronics primarily for heavy-duty commercial energy storage and microgrid architecture.",
+          "Built with 384VDC and 480VDC nominal voltage configurations, these clusters deliver high-capacity energy storage for demanding industrial environments.",
+          "The series offers 20Ah, 50Ah, and 100Ah capacity choices, yielding energy capacities from 7.6KWh up to 48KWh.",
+          "It includes valuable operational features such as UL, CE, ROHS, and UN38.3 compliance, dedicated terminal specifications, and overcurrent and regulatory safety safeguards."
         ],
         [
           {
             "icon": "assets/icons/1.svg",
-            "name": "Application"
+            "name": "High Voltage Architecture"
+          },
+          {
+            "icon": "assets/icons/15.svg",
+            "name": "Extended Cycle Lifespan"
           },
           {
             "icon": "assets/icons/2.svg",
-            "name": "Product family"
-          },
-          {
-            "icon": "assets/icons/3.svg",
-            "name": "Technical specs"
-          },
-          {
-            "icon": "assets/icons/4.svg",
-            "name": "Durability"
+            "name": "Adjustable Voltage Range"
           },
           {
             "icon": "assets/icons/5.svg",
-            "name": "Feature 5"
+            "name": "Front Panel Display"
           },
           {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
+            "icon": "assets/icons/23.svg",
+            "name": "Multi-Port Communication"
           },
           {
-            "icon": "assets/icons/7.svg",
-            "name": "Feature 7"
+            "icon": "assets/icons/48.svg",
+            "name": "Weatherproof Enclosure Rating"
           },
           {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
+            "icon": "assets/icons/24.svg",
+            "name": "Rapid Power Terminals"
           },
           {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "icon": "assets/icons/29.svg",
+            "name": "Broad Temperature Tolerance"
+          },
+          {
+            "icon": "assets/icons/18.svg",
+            "name": "Long Service Durability"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "name": "Comprehensive Safety Protections"
           }
         ],
         [],
@@ -1807,52 +1804,51 @@
       ],
       "tabs": [
         [
-          "Low Voltage Battery System 12V is a Deutsche Power lithium iron phosphate battery family housed in a lead-acid plastic shell package, developed for versatile domestic and portable applications.",
-          "ratings from 20Ah up to 250Ah (models CPLI-1220AH through CPLI-12250AH) providing lightweight, high energy density alternatives to traditional lead-acid batteries.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
-          "Certifications and safety: Built-in hardware and software over-voltage, low-voltage, and short-circuit protections.",
-          "Battery handling: Verify applicable safety, charging, and recycling guidelines for the exact model before installation."
+          "The Deutsche Power LiFePO4 LV Battery System 12V consists of low-voltage lithium iron phosphate batteries engineered by DP Electronics primarily for versatile domestic and portable applications.",
+          "Built in a lead-acid plastic shell package, these batteries offer a lightweight, high-energy-density drop-in alternative to traditional lead-acid batteries.",
+          "The series spans 20Ah up to 250Ah across models CPLI-1220AH through CPLI-12250AH.",
+          "It includes valuable operational features such as built-in hardware and software protections against over-voltage, low-voltage, and short circuits."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
+            "icon": "assets/icons/40.svg",
+            "name": "Standard Shell Design"
           },
           {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
+            "icon": "assets/icons/39.svg",
+            "name": "Lightweight Compact Build"
           },
           {
-            "icon": "assets/icons/3.svg",
-            "name": "Technical specs"
+            "icon": "assets/icons/35.svg",
+            "name": "High Energy Density"
           },
           {
-            "icon": "assets/icons/4.svg",
-            "name": "Performance"
+            "icon": "assets/icons/41.svg",
+            "name": "Full Depth Discharge"
           },
           {
-            "icon": "assets/icons/5.svg",
-            "name": "Feature 5"
-          },
-          {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
+            "icon": "assets/icons/15.svg",
+            "name": "Extended Cycle Lifespan"
           },
           {
             "icon": "assets/icons/7.svg",
-            "name": "Feature 7"
+            "name": "Intelligent Battery Management"
           },
           {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
+            "icon": "assets/icons/43.svg",
+            "name": "Automated Cell Balancing"
           },
           {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "icon": "assets/icons/44.svg",
+            "name": "Solar Street Lighting"
+          },
+          {
+            "icon": "assets/icons/42.svg",
+            "name": "Telecom Backup Power"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "name": "Comprehensive Safety Protections"
           }
         ],
         [],
@@ -1880,52 +1876,51 @@
       ],
       "tabs": [
         [
-          "Low Voltage Battery System 24V is a Deutsche Power lithium iron phosphate energy storage solution built for residential solar setups, mobile equipment, and telecommunication backup.",
-          "capacity ratings from 10Ah to 125Ah (models CPLI-2410AH through CPLI-24125AH) featuring high energy density and reduced physical weight.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
-          "Safety and compliance: Includes internal protection mechanisms against over-charging, over-discharging, and short circuits.",
-          "Battery handling: Confirm terminal configurations, charging voltage limits, and mounting requirements prior to setup."
+          "The Deutsche Power LiFePO4 LV Battery System 24V consists of low-voltage lithium iron phosphate energy storage solutions engineered by DP Electronics primarily for residential solar setups, mobile equipment, and telecommunication backup.",
+          "Built for high energy density and reduced physical weight, these batteries simplify handling and mounting across space-conscious installations.",
+          "The series spans 10Ah to 125Ah across models CPLI-2410AH through CPLI-24125AH.",
+          "It includes valuable operational features such as internal protection mechanisms against over-charging, over-discharging, and short circuits."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
+            "icon": "assets/icons/40.svg",
+            "name": "Standard Shell Design"
           },
           {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
+            "icon": "assets/icons/39.svg",
+            "name": "Lightweight Compact Build"
           },
           {
-            "icon": "assets/icons/3.svg",
-            "name": "Technical specs"
+            "icon": "assets/icons/35.svg",
+            "name": "High Energy Density"
           },
           {
-            "icon": "assets/icons/4.svg",
-            "name": "Efficiency"
+            "icon": "assets/icons/41.svg",
+            "name": "Full Depth Discharge"
           },
           {
-            "icon": "assets/icons/5.svg",
-            "name": "Feature 5"
-          },
-          {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
+            "icon": "assets/icons/15.svg",
+            "name": "Extended Cycle Lifespan"
           },
           {
             "icon": "assets/icons/7.svg",
-            "name": "Feature 7"
+            "name": "Intelligent Battery Management"
           },
           {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
+            "icon": "assets/icons/43.svg",
+            "name": "Automated Cell Balancing"
           },
           {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "icon": "assets/icons/44.svg",
+            "name": "Solar Energy Storage"
+          },
+          {
+            "icon": "assets/icons/42.svg",
+            "name": "Telecom Backup Power"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "name": "Comprehensive Safety Protections"
           }
         ],
         [],
@@ -1953,52 +1948,51 @@
       ],
       "tabs": [
         [
-          "Low Voltage Battery System 48V is a Deutsche Power modular lithium iron phosphate battery solution engineered for telecommunication networks, data centers, and rack-mount energy storage.",
-          "cabinet-format ratings from 5Ah up to 150Ah (models CPLI-4805AH through CPLI-48150AH) configured in standard 2U, 3U, 4U, and 5U cabinet sizes.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
-          "Certifications and safety: Comprehensive hardware and software protection against high/low temperatures, over-current, and voltage anomalies.",
-          "Installation guidance: Standard rack-mount enclosure design for easy installation; verify busbar and communication cabling before operation."
+          "The Deutsche Power LiFePO4 LV Battery System 48V consists of modular low-voltage lithium iron phosphate batteries engineered by DP Electronics primarily for telecommunication networks, data centers, and rack-mount energy storage.",
+          "Built in a standard rack-mount enclosure design, these modules support straightforward installation and organized busbar and communication cabling.",
+          "The series spans 5Ah up to 150Ah across models CPLI-4805AH through CPLI-48150AH in standard 2U, 3U, 4U, and 5U cabinet sizes.",
+          "It includes valuable operational features such as comprehensive hardware and software protections against high/low temperatures, over-current, and voltage anomalies."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
-          },
-          {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
-          },
-          {
-            "icon": "assets/icons/3.svg",
-            "name": "Technical specs"
-          },
-          {
-            "icon": "assets/icons/4.svg",
-            "name": "Interface and communication"
-          },
-          {
-            "icon": "assets/icons/5.svg",
-            "name": "Feature 5"
-          },
-          {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
+            "icon": "assets/icons/33.svg",
+            "name": "Standard Rack Mount"
           },
           {
             "icon": "assets/icons/7.svg",
-            "name": "Feature 7"
+            "name": "Intelligent Battery Management"
           },
           {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
+            "icon": "assets/icons/43.svg",
+            "name": "Automated Cell Balancing"
           },
           {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "icon": "assets/icons/5.svg",
+            "name": "Precision Monitoring"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "name": "Comprehensive Safety Protections"
+          },
+          {
+            "icon": "assets/icons/46.svg",
+            "name": "Audible Visual Alarms"
+          },
+          {
+            "icon": "assets/icons/23.svg",
+            "name": "Multi-Port CommunicationW"
+          },
+          {
+            "icon": "assets/icons/47.svg",
+            "name": "System Bus Compatibility"
+          },
+          {
+            "icon": "assets/icons/45.svg",
+            "name": "Operational History Logging"
+          },
+          {
+            "icon": "assets/icons/44.svg",
+            "name": "Solar Telecom Backup"
           }
         ],
         [],
@@ -2026,53 +2020,51 @@
       ],
       "tabs": [
         [
-          "Low Voltage Battery System 51.2V Rack is a Deutsche Power advanced 19-inch rack-mountable lithium iron phosphate module designed for residential and commercial solar storage.",
-          "capacities including 50Ah (2.56KWh), 100Ah (5.12KWh), and 200Ah (10.24KWh) models under the CLFP-51.2 series.",
-          "Review the current model datasheet for dimensions, ratings, supported options and operating limits before selecting a configuration.",
-          "2V rack battery system and its intended applications.",
-          "Certifications referenced in the supplied source: IEC62619, UN38.3, CE, and ROHS compliance.",
-          "Installation guidance: Standard 19-inch rack installation format; verify parallel linking parameters and communication protocols prior to startup."
+          "The Deutsche Power LiFePO4 LV Battery System 51.2V Rack consists of 19-inch rack-mountable lithium iron phosphate modules engineered by DP Electronics primarily for residential and commercial solar storage.",
+          "Built with a standard 19-inch rack installation format, these modules support parallel linking and structured communication protocols for scalable solar energy banks.",
+          "The series offers 50Ah (2.56KWh), 100Ah (5.12KWh), and 200Ah (10.24KWh) models under the CLFP-51.2 series.",
+          "It includes valuable operational features such as IEC62619, UN38.3, CE, and ROHS compliance alongside reliable rack-mount integration."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
+            "icon": "assets/icons/33.svg",
+            "name": "Standard Rack Mount"
           },
           {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
+            "icon": "assets/icons/25.svg",
+            "name": "Parallel Capacity Expansion"
           },
           {
-            "icon": "assets/icons/3.svg",
-            "name": "Technical specs"
-          },
-          {
-            "icon": "assets/icons/4.svg",
-            "name": "Operating parameters"
-          },
-          {
-            "icon": "assets/icons/5.svg",
-            "name": "Feature 5"
-          },
-          {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
+            "icon": "assets/icons/15.svg",
+            "name": "Extended Cycle Lifespan"
           },
           {
             "icon": "assets/icons/7.svg",
-            "name": "Feature 7"
-          },
-          {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
-          },
-          {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "name": "Intelligent Battery Management"
           },
           {
             "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
+            "name": "Comprehensive Safety Protections"
+          },
+          {
+            "icon": "assets/icons/23.svg",
+            "name": "Multi-Port Communication"
+          },
+          {
+            "icon": "assets/icons/46.svg",
+            "name": "Audible Visual Alarms"
+          },
+          {
+            "icon": "assets/icons/45.svg",
+            "name": "Operational History Logging"
+          },
+          {
+            "icon": "assets/icons/26.svg",
+            "name": "Certified Safety Compliance"
+          },
+          {
+            "icon": "assets/icons/44.svg",
+            "name": "Solar Telecom Backup"
           }
         ],
         [],
