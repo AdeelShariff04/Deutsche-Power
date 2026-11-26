@@ -77,15 +77,15 @@
           "subcategory": "Modular Redundant UPS"
         },
         {
-          "id": "enclosure-based-1-1",
-          "name": "Enclosure Based 1/1",
-          "image": "assets/images/products/UPS/Enclosure-UPS/Cover.png",
-          "subcategory": "Enclosure Based UPS"
-        },
-        {
           "id": "elentra-sc-series",
           "name": "Elentra SC Series",
           "image": "assets/images/products/UPS/Elentra-SC-Series/Cover.png",
+          "subcategory": "Enclosure Based UPS"
+        },
+        {
+          "id": "elektra-series-outdoor",
+          "name": "Elektra Series Outdoor",
+          "image": "assets/images/products/UPS/Enclosure-UPS/Cover.png",
           "subcategory": "Enclosure Based UPS"
         }
       ]

@@ -898,135 +898,63 @@
       "video": "assets/product-videos/XL-Sine.mp4"
     },
     {
-      "id": "enclosure-based-1-1",
-      "name": "Enclosure Based 1/1",
-      "images": [
-        "assets/images/products/UPS/Enclosure-UPS/1.png",
-        "assets/images/products/UPS/Enclosure-UPS/2.png",
-        "assets/images/products/UPS/Enclosure-UPS/3.png",
-        "assets/images/products/UPS/Enclosure-UPS/4.png",
-        "assets/images/products/UPS/Enclosure-UPS/5.png",
-        "assets/images/products/UPS/Enclosure-UPS/6.png"
-      ],
-      "tabs": [
-        [
-          "Enclosure Based 1/1 is a Deutsche Power enclosure-based sine wave UPS developed for outdoor installations that need protected power equipment. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "1–10 kVA (1/1); line-interactive UPS in an outdoor-oriented enclosure. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
-        ],
-        [
-          {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
-          },
-          {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
-          },
-          {
-            "icon": "assets/icons/3.svg",
-            "name": "1–10 kVA (1/1)"
-          },
-          {
-            "icon": "assets/icons/4.svg",
-            "name": "Feature 4"
-          },
-          {
-            "icon": "assets/icons/5.svg",
-            "name": "LINE INTERACTIVE PURE SINE WAVE UPS"
-          },
-          {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
-          },
-          {
-            "icon": "assets/icons/7.svg",
-            "name": "Heater and Temperature Controller"
-          },
-          {
-            "icon": "assets/icons/8.svg",
-            "name": "Feature 8"
-          },
-          {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
-          },
-          {
-            "icon": "assets/icons/10.svg",
-            "name": "Feature 10"
-          }
-        ],
-        [],
-        [],
-        [
-          {
-            "file": "assets/product-documents/ES-Outdoor.pdf",
-            "type": "Guide",
-            "name": "TECHNICAL SPECIFICATIONS"
-          }
-        ]
-      ],
-      "video": "assets/product-videos/XL-Sine.mp4"
-    },
-    {
       "id": "elentra-sc-series",
       "name": "Elentra SC Series",
       "images": [
-        "assets/images/products/UPS/Elentra-SC-Series/1.png",
-        "assets/images/products/UPS/Elentra-SC-Series/2.png",
-        "assets/images/products/UPS/Elentra-SC-Series/3.png",
-        "assets/images/products/UPS/Elentra-SC-Series/4.png",
-        "assets/images/products/UPS/Elentra-SC-Series/5.png",
-        "assets/images/products/UPS/Elentra-SC-Series/6.png"
+        "assets/images/products/ups/Elentra-SC-Series/1.png",
+        "assets/images/products/ups/Elentra-SC-Series/2.png",
+        "assets/images/products/ups/Elentra-SC-Series/3.png",
+        "assets/images/products/ups/Elentra-SC-Series/4.png",
+        "assets/images/products/ups/Elentra-SC-Series/5.png",
+        "assets/images/products/ups/Elentra-SC-Series/6.png"
       ],
       "tabs": [
         [
-          "Elentra SC Series is a Deutsche Power pure sine wave UPS for demanding environments developed for racks, towers and installations exposed to challenging conditions. Its design and application focus reflect the product family described in the original Deutsche Power catalog.",
-          "1–8 kVA; rackmount or tower installation; environmental robustness. These capabilities support selection of a suitable solution for the intended power, energy, lighting or infrastructure application.",
-          "No independently verifiable model-specific certification or regulatory standard is stated in the supplied source section. Do not represent a certification as confirmed without supporting documentation.",
-          "Installation guidance: Confirm input/output ratings, earthing, overcurrent protection, grid or generator compatibility and any required local approvals for the ordered model before installation."
+          "The Deutsche Power Elentra SC Series consists of online double-conversion pure sinewave uninterruptible power supplies (UPS) engineered by DP Electronics primarily for mission-critical surveillance, networking, traffic, and security infrastructure.",
+          "Built in flexible rackmount and tower form factors with easy front access, these systems feature built-in AVR with surge arrestor and dual AC and 12V/48V DC outputs to protect demanding indoor and outdoor installations.",
+          "The series spans 1 kVA to 8 kVA (1/1) models with a wide 110–300VAC input voltage window, 0ms transfer time in battery mode, up to 94–96% efficiency in ECO mode, and daisy-chainable external battery packs or LiFePO4 battery compatibility.",
+          "It includes valuable operational features such as SNMP and Netmate centralized network monitoring, dry contact alarms, front-panel LCD status display, and comprehensive protections against overloads, surges, short circuits, and overheating."
         ],
         [
           {
-            "icon": "assets/icons/1.svg",
-            "name": "Application"
-          },
-          {
-            "icon": "assets/icons/2.svg",
-            "name": "Product family"
-          },
-          {
-            "icon": "assets/icons/3.svg",
-            "name": "1–8 kVA"
+            "icon": "assets/icons/19.svg",
+            "name": "Online Double Conversion"
           },
           {
             "icon": "assets/icons/4.svg",
-            "name": "rackmount or tower installation"
+            "name": "Pure Sinewave Output"
           },
           {
-            "icon": "assets/icons/5.svg",
-            "name": "environmental robustness"
+            "icon": "assets/icons/49.svg",
+            "name": "Dual AC DC Outputs"
           },
           {
-            "icon": "assets/icons/6.svg",
-            "name": "Feature 6"
+            "icon": "assets/icons/50.svg",
+            "name": "Built-In AVR Stabilization"
+          },
+          {
+            "icon": "assets/icons/52.svg",
+            "name": "Surge Arrestor Protection"
           },
           {
             "icon": "assets/icons/7.svg",
-            "name": "Advanced Battery Management"
+            "name": "Extended Battery Runtime"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Front Panel Display"
           },
           {
             "icon": "assets/icons/8.svg",
-            "name": "Network Grade Power Conditioning"
+            "name": "Remote Network Monitoring"
           },
           {
-            "icon": "assets/icons/9.svg",
-            "name": "Feature 9"
+            "icon": "assets/icons/46.svg",
+            "name": "Dry Contact Alarms"
           },
           {
-            "icon": "assets/icons/10.svg",
-            "name": "Extended Runtime Capability"
+            "icon": "assets/icons/30.svg",
+            "name": "LiFePO4 Battery Support"
           }
         ],
         [],
@@ -1039,7 +967,79 @@
           }
         ]
       ],
-      "video": "assets/product-videos/XL-Sine.mp4"
+      "video": "assets/product-videos/Enclosure-Based-UPS.mp4"
+    },
+    {
+      "id": "elektra-series-outdoor",
+      "name": "Elektra Series Outdoor UPS",
+      "images": [
+        "assets/images/products/UPS/Enclosure-UPS/1.png",
+        "assets/images/products/UPS/Enclosure-UPS/2.png",
+        "assets/images/products/UPS/Enclosure-UPS/3.png",
+        "assets/images/products/UPS/Enclosure-UPS/4.png",
+        "assets/images/products/UPS/Enclosure-UPS/5.png",
+        "assets/images/products/UPS/Enclosure-UPS/6.png"
+      ],
+      "tabs": [
+        [
+          "The Deutsche Power Elektra Series Outdoor UPS (Enclosure Based 1/1) consists of integrated outdoor online uninterruptible power supplies (UPS) engineered by DP Electronics primarily for telecommunications base stations, traffic lights, local area networks, and CCTV surveillance.",
+          "Built with a weatherproof outdoor cabinet featuring IP55/65 protection, corrosion-resistant galvanized steel, sun and thermal insulation, and SPWM microprocessor control, these systems operate reliably across harsh climates from -40°C to +70°C.",
+          "The series spans 1 kVA to 10 kVA (1/1) models with 0ms transfer time, wide input voltage and generator-compatible frequency ranges, and support for both lead-acid and LiFePO4 batteries.",
+          "It includes valuable operational features such as lightning protection, optional air-conditioning or heat-exchanger and heater temperature control, anti-theft security, and remote monitoring via RS232, SNMP, and dry contacts."
+        ],
+        [
+          {
+            "icon": "assets/icons/48.svg",
+            "name": "Weatherproof Cabinet"
+          },
+          {
+            "icon": "assets/icons/28.svg",
+            "name": "Zero Transferring Time"
+          },
+          {
+            "icon": "assets/icons/12.svg",
+            "name": "Wide Voltage Window"
+          },
+          {
+            "icon": "assets/icons/35.svg",
+            "name": "Lightning Surge Protection"
+          },
+          {
+            "icon": "assets/icons/51.svg",
+            "name": "Climate Control System"
+          },
+          {
+            "icon": "assets/icons/52.svg",
+            "name": "Anti-Theft Physical Security"
+          },
+          {
+            "icon": "assets/icons/54.svg",
+            "name": "Lead-Acid LiFePO4 Support"
+          },
+          {
+            "icon": "assets/icons/5.svg",
+            "name": "Front Panel Display"
+          },
+          {
+            "icon": "assets/icons/8.svg",
+            "name": "Remote Network Monitoring"
+          },
+          {
+            "icon": "assets/icons/17.svg",
+            "name": "Generator Compatibility"
+          }
+        ],
+        [],
+        [],
+        [
+          {
+            "file": "assets/product-documents/ES-Outdoor.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
+        ]
+      ],
+      "video": "assets/product-videos/Enclosure-Based-UPS.mp4"
     },
     {
       "id": "home-inverter-series",
@@ -1579,7 +1579,7 @@
       "id": "lifepo4-hv-battery-96v",
       "name": "LiFePO4 HV Battery System 96V",
       "images": [
-       "assets/images/products/LifePo4/lifepo4-highvolt/1.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/1.png",
         "assets/images/products/LifePo4/lifepo4-highvolt/2.png",
         "assets/images/products/LifePo4/lifepo4-highvolt/3.png",
         "assets/images/products/LifePo4/lifepo4-highvolt/4.png",
@@ -1645,7 +1645,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/HV-Battery.mp4"
+      "video": "assets/product-videos/LifePO4-HV.mp4"
     },
     {
       "id": "lifepo4-hv-battery-192v-240v",
@@ -1717,7 +1717,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/HV-Battery.mp4"
+      "video": "assets/product-videos/LifePO4-HV.mp4"
     },
     {
       "id": "lifepo4-hv-battery-384v-480v",
@@ -1789,7 +1789,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/HV-Battery.mp4"
+      "video": "assets/product-videos/LifePO4-HV.mp4"
     },
     {
       "id": "lifepo4-lv-battery-12v",
@@ -1861,7 +1861,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/LV-Battery.mp4"
+      "video": "assets/product-videos/LifePO4-LV.mp4"
     },
     {
       "id": "lifepo4-lv-battery-24v",
@@ -1933,7 +1933,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/LV-Battery.mp4"
+      "video": "assets/product-videos/LifePO4-LV.mp4"
     },
     {
       "id": "lifepo4-lv-battery-48v",
@@ -2005,7 +2005,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/LV-Battery.mp4"
+      "video": "assets/product-videos/LifePO4-LV.mp4"
     },
     {
       "id": "lifepo4-lv-battery-51-2v-rack",
@@ -2077,7 +2077,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/LV-Battery.mp4"
+      "video": "assets/product-videos/LifePO4-LV.mp4"
     },
     {
       "id": "micro-data-center",
