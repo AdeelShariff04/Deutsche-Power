@@ -1579,12 +1579,12 @@
       "id": "lifepo4-hv-battery-96v",
       "name": "LiFePO4 HV Battery System 96V",
       "images": [
-        "assets/images/products/batteries/HV-96V-1.png",
-        "assets/images/products/batteries/HV-96V-2.png",
-        "assets/images/products/batteries/HV-96V-3.png",
-        "assets/images/products/batteries/HV-96V-4.png",
-        "assets/images/products/batteries/HV-96V-5.png",
-        "assets/images/products/batteries/HV-96V-6.png"
+       "assets/images/products/LifePo4/lifepo4-highvolt/1.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/2.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/3.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/4.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/5.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/6.png"
       ],
       "tabs": [
         [
@@ -1651,12 +1651,12 @@
       "id": "lifepo4-hv-battery-192v-240v",
       "name": "LiFePO4 HV Battery System 192V~240V",
       "images": [
-        "assets/images/products/batteries/HV-192V-1.png",
-        "assets/images/products/batteries/HV-192V-2.png",
-        "assets/images/products/batteries/HV-192V-3.png",
-        "assets/images/products/batteries/HV-192V-4.png",
-        "assets/images/products/batteries/HV-192V-5.png",
-        "assets/images/products/batteries/HV-192V-6.png"
+        "assets/images/products/LifePo4/lifepo4-highvolt/1.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/2.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/3.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/4.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/5.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/6.png"
       ],
       "tabs": [
         [
@@ -1723,12 +1723,12 @@
       "id": "lifepo4-hv-battery-384v-480v",
       "name": "LiFePO4 HV Battery System 384V~480V",
       "images": [
-        "assets/images/products/batteries/HV-384V-1.png",
-        "assets/images/products/batteries/HV-384V-2.png",
-        "assets/images/products/batteries/HV-384V-3.png",
-        "assets/images/products/batteries/HV-384V-4.png",
-        "assets/images/products/batteries/HV-384V-5.png",
-        "assets/images/products/batteries/HV-384V-6.png"
+        "assets/images/products/LifePo4/lifepo4-highvolt/1.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/2.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/3.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/4.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/5.png",
+        "assets/images/products/LifePo4/lifepo4-highvolt/6.png"
       ],
       "tabs": [
         [
@@ -1795,12 +1795,12 @@
       "id": "lifepo4-lv-battery-12v",
       "name": "LiFePO4 LV Battery System 12V",
       "images": [
-        "assets/images/products/batteries/LV-12V-1.png",
-        "assets/images/products/batteries/LV-12V-2.png",
-        "assets/images/products/batteries/LV-12V-3.png",
-        "assets/images/products/batteries/LV-12V-4.png",
-        "assets/images/products/batteries/LV-12V-5.png",
-        "assets/images/products/batteries/LV-12V-6.png"
+        "assets/images/products/LifePo4/lifepo4-12V/1.png",
+        "assets/images/products/LifePo4/lifepo4-12V/2.png",
+        "assets/images/products/LifePo4/lifepo4-12V/3.png",
+        "assets/images/products/LifePo4/lifepo4-12V/4.png",
+        "assets/images/products/LifePo4/lifepo4-12V/5.png",
+        "assets/images/products/LifePo4/lifepo4-12V/6.png"
       ],
       "tabs": [
         [
@@ -1867,12 +1867,12 @@
       "id": "lifepo4-lv-battery-24v",
       "name": "LiFePO4 LV Battery System 24V",
       "images": [
-        "assets/images/products/batteries/LV-24V-1.png",
-        "assets/images/products/batteries/LV-24V-2.png",
-        "assets/images/products/batteries/LV-24V-3.png",
-        "assets/images/products/batteries/LV-24V-4.png",
-        "assets/images/products/batteries/LV-24V-5.png",
-        "assets/images/products/batteries/LV-24V-6.png"
+        "assets/images/products/LifePo4/lifepo4-24V/1.png",
+        "assets/images/products/LifePo4/lifepo4-24V/2.png",
+        "assets/images/products/LifePo4/lifepo4-24V/3.png",
+        "assets/images/products/LifePo4/lifepo4-24V/4.png",
+        "assets/images/products/LifePo4/lifepo4-24V/5.png",
+        "assets/images/products/LifePo4/lifepo4-24V/6.png"
       ],
       "tabs": [
         [
@@ -1939,12 +1939,12 @@
       "id": "lifepo4-lv-battery-48v",
       "name": "LiFePO4 LV Battery System 48V",
       "images": [
-        "assets/images/products/batteries/LV-48V-1.png",
-        "assets/images/products/batteries/LV-48V-2.png",
-        "assets/images/products/batteries/LV-48V-3.png",
-        "assets/images/products/batteries/LV-48V-4.png",
-        "assets/images/products/batteries/LV-48V-5.png",
-        "assets/images/products/batteries/LV-48V-6.png"
+        "assets/images/products/LifePo4/lifepo4-48V/1.png",
+        "assets/images/products/LifePo4/lifepo4-48V/4.png",
+        "assets/images/products/LifePo4/lifepo4-48V/3.png",
+        "assets/images/products/LifePo4/lifepo4-48V/2.png",
+        "assets/images/products/LifePo4/lifepo4-48V/5.png",
+        "assets/images/products/LifePo4/lifepo4-48V/6.png"
       ],
       "tabs": [
         [
@@ -2011,12 +2011,12 @@
       "id": "lifepo4-lv-battery-51-2v-rack",
       "name": "LiFePO4 LV Battery System 51.2V Rack",
       "images": [
-        "assets/images/products/batteries/LV-51.2V-1.png",
-        "assets/images/products/batteries/LV-51.2V-2.png",
-        "assets/images/products/batteries/LV-51.2V-3.png",
-        "assets/images/products/batteries/LV-51.2V-4.png",
-        "assets/images/products/batteries/LV-51.2V-5.png",
-        "assets/images/products/batteries/LV-51.2V-6.png"
+        "assets/images/products/LifePo4/lifepo4-51.2V/1.png",
+        "assets/images/products/LifePo4/lifepo4-51.2V/2.png",
+        "assets/images/products/LifePo4/lifepo4-51.2V/3.png",
+        "assets/images/products/LifePo4/lifepo4-51.2V/4.png",
+        "assets/images/products/LifePo4/lifepo4-51.2V/5.png",
+        "assets/images/products/LifePo4/lifepo4-51.2V/6.png"
       ],
       "tabs": [
         [
