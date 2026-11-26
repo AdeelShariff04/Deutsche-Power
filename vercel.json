@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/assets/images/products/ups/:path*",
+      "destination": "/assets/images/products/UPS/:path*"
+    }
+  ]
+}
