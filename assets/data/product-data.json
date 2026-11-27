@@ -71,7 +71,7 @@
           "assets/images/products/UPS/XL-Plus/TechSpec.png"
         ],
         [
-          "assets/images/products/UPS/XL-Plus/PortGuide.png"
+          "assets/images/products/UPS/XL-Plus/PortGuide-blueprint.png"
         ],
         [
           {
@@ -151,7 +151,7 @@
           "assets/images/products/UPS/XL-Sine-Series/TechSpec.png"
         ],
         [
-          "assets/images/products/UPS/XL-Sine-Series/PortGuide.png"
+          "assets/images/products/UPS/XL-Sine-Series/PortGuide-blueprint.png"
         ],
         [
           {
@@ -161,7 +161,7 @@
           }
         ]
       ],
-      "video": "assets/product-videos/Pure-Sine-Sine.mp4"
+      "video": "assets/product-videos/Pure-Sine-Wave.mp4"
     },
     {
       "id": "elentra-series-lifepo4",
@@ -231,7 +231,7 @@
           "assets/images/products/UPS/Elentra-Series-Green-Mode/TechSpec.png"
         ],
         [
-          "assets/images/products/UPS/Elentra-Series-Green-Mode/PortGuide.png"
+          "assets/images/products/UPS/Elentra-Series-Green-Mode/PortGuide-blueprint.png"
         ],
         [
           {
@@ -307,8 +307,12 @@
             "name": "Comprehensive Protection Suite"
           }
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/PortGuide-blueprint.png"
+        ],
         [
           {
             "file": "assets/product-documents/ES-IT-1.1.pdf",
@@ -387,8 +391,12 @@
             "name": "Multi Layered Protection"
           }
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/Elektra-Series-3.1/500KVA/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Elektra-Series-3.1/IT-Grade/PortGuide-blueprint.png"
+        ],
         []
       ],
       "video": "assets/product-videos/IT-Grade-UPS.mp4"
@@ -457,8 +465,12 @@
             "name": "Advance Thermal Resilience"
           }
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/Elektra-Series-3.3/500KVA/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Elektra-Series-3.3/500KVA/PortGuide-blueprint.png"
+        ],
         []
       ],
       "video": "assets/product-videos/IT-Grade-UPS.mp4"
@@ -527,8 +539,12 @@
             "name": "Compact Tower Design"
           }
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/Elektra-Series-One/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Elektra-Series-One/PortGuide-blueprint.png"
+        ],
         [
           {
             "file": "assets/product-documents/Elektra-One.pdf",
@@ -603,8 +619,12 @@
             "name": "Multi-Port Communication"
           }
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/Elektra-Series-3.3/200KVA/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Elektra-Series-3.3/200KVA/PortGuide-blueprint.png"
+        ],
         [
           {
             "file": "assets/product-documents/ES-200KV-3.3.pdf",
@@ -675,7 +695,9 @@
             "name": "Feature 10"
           }
         ],
-        [],
+        [
+          "assets/images/products/UPS/Elektra-Series-1.1/Industrial-Grade/TechSpec.png"
+        ],
         [],
         [
           {
@@ -813,7 +835,9 @@
             "name": "Feature 10"
           }
         ],
-        [],
+        [
+          "assets/images/products/UPS/Elektra-Series-3.3/LF/TechSpec.png"
+        ],
         [],
         [
           {
@@ -885,11 +909,15 @@
             "name": "Feature 10"
           }
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/Modular-fuhrer/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Modular-fuhrer/PortGuide-blueprint.png"
+        ],
         [
           {
-            "file": "assets/product-documents/ESHS-Moduler.pdf",
+            "file": "assets/product-documents/ESHS-Modular.pdf",
             "type": "Guide",
             "name": "TECHNICAL SPECIFICATIONS"
           }
@@ -957,8 +985,12 @@
             "name": "LiFePO4 Battery Support"
           }
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/Elentra-SC-Series/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Elentra-SC-Series/PortGuide-blueprint.png"
+        ],
         [
           {
             "file": "assets/product-documents/Elentra-SC-Series.pdf",
@@ -1029,8 +1061,12 @@
             "name": "Generator Compatibility"
           }
         ],
-        [],
-        [],
+        [
+          "assets/images/products/UPS/Enclosure-UPS/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Enclosure-UPS/PortGuide-blueprint.png"
+        ],
         [
           {
             "file": "assets/product-documents/ES-Outdoor.pdf",
@@ -1635,7 +1671,7 @@
             "name": "Comprehensive Safety Protections"
           }
         ],
-        [],
+        ["assets/images/products/LifePo4/lifepo4-highvolt/TechSpec-96V.png"],
         [],
         [
           {
@@ -1707,7 +1743,7 @@
             "name": "Comprehensive Safety Protections"
           }
         ],
-        [],
+        ["assets/images/products/LifePo4/lifepo4-highvolt/TechSpec-96V.png"],
         [],
         [
           {
@@ -1779,7 +1815,7 @@
             "name": "Comprehensive Safety Protections"
           }
         ],
-        [],
+        ["assets/images/products/LifePo4/lifepo4-highvolt/TechSpec-384V.png"],
         [],
         [
           {
@@ -1851,7 +1887,7 @@
             "name": "Comprehensive Safety Protections"
           }
         ],
-        [],
+        ["assets/images/products/LifePo4/lifepo4-12V/TechSpec.png"],
         [],
         [
           {
@@ -1923,7 +1959,7 @@
             "name": "Comprehensive Safety Protections"
           }
         ],
-        [],
+        ["assets/images/products/LifePo4/lifepo4-24V/TechSpec.png"],
         [],
         [
           {
@@ -1995,7 +2031,7 @@
             "name": "Solar Telecom Backup"
           }
         ],
-        [],
+        ["assets/images/products/LifePo4/lifepo4-48V/TechSpec.png"],
         [],
         [
           {
@@ -2067,7 +2103,7 @@
             "name": "Solar Telecom Backup"
           }
         ],
-        [],
+        ["assets/images/products/LifePo4/lifepo4-51.2V/TechSpec.png"],
         [],
         [
           {
