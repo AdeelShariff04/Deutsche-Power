@@ -23,8 +23,20 @@
           "subcategory": "Line Interactive - Sine Wave"
         },
         {
-          "id": "elektra-series-1-1-it",
-          "name": "Elektra Series 1/1",
+          "id": "elektra-series-1-1-tower-it",
+          "name": "Elektra Series 1/1 Tower",
+          "image": "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/Cover.png",
+          "subcategory": "IT Grade UPS"
+        },
+        {
+          "id": "elektra-series-1-1-rt-it",
+          "name": "Elektra Series 1/1 RT",
+          "image": "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/Cover.png",
+          "subcategory": "IT Grade UPS"
+        },
+        {
+          "id": "elektra-series-1-1-li-it",
+          "name": "Elektra Series 1/1 LI",
           "image": "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/Cover.png",
           "subcategory": "IT Grade UPS"
         },
@@ -47,8 +59,8 @@
           "subcategory": "IT Grade UPS"
         },
         {
-          "id": "elektra-series-3-3-it-200kva",
-          "name": "Elektra Series 3/3",
+          "id": "elektra-series-SMFP-it",
+          "name": "Elektra Series SMFP",
           "image": "assets/images/products/UPS/Elektra-Series-3.3/200KVA/Cover (1).png",
           "subcategory": "IT Grade UPS"
         },
@@ -204,43 +216,43 @@
       "products": [
         {
           "id": "lifepo4-lv-battery-12v",
-          "name": "LiFePO4 LV 12V",
+          "name": "LV 12V",
           "image": "assets/images/products/LifePo4/lifepo4-12V/Cover.png",
           "subcategory": "Low Voltage"
         },
         {
           "id": "lifepo4-lv-battery-24v",
-          "name": "LiFePO4 LV 24V",
+          "name": "LV 24V",
           "image": "assets/images/products/LifePo4/lifepo4-24V/Cover.png",
           "subcategory": "Low Voltage"
         },
         {
           "id": "lifepo4-lv-battery-48v",
-          "name": "LiFePO4 LV 48V",
+          "name": "LV 48V",
           "image": "assets/images/products/LifePo4/lifepo4-48V/Cover.png",
           "subcategory": "Low Voltage"
         },
         {
           "id": "lifepo4-lv-battery-51-2v-rack",
-          "name": "LiFePO4 LV 51.2V",
+          "name": "LV 51.2V",
           "image": "assets/images/products/LifePo4/lifepo4-51.2V/Cover.png",
           "subcategory": "Low Voltage"
         },
         {
-          "id": "lifepo4-hv-battery-96v",
-          "name": "LiFePO4 HV 96V",
-          "image": "assets/images/products/LifePo4/lifepo4-highvolt/Cover.png",
-          "subcategory": "High Voltage"
-        },
-        {
-          "id": "lifepo4-hv-battery-192v-240v",
-          "name": "LiFePO4 HV 192V",
+          "id": "lifepo4-hv-battery-96v-240v",
+          "name": "HV 96V-240v",
           "image": "assets/images/products/LifePo4/lifepo4-highvolt/Cover.png",
           "subcategory": "High Voltage"
         },
         {
           "id": "lifepo4-hv-battery-384v-480v",
-          "name": "LiFePO4 HV 384V",
+          "name": "HV 384V-480v",
+          "image": "assets/images/products/LifePo4/lifepo4-highvolt/Cover.png",
+          "subcategory": "High Voltage"
+        },
+        {
+          "id": "lifepo4-hv-battery-500v-800v",
+          "name": "LiFePO4 HV 500V-800V",
           "image": "assets/images/products/LifePo4/lifepo4-highvolt/Cover.png",
           "subcategory": "High Voltage"
         }

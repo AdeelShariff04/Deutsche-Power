@@ -244,8 +244,168 @@
       "video": "assets/product-videos/Pure-Sine-Wave.mp4"
     },
     {
-      "id": "elektra-series-1-1-it",
-      "name": "Elektra Series 1/1",
+      "id": "elektra-series-1-1-tower-it",
+      "name": "Elektra Series 1/1 Tower",
+      "images": [
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/1.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/2.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/3.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/4.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/5.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/6.png"
+      ],
+      "tabs": [
+        [
+          "The Deutsche Power Elektra Series 1/1 consists of online double-conversion uninterruptible power supplies (UPS) engineered by DP Electronics primarily for mission-critical single-phase IT systems and server rooms.",
+          "Built with true double-conversion topology and precise Digital Signal Processor (DSP) control, these systems deliver zero transfer time and seamless power continuity against severe grid disturbances.",
+          "The series spans a 1–20 kVA capacity range and provides broad generator compatibility to ensure uninterrupted operation during extended utility outages.",
+          "It includes valuable operational features such as optional network connectivity cards, comprehensive international safety compliance (IEC62040-1, EN62040, CE), and advanced electronic protections against surges and overloads."
+        ],
+        [
+          {
+            "icon": "assets/icons/19.svg",
+            "name": "Double Conversion Topology"
+          },
+          {
+            "icon": "assets/icons/20.svg",
+            "name": "Digital Signal Processor Control"
+          },
+          {
+            "icon": "assets/icons/22.svg",
+            "name": "Active Power Factor Corrections"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Wide Capacity Range"
+          },
+          {
+            "icon": "assets/icons/12.svg",
+            "name": "Broad Input Voltage Window"
+          },
+          {
+            "icon": "assets/icons/11.svg",
+            "name": "High Frequency Eco Mode"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Intelligent Battery Management"
+          },
+          {
+            "icon": "assets/icons/23.svg",
+            "name": "Rich Communication Slots"
+          },
+          {
+            "icon": "assets/icons/21.svg",
+            "name": "Safety & EMC Compliance"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Cold Start Functionality"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Comprehensive Protection Suite"
+          }
+        ],
+        [
+          "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/PortGuide-blueprint.png"
+        ],
+        [
+          {
+            "file": "assets/product-documents/ES-IT-1.1.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
+        ]
+      ],
+      "video": "assets/product-videos/IT-Grade-UPS.mp4"
+    },
+    {
+      "id": "elektra-series-1-1-rt-it",
+      "name": "Elektra Series 1/1 RT",
+      "images": [
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/1.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/2.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/3.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/4.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/5.png",
+        "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/6.png"
+      ],
+      "tabs": [
+        [
+          "The Deutsche Power Elektra Series 1/1 consists of online double-conversion uninterruptible power supplies (UPS) engineered by DP Electronics primarily for mission-critical single-phase IT systems and server rooms.",
+          "Built with true double-conversion topology and precise Digital Signal Processor (DSP) control, these systems deliver zero transfer time and seamless power continuity against severe grid disturbances.",
+          "The series spans a 1–20 kVA capacity range and provides broad generator compatibility to ensure uninterrupted operation during extended utility outages.",
+          "It includes valuable operational features such as optional network connectivity cards, comprehensive international safety compliance (IEC62040-1, EN62040, CE), and advanced electronic protections against surges and overloads."
+        ],
+        [
+          {
+            "icon": "assets/icons/19.svg",
+            "name": "Double Conversion Topology"
+          },
+          {
+            "icon": "assets/icons/20.svg",
+            "name": "Digital Signal Processor Control"
+          },
+          {
+            "icon": "assets/icons/22.svg",
+            "name": "Active Power Factor Corrections"
+          },
+          {
+            "icon": "assets/icons/3.svg",
+            "name": "Wide Capacity Range"
+          },
+          {
+            "icon": "assets/icons/12.svg",
+            "name": "Broad Input Voltage Window"
+          },
+          {
+            "icon": "assets/icons/11.svg",
+            "name": "High Frequency Eco Mode"
+          },
+          {
+            "icon": "assets/icons/7.svg",
+            "name": "Intelligent Battery Management"
+          },
+          {
+            "icon": "assets/icons/23.svg",
+            "name": "Rich Communication Slots"
+          },
+          {
+            "icon": "assets/icons/21.svg",
+            "name": "Safety & EMC Compliance"
+          },
+          {
+            "icon": "assets/icons/9.svg",
+            "name": "Cold Start Functionality"
+          },
+          {
+            "icon": "assets/icons/10.svg",
+            "name": "Comprehensive Protection Suite"
+          }
+        ],
+        [
+          "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/TechSpec.png"
+        ],
+        [
+          "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/PortGuide-blueprint.png"
+        ],
+        [
+          {
+            "file": "assets/product-documents/ES-IT-1.1.pdf",
+            "type": "Guide",
+            "name": "TECHNICAL SPECIFICATIONS"
+          }
+        ]
+      ],
+      "video": "assets/product-videos/IT-Grade-UPS.mp4"
+    },
+    {
+      "id": "elektra-series-1-1-li-it",
+      "name": "Elektra Series 1/1 LI",
       "images": [
         "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/1.png",
         "assets/images/products/UPS/Elektra-Series-1.1/IT-Grade/2.png",
@@ -556,8 +716,8 @@
       "video": "assets/product-videos/IT-Grade-UPS.mp4"
     },
     {
-      "id": "elektra-series-3-3-it-200kva",
-      "name": "Elektra Series 3/3",
+      "id": "elektra-series-SMFP-it",
+      "name": "Elektra Series Small Footprint",
       "images": [
         "assets/images/products/UPS/Elektra-Series-3.3/200KVA/1.png",
         "assets/images/products/UPS/Elektra-Series-3.3/200KVA/2.png",
@@ -1612,8 +1772,8 @@
       "video": "assets/product-videos/XL-Sine.mp4"
     },
     {
-      "id": "lifepo4-hv-battery-96v",
-      "name": "LiFePO4 HV Battery System 96V",
+      "id": "lifepo4-hv-battery-96v-240v",
+      "name": "LiFePO4 HV Battery System 96V~240V",
       "images": [
         "assets/images/products/LifePo4/lifepo4-highvolt/1.png",
         "assets/images/products/LifePo4/lifepo4-highvolt/2.png",
@@ -1684,8 +1844,8 @@
       "video": "assets/product-videos/LifePO4-HV.mp4"
     },
     {
-      "id": "lifepo4-hv-battery-192v-240v",
-      "name": "LiFePO4 HV Battery System 192V~240V",
+      "id": "lifepo4-hv-battery-384v-480v",
+      "name": "LiFePO4 HV Battery System 384V~480V",
       "images": [
         "assets/images/products/LifePo4/lifepo4-highvolt/1.png",
         "assets/images/products/LifePo4/lifepo4-highvolt/2.png",
@@ -1756,8 +1916,8 @@
       "video": "assets/product-videos/LifePO4-HV.mp4"
     },
     {
-      "id": "lifepo4-hv-battery-384v-480v",
-      "name": "LiFePO4 HV Battery System 384V~480V",
+      "id": "lifepo4-hv-battery-500v-800v",
+      "name": "LiFePO4 HV Battery System 500V~800V",
       "images": [
         "assets/images/products/LifePo4/lifepo4-highvolt/1.png",
         "assets/images/products/LifePo4/lifepo4-highvolt/2.png",
