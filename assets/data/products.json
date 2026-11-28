@@ -247,13 +247,13 @@
         {
           "id": "lifepo4-hv-battery-384v-480v",
           "name": "HV 384V-480v",
-          "image": "assets/images/products/LifePo4/lifepo4-highvolt/Cover.png",
+          "image": "assets/images/products/LifePo4/lifepo4-highvolt/Cover-384.png",
           "subcategory": "High Voltage"
         },
         {
           "id": "lifepo4-hv-battery-500v-800v",
           "name": "LiFePO4 HV 500V-800V",
-          "image": "assets/images/products/LifePo4/lifepo4-highvolt/Cover.png",
+          "image": "assets/images/products/LifePo4/lifepo4-highvolt/Cover-500.png",
           "subcategory": "High Voltage"
         }
       ]
